@@ -1,0 +1,32 @@
+body{
+	background-image: url(images/1.jpg);
+}
+.start {
+	transform: rotate(0deg);
+	transition: 0.6s transform;
+
+	color:#ffffff;
+	padding:15px;
+	margin: 300px;
+	background-color:#ff0000;
+	border: 2px solid #000000;
+	font-size:20px;
+	border-radius:100px;
+	width: 250px;
+	text-align: center;
+	font-weight: 800;
+}
+
+.start:hover {
+	transform: scale(2.0);
+	background-color: aqua;
+}
+.support{
+	color:red;
+	text-align: center;
+	font-weight: 800;
+	background-color:aqua;
+	border: 2px solid #000000;
+	font-size:20px;
+	border-radius:100px;
+}
