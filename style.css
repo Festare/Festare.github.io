@@ -1,5 +1,6 @@
 body{
-	background-image: url(images/1.jpg);
+	background:url(images/1.jpg) no-repeat center center fixed;
+background-size: cover;
 }
 .start {
 	transform: rotate(0deg);
