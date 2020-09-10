@@ -1,5 +1,5 @@
 body{
-	background:url(images/1.jpg) no-repeat #000000 center;
+	background:url(images/1.jpg) no-repeat #000000 center center fixed;
 background-size: cover;
 }
 .start {
