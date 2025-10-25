@@ -9,6 +9,10 @@
             "address": "https://ani.sidestore.io"
         },
         {
+            "name": "MyServers",
+            "address": "https://anisette-v3-server-ujyc.onrender.com/"
+        },
+        {
             "name": "SideStore (.app)",
             "address": "https://ani.sidestore.app"
         },
