@@ -3,3 +3,4 @@ vless://netherlands@mt.whitenet.online:443?type=tcp&security=reality&pbk=6nLnaNJ
 vless://germany@92.51.36.98:443?type=tcp&security=reality&pbk=QLv-WCK7-qRPbxhbeq97ZIkf2_GtY1DO-01JU8HFBCo&fp=chrome&sni=vk.com&sid=ab1cd2&spx=%2F&flow=xtls-rprx-vision#Whitenet%20Germany
 vless://russia@russia.whitenet.online:443?type=tcp&security=reality&pbk=xdNyDss0OLTu3z6kcdg8X2wfTOLtmDTobE2on3vKe34&fp=chrome&sni=vk.com&sid=ab1cd2&spx=%2F&flow=xtls-rprx-vision#Whitenet%20Russia
 vless://00b0d4de-b126-4511-87c1-8f1feb462fa6@171.22.114.248:27394?security=reality&encryption=none&pbk=TZO1nvxk-x90cL3v9ixowQNC56sQ8k76_KaGU6jczks&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=yahoo.com&sid=c2fa#%40Vip_Security%20join%20us%20-%20396
+vless://yandex13@yandex.whitenet.site:443?type=tcp&security=reality&pbk=MZHAmZa_8Jx-kOfPKhUWwSRPv8lR0Bk88gEIwgm-qE8&fp=chrome&sni=eh.vk.com&sid=ab1cd2&spx=%2F&flow=xtls-rprx-vision#Whitenet%20Russia%20T2
