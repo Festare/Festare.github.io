@@ -2,6 +2,7 @@ vless://netherlands@mt.whitenet.online:443?type=tcp&security=reality&pbk=6nLnaNJ
 vless://germany@92.51.36.98:443?type=tcp&security=reality&pbk=QLv-WCK7-qRPbxhbeq97ZIkf2_GtY1DO-01JU8HFBCo&fp=chrome&sni=vk.com&sid=ab1cd2&spx=%2F&flow=xtls-rprx-vision#Whitenet%20Germany
 vless://russia@russia.whitenet.online:443?type=tcp&security=reality&pbk=xdNyDss0OLTu3z6kcdg8X2wfTOLtmDTobE2on3vKe34&fp=chrome&sni=vk.com&sid=ab1cd2&spx=%2F&flow=xtls-rprx-vision#Whitenet%20Russia
 vless://yandex13@yandex.whitenet.site:443?type=tcp&security=reality&pbk=MZHAmZa_8Jx-kOfPKhUWwSRPv8lR0Bk88gEIwgm-qE8&fp=chrome&sni=eh.vk.com&sid=ab1cd2&spx=%2F&flow=xtls-rprx-vision#Whitenet%20Russia%20T2
+vless://mega1346@5.129.249.134:443?security=reality&sni=ir.ozone.ru&fp=chrome&pbk=F14RpPKCKo_qPcW7EFVu1M18JsAT8c04O08cIi0Ghg4&sid=ab1cd2&type=tcp&flow=xtls-rprx-vision&encryption=none#Whitenet%20Russia%20Megafon
 vless://d8d05386-e381-40a4-bb63-715c208b3ed3@109.120.132.142:40617?security=&encryption=none&headerType=none&type=tcp#%40IRAN_V2RAY1
 vless://00b0d4de-b126-4511-87c1-8f1feb462fa6@171.22.114.248:27394?security=reality&encryption=none&pbk=TZO1nvxk-x90cL3v9ixowQNC56sQ8k76_KaGU6jczks&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=yahoo.com&sid=c2fa#%40Vip_Security%20join%20us%20-%20396
 vless://e42e39e8-f992-403c-9bd5-939fc51a1c6c@151.236.93.190:443?security=reality&encryption=none&pbk=GWe441MUGQCFOUT70xW3XFc3Fc1wN2vtZPGqq4OzAUg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=sun6-21.userapi.com&sid=a7f2354b6a66e313#%F0%9F%9A%80%20OverSecure%20VPN
