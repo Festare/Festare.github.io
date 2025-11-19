@@ -18,7 +18,7 @@ vless://cf97c9a9-441e-43e1-9bd2-f66a198cd87b@87.120.84.221:443?security=reality&
 vless://5ec3a039-ea63-4bf9-a848-a65c9bfa66f5@104.26.6.89:443?type=ws&host=gb-021.shenzogmbh.com&path=/api/v1&security=tls&sni=gb-021.shenzogmbh.com&fp=chrome&allowInsecure=0#🇺🇸 United States |2
 vless://0aa97bf2-06d5-4450-9202-ef3fad029f0c@ca.snowfall.top:443?security=reality&encryption=none&pbk=dhTXgiFZvZPJSNc33EqNvn_CRor_RKeiMxSkHsEdDic&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=ca.snowfall.top&sid=0441f3e34348cb45#🇨🇦 Канада |1
 vless://f656857f-a7be-4eaa-9027-bf958ba3aa8e@45.136.5.90:43390?encryption=none&security=tls&sni=dl.frnsoft.com&alpn=h2%2Chttp%2F1.1&fp=chrome&allowInsecure=1&type=tcp&headerType=none#🇨🇦 Канада |2
-vless://1c9054be-74c1-472e-948a-f915de932c8e@91.99.191.47:80?encryption=none&headerType=none&type=tcp#🇩🇪 Германия |1
+vless://199a78a5-b4d4-4064-a0db-bb37c5839134@212.192.31.146:443?type=ws&encryption=none&path=/panika#🇩🇪 Германия |2
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMXZOQThQSEdrTksyVUFxMG8zUjhZ@81.19.141.45:443#🇩🇪 Германия |2
 vless://d8d05386-e381-40a4-bb63-715c208b3ed3@109.120.132.142:40617?security=&encryption=none&headerType=none&type=tcp#🇮🇷 Иран |1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTRGFGSVNyM0dmbTZZa0JTU3JGSUV3d1dqRUVVN1hibw@95.164.10.228:443#🇩🇰 Дания |1
@@ -31,8 +31,8 @@ ss://YWVzLTI1Ni1jZmI6ZGFGWWFncURkQmRBNlZUWA==@217.30.10.70:9073#🇵🇱 Пол�
 vless://a19fd311-c343-4b54-9ca3-fe6dcd84c0fc@38.47.176.134:59967?type=tcp&encryption=none#🇸🇬 Сингапур |1
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.240:443#🇯🇵 Япония |1
 ss://YWVzLTEyOC1nY206MTAwODY@153.121.51.214:10087#🇯🇵 Япония |2
-trojan://2274c52572e721086f8bd8f88984643c@153.121.65.107:127?sni=www.nintendogames.net&path=/#🇯🇵 Япония |3
-vless://199a78a5-b4d4-4064-a0db-bb37c5839134@212.192.31.146:443?type=ws&encryption=none&path=/panika#🇯🇵 Япония |4
+vless://fa93e643-ed01-40c4-b82b-f38e9c2a841c@170.114.45.67:2096?path=/&security=tls&encryption=none&host=BAt.zuLAir.siTe.&fp=chrome&type=ws&sni=BAt.zuLAir.siTe.#🇯🇵 Япония |3
+vless://3dcaac08-e7d7-4828-b229-d886d8a5661a@81.28.12.12:443?path=/nlxs5P9vmukQHnOn/OTEuOTkuMTA5LjIwNw==?ed=2560&security=tls&alpn=h3,h2,http/1.1&encryption=none&host=arashhanoozgohmikhore.com&fp=random&type=ws&sni=toyota38.com#🇯🇵 Япония |4
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.156:443?path=%2F&security=tls&encryption=none&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=wwW.oPEnsIGnAL.cOM.naynay09.Dynv6.nET#🇭🇰 Гонконг |1
 vless://Warpi-Free-Vpn-In-GooglePlay@144.124.238.163:443?encryption=none&headerType=none&type=tcp#🇭🇰 Гонконг |2
 vmess://eyJob3N0IjoiMWEyZDUxNGItMzdjZi00OTlmLThkMDgtZDAxN2E5MmFiNWJiLmFzb3VsLWF2YS50b3AiLCJpZCI6IjVmNzI2ZmUzLWQ4MmUtNGRhNS1hNzExLThhZjBjYmIyYjY4MiIsImFsbG93SW5zZWN1cmUiOjAsInBzIjoi576O5Zu9IENsb3VkRmxhcmXoioLngrkiLCJ0bHMiOiJ0bHMiLCJhZGQiOiIxYTJkNTE0Yi0zN2NmLTQ5OWYtOGQwOC1kMDE3YTkyYWI1YmIuYXNvdWwtYXZhLnRvcCIsInBhdGgiOiJcL2F6dW1hc2UucmVuIiwibmV0Ijoid3MiLCJzY3kiOiJhdXRvIiwidiI6IjIiLCJhaWQiOiIwIiwicG9ydCI6IjQ0MyIsInNuaSI6IjFhMmQ1MTRiLTM3Y2YtNDk5Zi04ZDA4LWQwMTdhOTJhYjViYi5hc291bC1hdmEudG9wIiwiZnAiOiJjaHJvbWUifQ==
