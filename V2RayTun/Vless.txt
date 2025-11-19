@@ -17,7 +17,9 @@ vless://id7766933065@45.12.143.61:443?security=reality&encryption=none&pbk=mY0JL
 vless://cf97c9a9-441e-43e1-9bd2-f66a198cd87b@87.120.84.221:443?security=reality&encryption=none&pbk=QV11yL64SKc5wYLqoUU2VsYIrz81CMEDUmxxB5mSbGI&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=kinopoisk.ru&sid=3d6a4c2faa09b056#🇺🇸 United States |1
 vless://5ec3a039-ea63-4bf9-a848-a65c9bfa66f5@104.26.6.89:443?type=ws&host=gb-021.shenzogmbh.com&path=/api/v1&security=tls&sni=gb-021.shenzogmbh.com&fp=chrome&allowInsecure=0#🇺🇸 United States |2
 vless://0aa97bf2-06d5-4450-9202-ef3fad029f0c@ca.snowfall.top:443?security=reality&encryption=none&pbk=dhTXgiFZvZPJSNc33EqNvn_CRor_RKeiMxSkHsEdDic&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=ca.snowfall.top&sid=0441f3e34348cb45#🇨🇦 Канада |1
+vless://1c9054be-74c1-472e-948a-f915de932c8e@91.99.191.47:80?encryption=none&headerType=none&type=tcp#🇩🇪 Германия |1
 vless://d8d05386-e381-40a4-bb63-715c208b3ed3@109.120.132.142:40617?security=&encryption=none&headerType=none&type=tcp#🇮🇷 Иран |1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTRGFGSVNyM0dmbTZZa0JTU3JGSUV3d1dqRUVVN1hibw@95.164.10.228:443#🇩🇰 Дания |1
 vless://5ec3a039-ea63-4bf9-a848-a65c9bfa66f5@77.37.33.39:443?type=ws&host=gb-8981.shenzogmbh.com&path=/api/v1&security=tls&sni=gb-8981.shenzogmbh.com&fp=chrome&allowInsecure=0#🇨🇾 Cyprus |1
 vless://0aa97bf2-06d5-4450-9202-ef3fad029f0c@cy.snowfalls.top:443?security=reality&encryption=none&pbk=dhTXgiFZvZPJSNc33EqNvn_CRor_RKeiMxSkHsEdDic&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=cy.snowfalls.top&sid=0441f3e34348cb45#🇨🇾 Cyprus |2
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjeVYySHFWc2prM2NFTXZkTjlpS3RO@77.83.246.74:443#🇵🇱 Польша |1
