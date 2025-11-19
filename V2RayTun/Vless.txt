@@ -25,5 +25,6 @@ ss://YWVzLTI1Ni1jZmI6VVdaUWVMUldua3Fna3NlcQ@217.30.10.18:9032#🇵🇱 Поль�
 vless://a19fd311-c343-4b54-9ca3-fe6dcd84c0fc@38.47.176.134:59967?type=tcp&encryption=none#🇸🇬 Сингапур |1
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.240:443#🇯🇵 Япония |1
 ss://YWVzLTEyOC1nY206MTAwODY@153.121.51.214:10087#🇯🇵 Япония |2
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHOEs2c3MwQXZldVdsV3pXODBYNU5M@45.95.232.236:4248#[🇨🇭]
 trojan://BxceQaOe@203.198.122.97:443?type=tcp&security=tls&sni=t.me/ripaojiedian&fp=chrome&allowInsecure=1#🇭🇰 %E9%A6%99%E6%B8%AF%20%E7%94%B5%E8%AE%AF%E7%9B%88%E7%A7%91%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8
 vmess://eyJob3N0IjoiMWEyZDUxNGItMzdjZi00OTlmLThkMDgtZDAxN2E5MmFiNWJiLmFzb3VsLWF2YS50b3AiLCJpZCI6IjVmNzI2ZmUzLWQ4MmUtNGRhNS1hNzExLThhZjBjYmIyYjY4MiIsImFsbG93SW5zZWN1cmUiOjAsInBzIjoi576O5Zu9IENsb3VkRmxhcmXoioLngrkiLCJ0bHMiOiJ0bHMiLCJhZGQiOiIxYTJkNTE0Yi0zN2NmLTQ5OWYtOGQwOC1kMDE3YTkyYWI1YmIuYXNvdWwtYXZhLnRvcCIsInBhdGgiOiJcL2F6dW1hc2UucmVuIiwibmV0Ijoid3MiLCJzY3kiOiJhdXRvIiwidiI6IjIiLCJhaWQiOiIwIiwicG9ydCI6IjQ0MyIsInNuaSI6IjFhMmQ1MTRiLTM3Y2YtNDk5Zi04ZDA4LWQwMTdhOTJhYjViYi5hc291bC1hdmEudG9wIiwiZnAiOiJjaHJvbWUifQ==
