@@ -9,6 +9,7 @@ vless://5ec3a039-ea63-4bf9-a848-a65c9bfa66f5@ipw.gfdv54cvghhgfhgj-njhgj64.info:4
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@193.135.174.135:990#🇺🇦 Украина |2
 vless://0aa97bf2-06d5-4450-9202-ef3fad029f0c@by.snowfall.top:443?security=reality&encryption=none&pbk=dhTXgiFZvZPJSNc33EqNvn_CRor_RKeiMxSkHsEdDic&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=by.snowfall.top&sid=859a8c7482df7efa#🇧🇾 Беларусь |1
 vless://481c5606-b586-44d7-bc2e-d8ef30d67f62@176.120.72.63:38339?type=tcp&headerType=none&security=reality&fp=chrome&sni=dl.google.com&pbk=o0MFuznHh_Wztg0FTAMhFXm3hjAqOJAJIIVNn-_A9WA&sid=e16883e511#🇰🇿 Казахстан |1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@193.135.174.135:990#🇸🇪 Антартика |1
 vless://id7766933065@185.121.232.245:443?security=reality&encryption=none&pbk=Zcn37ICU8CGqJZiUROPMDDhujlA32SqapcAX8OonTys&headerType=none&fp=chrome&spx=%2F8xjfTjIHLgjbhjC&type=tcp&flow=xtls-rprx-vision&sni=eh.vk.com&sid=c754d2#🇳🇱 Нидерланды |1🔝
 vless://Warpi-Free-Vpn-In-GooglePlay@144.124.238.163:443?encryption=none&headerType=none&type=tcp#🇳🇱 Нидерланды |2
 vless://Warpi-Free-Vpn-In-GooglePlay@95.217.233.18:443?security=none&encryption=none&headerType=none&type=tcp&note=@freeOnlineVPN#🇫🇮 Финляндия |1
