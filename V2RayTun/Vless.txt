@@ -1,10 +1,10 @@
 vless://4feab863-0b04-444d-87e5-4375adca92cf@37.18.14.103:443?type=tcp&headerType=none&security=tls&sni=goya.rutube.ru&fp=chrome&allowInsecure=1#🇷🇺 Moscow-rutube.ru 
 vless://c94728f2-8be8-4c55-9477-8b18eec69a60@217.16.25.160:443?security=reality&encryption=none&pbk=QHkXBS2ENHV0khgY9VBYi8_9bpfqnUYDcfQN4cW5Qg0&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=sun6-21.userapi.com&sid=4326#🇱🇻 📶Анти заглушка МТС
-vless://russia@russia.whitenet.online:443?type=tcp&security=reality&pbk=xdNyDss0OLTu3z6kcdg8X2wfTOLtmDTobE2on3vKe34&fp=chrome&sni=vk.com&sid=ab1cd2&spx=%2F&flow=xtls-rprx-vision#🇷🇺 Whitenet Russia
 vless://yandex13@yandex.whitenet.site:443?type=tcp&security=reality&pbk=MZHAmZa_8Jx-kOfPKhUWwSRPv8lR0Bk88gEIwgm-qE8&fp=chrome&sni=eh.vk.com&sid=ab1cd2&spx=%2F&flow=xtls-rprx-vision#🇷🇺 Whitenet T2 |1
 vless://cloud1163@cloud.whitenet.online:443?security=reality&encryption=none&pbk=uF1AdCusRp-alIOTD8ULbc4rmBYHlFn5FXqY3ymWAlc&headerType=none&fp=chrome&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=eh.vk.com&sid=ab1cd2#🇷🇺 Whitenet T2 |2
-vless://mega1346@5.129.249.134:443?security=reality&sni=ir.ozone.ru&fp=chrome&pbk=F14RpPKCKo_qPcW7EFVu1M18JsAT8c04O08cIi0Ghg4&sid=ab1cd2&type=tcp&flow=xtls-rprx-vision&encryption=none#🇷🇺 Whitenet%20Russia%20Megafon
+vless://mega1346@5.129.249.134:443?security=reality&sni=ir.ozone.ru&fp=chrome&pbk=F14RpPKCKo_qPcW7EFVu1M18JsAT8c04O08cIi0Ghg4&sid=ab1cd2&type=tcp&flow=xtls-rprx-vision&encryption=none#🇷🇺 Whitenet Megafon |1
 vless://00f02ab2-6f2d-449f-a089-d182a2fac59a@151.236.93.102:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=io.ozone.ru&fp=chrome&security=reality&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323&packetEncoding=xudp#🇷🇺 Россия |1
+vless://russia@russia.whitenet.online:443?type=tcp&security=reality&pbk=xdNyDss0OLTu3z6kcdg8X2wfTOLtmDTobE2on3vKe34&fp=chrome&sni=vk.com&sid=ab1cd2&spx=%2F&flow=xtls-rprx-vision#🇷🇺 Россия |2
 vless://5ec3a039-ea63-4bf9-a848-a65c9bfa66f5@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?&security=tls&sni=gb-42123.shenzogmbh.com&type=ws&headerType=none&host=gb-42123.shenzogmbh.com&path=%2Fapi%2Fv1#🇺🇦 Украина |1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@193.135.174.135:990#🇺🇦 Украина |2
 vless://0aa97bf2-06d5-4450-9202-ef3fad029f0c@by.snowfall.top:443?security=reality&encryption=none&pbk=dhTXgiFZvZPJSNc33EqNvn_CRor_RKeiMxSkHsEdDic&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=by.snowfall.top&sid=859a8c7482df7efa#🇧🇾 Беларусь |1
@@ -30,10 +30,8 @@ vless://0aa97bf2-06d5-4450-9202-ef3fad029f0c@cy.snowfalls.top:443?security=reali
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjeVYySHFWc2prM2NFTXZkTjlpS3RO@77.83.246.74:443#🇵🇱 Польша |1
 ss://YWVzLTI1Ni1jZmI6ZGFGWWFncURkQmRBNlZUWA==@217.30.10.70:9073#🇵🇱 Польша |2
 vless://a19fd311-c343-4b54-9ca3-fe6dcd84c0fc@38.47.176.134:59967?type=tcp&encryption=none#🇸🇬 Сингапур |1
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.240:443#🇯🇵 Япония |1
-ss://YWVzLTEyOC1nY206MTAwODY@153.121.51.214:10087#🇯🇵 Япония |2
-trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@202.181.103.246:1334?type=tcp&headerType=none&security=tls&sni=www.nintendogames.net&fp=chrome&allowInsecure=1#🇯🇵 Япония |3
-trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@160.16.131.243:1334?type=tcp&headerType=none&security=tls&sni=www.nintendogames.net&fp=chrome&allowInsecure=1#🇯🇵 Япония |4
+ss://YWVzLTEyOC1nY206MTAwODY@153.121.51.214:10087#🇯🇵 Япония |1
+trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@160.16.131.243:1334?type=tcp&headerType=none&security=tls&sni=www.nintendogames.net&fp=chrome&allowInsecure=1#🇯🇵 Япония |2
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1NjYyMzY4ZC0xNWY1LTQyODMtODhkYS05MTE2NzY3NDc4YWM=@134.122.174.192:12222#🇭🇰 Гонконг |1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@45.82.252.109:990#🇭🇰 Гонконг |2
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.156:443?path=%2F&security=tls&encryption=none&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=wwW.oPEnsIGnAL.cOM.naynay09.Dynv6.nET#WARP
