@@ -11,8 +11,6 @@ vless://id7766933065@185.121.232.245:443?security=reality&encryption=none&pbk=Zc
 vless://Warpi-Free-Vpn-In-GooglePlay@144.124.238.163:443?encryption=none&headerType=none&type=tcp#🇳🇱 Нидерланды |2
 vless://id7766933065@2.56.173.178:443?security=reality&encryption=none&pbk=8FGAZxlDl8WcDg0GuaAbAWqZ3w12x5KwpaHgG0pVnTA&headerType=none&fp=chrome&spx=%2Fw8Qa5TXJI6pKyI4&type=tcp&flow=xtls-rprx-vision&sni=eh.vk.com&sid=efb4ec70#🇫🇮 Финляндия |1
 vless://c2e196d4-3453-4c6c-bb80-fe372801e1a0@62.60.237.26:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=st.ozone.ru&pbk=lmLFxJO0l6GlHhi3a4I6cKWdQLDo-f8ciODP0xh3EXQ&sid=9d36b8589fa524fd#🇫🇮 Финляндия |2
-vless://79a01b8d-48a7-424a-97d6-d4fa0f1bb2f2@104.18.27.90:2053?path=/J5aLQOY1R9ONWYCM&security=tls&encryption=none&host=port.api-music-fa.com&type=ws&sni=port.api-music-fa.com#🇫🇮 Финляндия |3
-vless://281f347e-5bfa-4293-a1fa-b511efa89707@93.115.240.30:8082?security=none&encryption=none&host=Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&headerType=http&type=tcp#🇫🇮 Финляндия |4
 vless://id7766933065@185.40.4.142:443?security=reality&encryption=none&pbk=HS3ZBNzmMlUxTJIzQdYfS-_WbGJ2mwMINU3A1iwLxw8&headerType=none&fp=random&spx=%2FDF9djrEJQRzuRxy&type=tcp&flow=xtls-rprx-vision&sni=www.vk.com&sid=5a56f9b61609#🇳🇴 Норвегия |1
 vless://0aa97bf2-06d5-4450-9202-ef3fad029f0c@ca.snowfall.top:443?security=reality&encryption=none&pbk=dhTXgiFZvZPJSNc33EqNvn_CRor_RKeiMxSkHsEdDic&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=ca.snowfall.top&sid=0441f3e34348cb45#🇨🇦 Канада |1
 vless://f656857f-a7be-4eaa-9027-bf958ba3aa8e@45.136.5.90:43390?encryption=none&security=tls&sni=dl.frnsoft.com&alpn=h2%2Chttp%2F1.1&fp=chrome&allowInsecure=1&type=tcp&headerType=none#🇹🇷 Турция |1
@@ -29,7 +27,7 @@ ss://YWVzLTI1Ni1jZmI6ZGFGWWFncURkQmRBNlZUWA==@217.30.10.70:9073#🇵🇱 Пол�
 vless://a19fd311-c343-4b54-9ca3-fe6dcd84c0fc@38.47.176.134:59967?type=tcp&encryption=none#🇸🇬 Сингапур |1
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.240:443#🇯🇵 Япония |1
 ss://YWVzLTEyOC1nY206MTAwODY@153.121.51.214:10087#🇯🇵 Япония |2
-vless://fa93e643-ed01-40c4-b82b-f38e9c2a841c@170.114.45.67:2096?path=/&security=tls&encryption=none&host=BAt.zuLAir.siTe.&fp=chrome&type=ws&sni=BAt.zuLAir.siTe.#🇯🇵 Япония |3
-vless://3dcaac08-e7d7-4828-b229-d886d8a5661a@81.28.12.12:443?path=/nlxs5P9vmukQHnOn/OTEuOTkuMTA5LjIwNw==?ed=2560&security=tls&alpn=h3,h2,http/1.1&encryption=none&host=arashhanoozgohmikhore.com&fp=random&type=ws&sni=toyota38.com#🇯🇵 Япония |4
+trojan://dd2f25b4c70689de8bc0f7fa9d6591cb@58.152.110.206:443?allowInsecure=0&sni=www.nintendogames.net#_CN_%E4%B8%AD%E5%9B%BD
+trojan://BxceQaOe@58.152.26.173:443?allowInsecure=1&sni=t.me/ripaojiedian#HK_speednode_0013
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.156:443?path=%2F&security=tls&encryption=none&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=wwW.oPEnsIGnAL.cOM.naynay09.Dynv6.nET#WARP
 vmess://eyJob3N0IjoiMWEyZDUxNGItMzdjZi00OTlmLThkMDgtZDAxN2E5MmFiNWJiLmFzb3VsLWF2YS50b3AiLCJpZCI6IjVmNzI2ZmUzLWQ4MmUtNGRhNS1hNzExLThhZjBjYmIyYjY4MiIsImFsbG93SW5zZWN1cmUiOjAsInBzIjoi576O5Zu9IENsb3VkRmxhcmXoioLngrkiLCJ0bHMiOiJ0bHMiLCJhZGQiOiIxYTJkNTE0Yi0zN2NmLTQ5OWYtOGQwOC1kMDE3YTkyYWI1YmIuYXNvdWwtYXZhLnRvcCIsInBhdGgiOiJcL2F6dW1hc2UucmVuIiwibmV0Ijoid3MiLCJzY3kiOiJhdXRvIiwidiI6IjIiLCJhaWQiOiIwIiwicG9ydCI6IjQ0MyIsInNuaSI6IjFhMmQ1MTRiLTM3Y2YtNDk5Zi04ZDA4LWQwMTdhOTJhYjViYi5hc291bC1hdmEudG9wIiwiZnAiOiJjaHJvbWUifQ==
