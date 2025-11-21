@@ -3,7 +3,7 @@ vless://c94728f2-8be8-4c55-9477-8b18eec69a60@217.16.25.160:443?security=reality&
 vless://yandex13@yandex.whitenet.site:443?type=tcp&security=reality&pbk=MZHAmZa_8Jx-kOfPKhUWwSRPv8lR0Bk88gEIwgm-qE8&fp=chrome&sni=eh.vk.com&sid=ab1cd2&spx=%2F&flow=xtls-rprx-vision#🇷🇺 Whitenet T2 |1
 vless://cloud1163@cloud.whitenet.online:443?security=reality&encryption=none&pbk=uF1AdCusRp-alIOTD8ULbc4rmBYHlFn5FXqY3ymWAlc&headerType=none&fp=chrome&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=eh.vk.com&sid=ab1cd2#🇷🇺 Whitenet T2 |2
 vless://mega1346@5.129.249.134:443?security=reality&sni=ir.ozone.ru&fp=chrome&pbk=F14RpPKCKo_qPcW7EFVu1M18JsAT8c04O08cIi0Ghg4&sid=ab1cd2&type=tcp&flow=xtls-rprx-vision&encryption=none#🇷🇺 Whitenet Megafon |1
-vless://00f02ab2-6f2d-449f-a089-d182a2fac59a@151.236.93.102:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=io.ozone.ru&fp=chrome&security=reality&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323&packetEncoding=xudp#🇷🇺 Россия |1
+vless://ac586327-e718-49f0-806c-bbcb745efa66@ru.n.vpnzero.ru:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=www.aviasales.com&pbk=BoWKSM1aSfcTRgKX_kZYPlauG0jLIqku3zPBAiHpUgs&sid=5ea7e22e889dabc5#🇷🇺 Россия |1
 vless://russia@russia.whitenet.online:443?type=tcp&security=reality&pbk=xdNyDss0OLTu3z6kcdg8X2wfTOLtmDTobE2on3vKe34&fp=chrome&sni=vk.com&sid=ab1cd2&spx=%2F&flow=xtls-rprx-vision#🇷🇺 Россия |2
 vless://5ec3a039-ea63-4bf9-a848-a65c9bfa66f5@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?&security=tls&sni=gb-42123.shenzogmbh.com&type=ws&headerType=none&host=gb-42123.shenzogmbh.com&path=%2Fapi%2Fv1#🇺🇦 Украина |1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@193.135.174.135:990#🇺🇦 Украина |2
@@ -32,8 +32,7 @@ vless://d8d05386-e381-40a4-bb63-715c208b3ed3@109.120.132.142:40617?security=&enc
 vless://5ec3a039-ea63-4bf9-a848-a65c9bfa66f5@77.37.33.39:443?type=ws&host=gb-8981.shenzogmbh.com&path=/api/v1&security=tls&sni=gb-8981.shenzogmbh.com&fp=chrome&allowInsecure=0#🇬🇧 Великобритания |1
 vless://5ec3a039-ea63-4bf9-a848-a65c9bfa66f5@104.26.6.89:443?type=ws&host=gb-021.shenzogmbh.com&path=/api/v1&security=tls&sni=gb-021.shenzogmbh.com&fp=chrome&allowInsecure=0#🇬🇧 Великобритания |2
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjeVYySHFWc2prM2NFTXZkTjlpS3RO@77.83.246.74:443#🇵🇱 Польша |1
-ss://YWVzLTI1Ni1jZmI6ZGFGWWFncURkQmRBNlZUWA==@217.30.10.70:9073#🇵🇱 Польша |2
-vless://cf97c9a9-441e-43e1-9bd2-f66a198cd87b@178.236.244.22:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=kinopoisk.ru&fp=chrome&security=reality&pbk=3LwULpxLmY98y-IDJAeOwZzlVo5s5BnzKz4D5A7lQn4&sid=586207ca3cf8d389#🇵🇱 Польша |3
+vless://cf97c9a9-441e-43e1-9bd2-f66a198cd87b@178.236.244.22:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=kinopoisk.ru&fp=chrome&security=reality&pbk=3LwULpxLmY98y-IDJAeOwZzlVo5s5BnzKz4D5A7lQn4&sid=586207ca3cf8d389#🇵🇱 Польша |2
 vless://a19fd311-c343-4b54-9ca3-fe6dcd84c0fc@38.47.176.134:59967?type=tcp&encryption=none#🇸🇬 Сингапур |1
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.156:443?path=%2F&security=tls&encryption=none&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=wwW.oPEnsIGnAL.cOM.naynay09.Dynv6.nET#🇷🇺 WARP |1
 vless://7556317c-dff6-46e8-ad29-b408f2a6456e@45.192.224.253:2096?path=%2F&security=tls&encryption=none&host=vless.muzheng.top&fp=chrome&type=ws&sni=vless.muzheng.top#🇷🇺 WARP |2
