@@ -33,6 +33,6 @@ vless://5ec3a039-ea63-4bf9-a848-a65c9bfa66f5@104.26.6.89:443?type=ws&host=gb-021
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjeVYySHFWc2prM2NFTXZkTjlpS3RO@77.83.246.74:443#🇵🇱%20Польша%201️⃣
 vless://cf97c9a9-441e-43e1-9bd2-f66a198cd87b@178.236.244.22:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=kinopoisk.ru&fp=chrome&security=reality&pbk=3LwULpxLmY98y-IDJAeOwZzlVo5s5BnzKz4D5A7lQn4&sid=586207ca3cf8d389#🇵🇱%20Польша%202️⃣
 vless://a19fd311-c343-4b54-9ca3-fe6dcd84c0fc@38.47.176.134:59967?type=tcp&encryption=none#🇸🇬%20Сингапур%201️⃣
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.156:443?path=%2F&security=tls&encryption=none&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=wwW.oPEnsIGnAL.cOM.naynay09.Dynv6.nET#🇷🇺%20WARP%201️⃣
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.156:443?path=%2F&security=tls&encryption=none&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=wwW.oPEnsIGnAL.cOM.naynay09.Dynv6.nET#🇳🇱%20WARP%201️⃣
 vless://7556317c-dff6-46e8-ad29-b408f2a6456e@45.192.224.253:2096?path=%2F&security=tls&encryption=none&host=vless.muzheng.top&fp=chrome&type=ws&sni=vless.muzheng.top#🇩🇪%20WARP%202️⃣
 vless://c27bdfe9-929c-45cd-a917-aa47dae1cff7@172.67.166.211:443?path=/eyJqdW5rIjoiM0tYeXg5RVVNIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==?ed=2560&security=tls&encryption=none&host=soft98m.dpdns.org&fp=chrome&type=ws&sni=soft98m.dPdNS.OrG#🇱🇻%20WARP%203️⃣
