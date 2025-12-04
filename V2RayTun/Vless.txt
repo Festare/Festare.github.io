@@ -1,3 +1,4 @@
+hy2://338ce171-d764-4610-8fd5-6688b0d321f0@140.238.137.165:30102/?insecure=1&sni=google.com#🇨🇦%20Canada%20Hysteria2
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1S0NiWWJOUm9KV3JLLWVnMTQtZmN0YWRYOFRZZjdxLQ==@ru.n.vpnzero.ru:1080?type=tcp#%F0%9F%87%B7%F0%9F%87%BA%D0%9C%D0%A2%D0%A1/%D0%9C%D0%93%D0%A2%D0%A1📶🛜
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1S0NiWWJOUm9KV3JLLWVnMTQtZmN0YWRYOFRZZjdxLQ==@us.n.vpnzero.ru:1080?type=tcp#%F0%9F%87%BA%F0%9F%87%B8%D0%9C%D0%A2%D0%A1/%D0%9C%D0%93%D0%A2%D0%A1📶🛜
 vless://4feab863-0b04-444d-87e5-4375adca92cf@37.18.14.103:443?type=tcp&headerType=none&security=tls&sni=goya.rutube.ru&fp=chrome&allowInsecure=1#🇷🇺%20Moscow-rutube.ru%20⭐️📶🛜
