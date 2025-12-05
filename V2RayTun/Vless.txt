@@ -1,4 +1,3 @@
-vless://88b9a025-929f-582f-a10c-1e87718cac3f@109.205.56.37:5000?encryption=none&host=ozon.ru&path=%2F&security=none&type=ws#🇷🇺Outsourcing%20LLC%201️⃣🔝
 vless://63798568-8555-424a-81c4-4c2f181d8de3@45.131.186.48:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=cynncQk7kKzEQaExg-FN7pMqFaZPSXEi_Ggy7AXXmVg&security=reality&sid=3f8ad1&sni=aliusfilms.ru&type=tcp#🇷🇺Delta%20Ltd%201️⃣🔝
 vless://495d0938-b565-4f65-aa65-cbe876aadf47@80.249.131.236:444?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=14S-a9NL1PacapqVE4ojKZeEM5995jFyfwS0xc9UtRk&security=reality&sid=355e2d86831542db&sni=yt.fasssst.ru&type=tcp#🇷🇺%20Selectel%201️⃣🔝
 vless://4aa980fb-b1f8-45ca-90d0-46ebeca227a0@188.124.36.247:22231?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=gtur4bFCYQzGf7M6B40RpdBHl6g1epPNhJCMqKPoVng&security=reality&sni=ru.ultima.foundation&type=tcp#🇷🇺%20Selectel%202️⃣🔝
