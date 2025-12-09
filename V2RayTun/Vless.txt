@@ -30,7 +30,7 @@ vless://d7133f0f-9c48-44e7-9521-dbb90443161c@80.249.131.236:443?encryption=none&
 vless://199a78a5-b4d4-4064-a0db-bb37c5839134@212.192.31.146:443?type=ws&encryption=none&path=/panika#🇩🇪%20Германия%201️⃣
 trojan://vpn@62.133.60.83:2025?type=ws&host=m.vk.com&path=/&security=none#🇩🇪%20Германия%202️⃣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTRGFGSVNyM0dmbTZZa0JTU3JGSUV3d1dqRUVVN1hibw@95.164.10.228:443#🇩🇰%20Дания%201️⃣
-vless://bfc78cd8-5951-4803-8d6c-4cedef8cd420@95.164.85.109:59374?security=reality&encryption=none&pbk=ZsswZuBV8bEGQWFrpShCilSytnDUj0kwHFhTSLXzOwc&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=d21e7c#🇩🇰%20Дания%202️⃣
+vless://2aa69f65-d134-4262-8c6c-f3650c6b8756@45.92.176.55:2243?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=_ee-ouMazAzx7Q4_cYhWbu6pw53-8VVpt7tuBuCXziU&security=reality&sid=f0322c012efe&sni=rontgen.fasssst.ru&type=tcp#🇩🇰%20Дания%202️⃣
 trojan://vpn@2.56.125.113:2025?type=ws&host=m.vk.com&path=/&security=none#🇵🇱%20Польша%201️⃣
 vless://b89d0b93-0ce0-424d-b9ab-92102acd5b84@147.45.155.144:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=iwB-XZfnTzcIY0wcz-DA5LCKnEaBmA2p4n60uXGCnDQ&security=reality&sid=127131417dcdb920&sni=zoomzoom.xyz&type=tcp#🇵🇱%20Польша%202️⃣
 vless://a19fd311-c343-4b54-9ca3-fe6dcd84c0fc@38.47.176.134:59967?type=tcp&encryption=none#🇸🇬%20Сингапур%201️⃣
