@@ -6,7 +6,7 @@ vless://yandex13@yandex.whitenet.site:443?type=tcp&security=reality&pbk=MZHAmZa_
 vless://mega1346@5.129.249.134:443?security=reality&sni=ir.ozone.ru&fp=chrome&pbk=F14RpPKCKo_qPcW7EFVu1M18JsAT8c04O08cIi0Ghg4&sid=ab1cd2&type=tcp&flow=xtls-rprx-vision&encryption=none#🇷🇺%20Whitenet%20Megafon%202️⃣📶
 vless://481c5606-b586-44d7-bc2e-d8ef30d67f62@176.120.72.63:38339?type=tcp&headerType=none&security=reality&fp=chrome&sni=dl.google.com&pbk=o0MFuznHh_Wztg0FTAMhFXm3hjAqOJAJIIVNn-_A9WA&sid=e16883e511#🇰🇿%20Казахстан%201️⃣
 trojan://vpn@45.82.14.144:2025?type=ws&host=m.vk.com&path=/&security=none#🇰🇿%20Казахстан%202️⃣
-vless://id1172250129@89.110.82.242:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=1IuDpztA9hI60fSkFb9WHVu17PvFRohhyjcB4HLKM3M&security=reality&sid=7124&sni=vk.com&spx=%2FwbRMuYw2YhWZxHq&type=tcp#🇳🇱%20Нидерланды%201️⃣
+vless://ba46d415-d5c3-4868-9456-3121bcd7c637@45.87.154.2:443?allowInsecure=1&encryption=none&path=%2Fdkxeczws&security=tls&type=ws#🇳🇱%20Нидерланды%201️⃣
 vless://id1172250129@178.130.43.35:443?encryption=none&fp=chrome&host=&mode=auto&path=%2F&pbk=0IGwg1a5Gz3UdIbftPAkdWM6Qwy5EeoHEKqzx7GA_kQ&security=reality&sid=12b34aba4dcba885&sni=ozon.ru&spx=%2FtvuWUgabRtDE95E&type=xhttp#🇳🇱%20Нидерланды%202️⃣
 vless://c2e196d4-3453-4c6c-bb80-fe372801e1a0@62.60.237.26:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=st.ozone.ru&pbk=lmLFxJO0l6GlHhi3a4I6cKWdQLDo-f8ciODP0xh3EXQ&sid=9d36b8589fa524fd#🇫🇮%20Финляндия%201️⃣
 vless://3c58e856-80b1-4885-9fe0-b8977d202bda@45.15.127.132:443?allowInsecure=1&encryption=none&path=%2Fkyrvjpws&security=tls&type=ws#🇫🇮%20Финляндия%202️⃣
