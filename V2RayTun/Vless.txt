@@ -1,3 +1,4 @@
+vless://000000@0.0.0.0#[VPN+Обход белых списков]
 vless://c94728f2-8be8-4c55-9477-8b18eec69a60@217.16.25.160:443?security=reality&encryption=none&pbk=QHkXBS2ENHV0khgY9VBYi8_9bpfqnUYDcfQN4cW5Qg0&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=sun6-21.userapi.com&sid=4326#🇱🇻%20Латвия%20[MTS]%20📶
 vless://mega1346@5.129.249.134:443?security=reality&sni=ir.ozone.ru&fp=chrome&pbk=F14RpPKCKo_qPcW7EFVu1M18JsAT8c04O08cIi0Ghg4&sid=ab1cd2&type=tcp&flow=xtls-rprx-vision&encryption=none#🇷🇺%20Россия%20[Megafon]%20📶
 trojan://e1q18xplyd4d36eogr7t@130.0.235.254:57780?allowInsecure=1#🇺🇦%20Украина%201️⃣
