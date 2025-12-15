@@ -18,5 +18,5 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTRGFGSVNyM0dmbTZZa0JTU3JGSUV3d1dqRUVVN1hibw@
 vless://2aa69f65-d134-4262-8c6c-f3650c6b8756@45.92.176.55:2243?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=_ee-ouMazAzx7Q4_cYhWbu6pw53-8VVpt7tuBuCXziU&security=reality&sid=f0322c012efe&sni=rontgen.fasssst.ru&type=tcp#🇩🇰%20Дания%202️⃣
 trojan://vpn@2.56.125.113:2025?type=ws&host=m.vk.com&path=/&security=none#🇵🇱%20Польша%201️⃣
 vless://b89d0b93-0ce0-424d-b9ab-92102acd5b84@147.45.155.144:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=iwB-XZfnTzcIY0wcz-DA5LCKnEaBmA2p4n60uXGCnDQ&security=reality&sid=127131417dcdb920&sni=zoomzoom.xyz&type=tcp#🇵🇱%20Польша%202️⃣
-vless://a19fd311-c343-4b54-9ca3-fe6dcd84c0fc@38.47.176.134:59967?type=tcp&encryption=none#🇸🇬%20Сингапур%201️⃣
+trojan://a8b9q71wmzedl7i09f0w@108.181.49.43:55451?allowInsecure=1#🇸🇬%20Сингапур%201️⃣
 vless://c952efd5-e3b3-4096-b1ac-dbdda8f68a15@27.50.48.8:443?encryption=none&type=ws&host=vless.hubp.de&path=/snippets/ip%3Dtp50000.kr.proxyip.fgfw.eu.org:50000&security=tls&fp=chrome&sni=vless.hubp.de&alpn=h3#🇸🇬%20Сингапур%202️⃣
