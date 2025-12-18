@@ -20,6 +20,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTRGFGSVNyM0dmbTZZa0JTU3JGSUV3d1dqRUVVN1hibw@
 vless://2aa69f65-d134-4262-8c6c-f3650c6b8756@45.92.176.55:2243?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=_ee-ouMazAzx7Q4_cYhWbu6pw53-8VVpt7tuBuCXziU&security=reality&sid=f0322c012efe&sni=rontgen.fasssst.ru&type=tcp#🇩🇰%20Дания%202️⃣
 trojan://vpn@2.56.125.113:2025?type=ws&host=m.vk.com&path=/&security=none#🇵🇱%20Польша%201️⃣
 trojan://57gwwr9iub5zp70bkg7n@54.37.235.208:51169?allowInsecure=1#🇵🇱%20Польша%202️⃣
-trojan://a8b9q71wmzedl7i09f0w@108.181.49.43:55451?allowInsecure=1#🇸🇬%20Сингапур%201️⃣
+vless://7700a1f2-7612-49cf-9736-f2f79189b624@139.59.224.206:11588/?type=ws&encryption=none&flow=&host=m.zoom.us&path=%2FFREE%20By%20Tharuwa%20%280767597317%29#🇸🇬%20Сингапур%201️⃣
 vless://c952efd5-e3b3-4096-b1ac-dbdda8f68a15@27.50.48.8:443?encryption=none&type=ws&host=vless.hubp.de&path=/snippets/ip%3Dtp50000.kr.proxyip.fgfw.eu.org:50000&security=tls&fp=chrome&sni=vless.hubp.de&alpn=h3#🇸🇬%20Сингапур%202️⃣
 vless://11d29ec6-be66-4f59-97c6-7cff836ea318@138.2.50.155:44073?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.icloud.com&fp=chrome&pbk=Z3ZGnAOdKkzJ07gR_7_0k9_iTTFP6paDOrqx1rN2LU4&allowInsecure=1&type=tcp&headerType=none#🇯🇵%20Япония%201️⃣
