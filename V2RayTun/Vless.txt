@@ -3,15 +3,15 @@ vless://mega1346@5.129.249.134:443?security=reality&sni=ir.ozone.ru&fp=chrome&pb
 vless://eb162ab1-a006-4931-b1b3-8fc88a22b10e@83.166.255.72:8443?encryption=none&security=reality&sni=01.img.avito.st&pbk=8Wb7DfK3p97KYIBDUxTZRHkG8PomTfA28gJ2qdFA808&spx=%2F&allowInsecure=1&type=xhttp&path=%2Fapi%2Fv2%2Fupdates&mode=auto&extra=%7Bmode%3Dstream-up%2C%20xmux%3D%7BcMaxReuseTimes%3D64-128%2C%20maxConcurrency%3D8-16%2C%20maxConnections%3D0.0%2C%20hKeepAlivePeriod%3D0.0%2C%20hMaxRequestTimes%3D400-600%2C%20hMaxReusableSecs%3D1800-3600%7D%2C%20noSSEHeader%3Dfalse%2C%20noGRPCHeader%3Dfalse%2C%20xPaddingBytes%3D100-1000%2C%20scMaxBufferedPosts%3D30.0%2C%20scMaxEachPostBytes%3D500000-1000000%2C%20scMinPostsIntervalMs%3D10-50%2C%20scStreamUpServerSecs%3D30-90%7D#🇷🇺%20Россия%201️⃣
 vless://f6b72cd6-7a18-5cb4-a912-70b9eeae9fc1@5.129.249.134:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ir.ozone.ru&fp=chrome&pbk=F14RpPKCKo_qPcW7EFVu1M18JsAT8c04O08cIi0Ghg4&sid=ab1cd2&allowInsecure=1&type=tcp&headerType=none#🇷🇺%20Россия%202️⃣
 vless://eb162ab1-a006-4931-b1b3-8fc88a22b10e@38.180.27.102:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=eh.vk.com&pbk=CWeNg8bNNdCHYhjNl01BTevvPnHsXd736dymoBEsbBI&allowInsecure=1&type=tcp&headerType=none#🇦🇪%20Дубай%201️⃣
-vless://e615a5ba-fce3-4ffa-9c86-b0327a8a107a@94.131.110.128:443/?type=ws&encryption=none&flow=&path=%2Fhormoz&security=tls&sni=ozon.ru&allowInsecure=1#🇲🇩%20Молдова%201️⃣
+trojan://nW46dmhj0VIA9olCNkZ7T3_sw@38.60.236.62:15389?allowInsecure=1&sni=www.fuzzyfeijoada.click#🇦🇪%20Дубай%202️⃣
 vless://481c5606-b586-44d7-bc2e-d8ef30d67f62@176.120.72.63:38339?type=tcp&headerType=none&security=reality&fp=chrome&sni=dl.google.com&pbk=o0MFuznHh_Wztg0FTAMhFXm3hjAqOJAJIIVNn-_A9WA&sid=e16883e511#🇰🇿%20Казахстан%201️⃣
 trojan://vpn@45.82.14.144:2025?type=ws&host=m.vk.com&path=/&security=none#🇰🇿%20Казахстан%202️⃣
 vless://be32c9ad-92e1-485b-dc74-2a65e9dae480@86.107.168.100:7070?encryption=none&security=tls&sni=src.smnsoft.com&alpn=h2%2Chttp%2F1.1&allowInsecure=1&type=tcp&headerType=none#🇨🇦%20Канада%201️⃣
 vless://5f9af742-3007-467c-9e74-0b3f8be69150@45.67.228.180:443?encryption=none&security=tls&allowInsecure=1&type=ws&path=%2Frvtnicws#🇳🇱%20Нидерланды%201️⃣
 vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@64.188.96.208:34045?encryption=none&security=reality&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&sid=e8ab71d0&allowInsecure=1&type=tcp&headerType=none&host=----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn----%40Evay_vpn#🇳🇱%20Нидерланды%202️⃣
 vless://c2e196d4-3453-4c6c-bb80-fe372801e1a0@62.60.237.26:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=st.ozone.ru&pbk=lmLFxJO0l6GlHhi3a4I6cKWdQLDo-f8ciODP0xh3EXQ&sid=9d36b8589fa524fd#🇫🇮%20Финляндия%201️⃣
-🇫🇮 Finland #4536
-vless://440766d1-858f-4719-84f5-c2de6f6227b2@65.108.231.185:443/?type=tcp&encryption=none&flow=&security=tls&sni=api.avito.ru&allowInsecure=1#🇫🇮%20Финляндия%202️⃣
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUT1NQMkFJeEY1clliM3VL@94.177.13.68:1697#%F0%9F%87%AB%F0%9F%87%AE%20Finland#🇫🇮%20Финляндия%202️⃣
+trojan://m397XUcFSIsKe2Clv.iL@128.1.198.26:13445?allowInsecure=1&sni=www.emergentelectroscope.click#🇫🇮%20Финляндия%203️⃣
 vless://199a78a5-b4d4-4064-a0db-bb37c5839134@212.192.31.146:443?type=ws&encryption=none&path=/panika#🇩🇪%20Германия%201️⃣
 trojan://vpn@62.133.60.83:2025?type=ws&host=m.vk.com&path=/&security=none#🇩🇪%20Германия%202️⃣
 vless://2fa35078-6354-4ffb-ab08-ee39524ed6a8@94.232.247.61:443?encryption=none&security=tls&allowInsecure=1&type=ws&path=%2Fxmaxddws#🇫🇷%20Франция%201️⃣
@@ -20,6 +20,8 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTRGFGSVNyM0dmbTZZa0JTU3JGSUV3d1dqRUVVN1hibw@
 vless://2aa69f65-d134-4262-8c6c-f3650c6b8756@45.92.176.55:2243?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=_ee-ouMazAzx7Q4_cYhWbu6pw53-8VVpt7tuBuCXziU&security=reality&sid=f0322c012efe&sni=rontgen.fasssst.ru&type=tcp#🇩🇰%20Дания%202️⃣
 trojan://vpn@2.56.125.113:2025?type=ws&host=m.vk.com&path=/&security=none#🇵🇱%20Польша%201️⃣
 trojan://57gwwr9iub5zp70bkg7n@54.37.235.208:51169?allowInsecure=1#🇵🇱%20Польша%202️⃣
-vless://7700a1f2-7612-49cf-9736-f2f79189b624@139.59.224.206:11588/?type=ws&encryption=none&flow=&host=m.zoom.us&path=%2FFREE%20By%20Tharuwa%20%280767597317%29#🇸🇬%20Сингапур%201️⃣
+trojan://toATW1e=xhs5VdiQG87OjmE6S@192.124.176.164:28492?allowInsecure=1&sni=polymorphicpotentiometer.topologicaltheodolite.click#🇸🇬%20Сингапур%201️⃣
 vless://c952efd5-e3b3-4096-b1ac-dbdda8f68a15@27.50.48.8:443?encryption=none&type=ws&host=vless.hubp.de&path=/snippets/ip%3Dtp50000.kr.proxyip.fgfw.eu.org:50000&security=tls&fp=chrome&sni=vless.hubp.de&alpn=h3#🇸🇬%20Сингапур%202️⃣
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6TlFlTTQyWVRUb3U@38.180.107.8:8388#🇸🇬%20Сингапур%203️⃣
 vless://11d29ec6-be66-4f59-97c6-7cff836ea318@138.2.50.155:44073?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.icloud.com&fp=chrome&pbk=Z3ZGnAOdKkzJ07gR_7_0k9_iTTFP6paDOrqx1rN2LU4&allowInsecure=1&type=tcp&headerType=none#🇯🇵%20Япония%201️⃣
+trojan://ace1qxDyr_-GmIUgK.1Tnjb6ikAN@45.32.31.189:10435?allowInsecure=1&sni=fuzzyfonduepotstand.oscillatingovenmitt.click#🇯🇵%20Япония%202️⃣
