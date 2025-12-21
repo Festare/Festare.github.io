@@ -4,7 +4,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWVmxBZmY3N0NuQVU0M0FvYzVqMTVZ@90.156.203.62:
 vless://eb162ab1-a006-4931-b1b3-8fc88a22b10e@38.180.27.102:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=eh.vk.com&pbk=CWeNg8bNNdCHYhjNl01BTevvPnHsXd736dymoBEsbBI&allowInsecure=1&type=tcp&headerType=none#🇦🇪%20Дубай
 vless://481c5606-b586-44d7-bc2e-d8ef30d67f62@176.120.72.63:38339?type=tcp&headerType=none&security=reality&fp=chrome&sni=dl.google.com&pbk=o0MFuznHh_Wztg0FTAMhFXm3hjAqOJAJIIVNn-_A9WA&sid=e16883e511#🇰🇿%20Казахстан
 vless://be32c9ad-92e1-485b-dc74-2a65e9dae480@86.107.168.100:7070?encryption=none&security=tls&sni=src.smnsoft.com&alpn=h2%2Chttp%2F1.1&allowInsecure=1&type=tcp&headerType=none#🇨🇦%20Канада
-vless://5f9af742-3007-467c-9e74-0b3f8be69150@45.67.228.180:443?encryption=none&security=tls&allowInsecure=1&type=ws&path=%2Frvtnicws#🇳🇱%20Нидерланды
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.199:8080#🇳🇱%20Нидерланды
 vless://c2e196d4-3453-4c6c-bb80-fe372801e1a0@62.60.237.26:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=st.ozone.ru&pbk=lmLFxJO0l6GlHhi3a4I6cKWdQLDo-f8ciODP0xh3EXQ&sid=9d36b8589fa524fd#🇫🇮%20Финляндия
 vless://199a78a5-b4d4-4064-a0db-bb37c5839134@212.192.31.146:443?type=ws&encryption=none&path=/panika#🇩🇪%20Германия
 vless://2fa35078-6354-4ffb-ab08-ee39524ed6a8@94.232.247.61:443?encryption=none&security=tls&allowInsecure=1&type=ws&path=%2Fxmaxddws#🇫🇷%20Франция
