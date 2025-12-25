@@ -7,7 +7,7 @@ vless://be32c9ad-92e1-485b-dc74-2a65e9dae480@86.107.168.100:7070?encryption=none
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.199:8080#🇳🇱%20Нидерланды
 vless://c2e196d4-3453-4c6c-bb80-fe372801e1a0@62.60.237.26:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=st.ozone.ru&pbk=lmLFxJO0l6GlHhi3a4I6cKWdQLDo-f8ciODP0xh3EXQ&sid=9d36b8589fa524fd#🇫🇮%20Финляндия
 vless://199a78a5-b4d4-4064-a0db-bb37c5839134@212.192.31.146:443?type=ws&encryption=none&path=/panika#🇩🇪%20Германия
-vless://2fa35078-6354-4ffb-ab08-ee39524ed6a8@94.232.247.61:443?encryption=none&security=tls&allowInsecure=1&type=ws&path=%2Fxmaxddws#🇫🇷%20Франция
+vless://29267952-e97b-4f23-9998-b084d934338d@trt.fastlynew.hosting-ip.com:80?encryption=none&type=xhttp&mode=auto&host=blazeft123your-name.global.ssl.fastly.net&path=/&security=none#🇫🇷%20Франция
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTRGFGSVNyM0dmbTZZa0JTU3JGSUV3d1dqRUVVN1hibw@95.164.10.228:443#🇩🇰%20Дания
 trojan://vpn@2.56.125.113:2025?type=ws&host=m.vk.com&path=/&security=none#🇵🇱%20Польша
 vless://c952efd5-e3b3-4096-b1ac-dbdda8f68a15@27.50.48.8:443?encryption=none&type=ws&host=vless.hubp.de&path=/snippets/ip%3Dtp50000.kr.proxyip.fgfw.eu.org:50000&security=tls&fp=chrome&sni=vless.hubp.de&alpn=h3#🇱🇹%20Литва
