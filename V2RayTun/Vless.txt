@@ -15,7 +15,7 @@ vless://e615a5ba-fce3-4ffa-9c86-b0327a8a107a@sue.ns.cloudflare.com:443?encryptio
 vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@13.42.62.51:55605?encryption=none&type=tcp#🇬🇧%20Англия
 vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@15.236.123.43:55605?encryption=none&type=tcp#🇫🇷%20Франция
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTRGFGSVNyM0dmbTZZa0JTU3JGSUV3d1dqRUVVN1hibw@95.164.10.228:443#🇩🇰%20Дания
-vless://4c186abf-c15f-4a73-af74-cdeb78d29d81@89.208.87.217:8443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=tradingview.com&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&sid=04bf0403f96e5b4b#🇪🇸%20Испания
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@37.143.130.203:990#🇪🇸%20Испания
 vless://195573b7-ea63-485e-b2a5-58dd7bbfc9f7@193.247.82.67:443?encryption=none&type=xhttp&mode=auto&host=plb.tunnelguard.ru&path=/&security=tls&fp=chrome&sni=plb.tunnelguard.ru&alpn=h2,http/1.1#🇵🇱%20Польша
 vless://c952efd5-e3b3-4096-b1ac-dbdda8f68a15@27.50.48.8:443?encryption=none&type=ws&host=vless.hubp.de&path=/snippets/ip%3Dtp50000.kr.proxyip.fgfw.eu.org:50000&security=tls&fp=chrome&sni=vless.hubp.de&alpn=h3#🇱🇹%20Литва
 vless://9e894e86-cdae-4894-b39a-246a59c89448@78.40.117.71:443?encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A1000000%2C%22scMaxConcurrentPosts%22%3A100%2C%22scMinPostsIntervalMs%22%3A30%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22noGRPCHeader%22%3Afalse%7D&fp=chrome&mode=auto&path=%2F&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sid=6ba85179e30d4fc2&sni=ign.com&type=xhttp#🇸🇪%20Швеция
