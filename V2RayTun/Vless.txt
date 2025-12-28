@@ -18,5 +18,5 @@ vless://199a78a5-b4d4-4064-a0db-bb37c5839134@212.192.31.146:443?type=ws&encrypti
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTNmpVSzlGdzVmTUhnTnFscVhPYkhaV3Y4VGY0bkVrbQ@193.203.203.66:443#🇨🇦%20Канада
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppUUZ6YUZPQ1U0U3o5Y2g0akFyUVhv@104.192.227.162:443#🇺🇸%20Америка
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmcHZMZXZraG5Xb1lDTUpQSUNLdVV2@78.129.140.11:443#🇬🇧%20Англия
-vless://11d29ec6-be66-4f59-97c6-7cff836ea318@138.2.50.155:44073?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.icloud.com&fp=chrome&pbk=Z3ZGnAOdKkzJ07gR_7_0k9_iTTFP6paDOrqx1rN2LU4&allowInsecure=1&type=tcp&headerType=none#🇯🇵%20Япония
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYTE9ydkxXa0NCQkJ4THFTRWU5UzhsbkM1UExzTmZSaA@103.75.118.125:443#🇯🇵%20Япония
 
