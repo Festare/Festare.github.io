@@ -1,4 +1,4 @@
-vless://3ffb4328-756c-417c-a150-d121c87e0e03@95-wl.connect-iskra.ru:8443?security=reality&encryption=none&pbk=YLMwM-5UbvqEgVWpg3z9Q3W5nCXscRdKV285z_Vmr0Y&headerType=none&fp=qq&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=sun6-22.userapi.com&sid=a4fae7ee08c43ade#🌐%20[Все операторы]%20📶
+vless://b81c61f9-51d5-48a4-84a6-1715f41d89fb@ru01-blh01.tcp-reset-club.net:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=stats.vk-portal.net&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=e499f276e7bd6420&spx=/#🌐%20[Все операторы]%20📶
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWVmxBZmY3N0NuQVU0M0FvYzVqMTVZ@90.156.203.62:5112#🇷🇺%20Россия
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5VlpvREdUaXZJdGFHV1ZSbkNCYndnSUZvWncwMk1nMzkwSzBOaVdOVzV0SFRqbFY@194.38.23.137:31348#🇺🇦%20Украина
 vless://481c5606-b586-44d7-bc2e-d8ef30d67f62@176.120.72.63:38339?type=tcp&headerType=none&security=reality&fp=chrome&sni=dl.google.com&pbk=o0MFuznHh_Wztg0FTAMhFXm3hjAqOJAJIIVNn-_A9WA&sid=e16883e511#🇰🇿%20Казахстан
