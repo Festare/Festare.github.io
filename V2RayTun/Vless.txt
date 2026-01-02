@@ -2,7 +2,7 @@ vless://b81c61f9-51d5-48a4-84a6-1715f41d89fb@ru01-blh01.tcp-reset-club.net:443?f
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWVmxBZmY3N0NuQVU0M0FvYzVqMTVZ@90.156.203.62:5112#🇷🇺%20Россия
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5VlpvREdUaXZJdGFHV1ZSbkNCYndnSUZvWncwMk1nMzkwSzBOaVdOVzV0SFRqbFY@194.38.23.137:31348#🇺🇦%20Украина
 vless://481c5606-b586-44d7-bc2e-d8ef30d67f62@176.120.72.63:38339?type=tcp&headerType=none&security=reality&fp=chrome&sni=dl.google.com&pbk=o0MFuznHh_Wztg0FTAMhFXm3hjAqOJAJIIVNn-_A9WA&sid=e16883e511#🇰🇿%20Казахстан
-vless://195573b7-ea63-485e-b2a5-58dd7bbfc9f7@193.247.82.67:443?encryption=none&type=xhttp&mode=auto&host=plb.tunnelguard.ru&path=/&security=tls&fp=chrome&sni=plb.tunnelguard.ru&alpn=h2,http/1.1#🇵🇱%20Польша
+vless://b81c61f9-51d5-48a4-84a6-1715f41d89fb@pol01-ss01.tcp-reset-club.net:443?flow=&type=xhttp&host=&path=/&mode=auto&security=reality&fp=chrome&sni=stats.vk-portal.net&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=175d&spx=/#🇵🇱%20Польша
 vless://c952efd5-e3b3-4096-b1ac-dbdda8f68a15@27.50.48.8:443?encryption=none&type=ws&host=vless.hubp.de&path=/snippets/ip%3Dtp50000.kr.proxyip.fgfw.eu.org:50000&security=tls&fp=chrome&sni=vless.hubp.de&alpn=h3#🇱🇹%20Литва
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTRGFGSVNyM0dmbTZZa0JTU3JGSUV3d1dqRUVVN1hibw@95.164.10.228:443#🇩🇰%20Дания
 vless://a5c05c1e-aa68-443f-8598-09800244bd4b@192.71.82.2:443?path=%2FLiL%3Fed%3D2560&security=tls&alpn=h3&encryption=none&insecure=0&host=kingmethode.bIack.ir&fp=firefox&type=ws&allowInsecure=0&sni=kingmethode.bIack.ir#🇸🇪%20Швеция
