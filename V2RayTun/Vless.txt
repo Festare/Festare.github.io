@@ -1,7 +1,3 @@
-hysteria2://79d73809-f5ed-4099-8588-ba77578def1d@iij.mggl.wang:35789?sni=iij.mggl.wang&insecure=0#🇯🇵%20Япония%20[Hysteria]%20🔝🌟✨
-hysteria2://Telegram--%3E%40Ln2Ray@gavazn.lnmarketplace.net:45000?obfs=salamander&obfs-password=Telegram--%3E@Ln2Ray&sni=gavazn.55994421.xyz&insecure=0#🇳🇱%20Нидерладны%20[Hysteria]%20🔝🌟✨
-hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@77.90.41.197:35000?obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&sni=api.kermanshahi.org&insecure=0#🇩🇪%20Германия%20[Hysteria]%20🔝🌟✨
-hysteria2://b4e40aa2-74a1-11ed-b0b5-f23c9164ca5d@70490f00-t6ngg0-t7pmvm-17xo8.us.hyhuawei.com:443?sni=70490f00-t6ngg0-t7pmvm-17xo8.us.hyhuawei.com&insecure=0#🇺🇸%20Америка%20[Hysteria]%20🔝🌟✨
 vless://3ffb4328-756c-417c-a150-d121c87e0e03@95-wl.connect-iskra.ru:8443?security=reality&encryption=none&pbk=YLMwM-5UbvqEgVWpg3z9Q3W5nCXscRdKV285z_Vmr0Y&headerType=none&fp=qq&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=sun6-22.userapi.com&sid=a4fae7ee08c43ade#🌐%20[Все операторы]%20📶
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWVmxBZmY3N0NuQVU0M0FvYzVqMTVZ@90.156.203.62:5112#🇷🇺%20Россия
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5VlpvREdUaXZJdGFHV1ZSbkNCYndnSUZvWncwMk1nMzkwSzBOaVdOVzV0SFRqbFY@194.38.23.137:31348#🇺🇦%20Украина
