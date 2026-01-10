@@ -10,6 +10,7 @@ vless://b18c8e0b-48fe-0015-9c01-4ae1e5937e12@yax1.shukafish.ru:8443?flow=xtls-rp
 vless://0ac818a4-9e41-4083-9eba-58588fae760d@89.208.86.65:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=tradingview.com&pbk=_CjW0Khlrr5z5oc9Oy6-w2ZEanz-zMBktVn5EOX9oTM&sid=4ffc99daad0f261f#🇮🇹%20Италия
 vless://481c5606-b586-44d7-bc2e-d8ef30d67f62@176.120.72.63:38339?type=tcp&headerType=none&security=reality&fp=chrome&sni=dl.google.com&pbk=o0MFuznHh_Wztg0FTAMhFXm3hjAqOJAJIIVNn-_A9WA&sid=e16883e511#🇰🇿%20Казахстан
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTNmpVSzlGdzVmTUhnTnFscVhPYkhaV3Y4VGY0bkVrbQ@193.203.203.66:443#🇨🇦%20Канада
+vless://2b215723-1fc5-4206-b0bd-65c44130cec6@185.77.231.80:51187?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=vk.com&pbk=J1HIxQSniHBlaSUXTLTWyUUpiaeyE8MWmA2evyFZbFQ&sid=00e7#🇱🇻%20Латвия
 vless://c952efd5-e3b3-4096-b1ac-dbdda8f68a15@27.50.48.8:443?encryption=none&type=ws&host=vless.hubp.de&path=/snippets/ip%3Dtp50000.kr.proxyip.fgfw.eu.org:50000&security=tls&fp=chrome&sni=vless.hubp.de&alpn=h3#🇱🇹%20Литва
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.240:8080?type=tcp#🇳🇱%20Нидерланды
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1OTVITEYzZkhVdXcwTWNNNTF0cHZQeWdTSUIxdWY0RA==@107.174.114.71:443#🇳🇴%20Норвегия
