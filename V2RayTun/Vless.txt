@@ -6,6 +6,7 @@ vless://feaf1d64-b44c-4cc8-b114-4001478c1fd0@by.cdn.titun.su:443?flow=xtls-rprx-
 vless://bc7e4baf-5b72-03ed-8d3c-99401a22d05b@ru.volnalink.uk:4433?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=qq&sni=yandex.ru&pbk=1YIROH0_y0ErpYZtnSBL93Wa75ydKXE18jHVNHwdmHM&sid=af55e4201576cf6c#🇬🇧%20Великобритания
 vless://199a78a5-b4d4-4064-a0db-bb37c5839134@212.192.31.146:443?type=ws&encryption=none&path=/panika#🇩🇪%20Германия
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTRGFGSVNyM0dmbTZZa0JTU3JGSUV3d1dqRUVVN1hibw@95.164.10.228:443#🇩🇰%20Дания
+vless://bc7e4baf-5b72-03e9-8d3c-99401a22d05b@185.130.114.160:4433?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=yandex.ru&pbk=1YIROH0_y0ErpYZtnSBL93Wa75ydKXE18jHVNHwdmHM&sid=60815a2eb71ce895#🇮🇱%20Израиль
 vless://bc7e4baf-5b72-03ef-8d3c-99401a22d05b@ru.volnalink.uk:4433?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=qq&sni=yandex.ru&pbk=1YIROH0_y0ErpYZtnSBL93Wa75ydKXE18jHVNHwdmHM&sid=60815a2eb71ce895#🇮🇳%20Индия
 vless://feaf1d64-b44c-4cc8-b114-4001478c1fd0@it.jojack.ru:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=qq&sni=ozon.ru&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=43df3983229a1c73#🇮🇹%20Италия
 vless://bc7e4baf-5b72-03f1-8d3c-99401a22d05b@ru.volnalink.uk:4433?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=qq&sni=yandex.ru&pbk=1YIROH0_y0ErpYZtnSBL93Wa75ydKXE18jHVNHwdmHM&sid=60815a2eb71ce895#🇰🇿%20Казахстан
