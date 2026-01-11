@@ -3,7 +3,7 @@ vless://62770d79-dc4d-01f4-b01c-ea30399725aa@95.163.250.213:52006?encryption=non
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWVmxBZmY3N0NuQVU0M0FvYzVqMTVZ@90.156.203.62:5112#🇷🇺%20Россия
 vless://12345678-1234-1234-1234-123456789123@166.62.104.61:2096?type=ws&host=vless.hubp.de&path=/snippets&security=tls&sni=vless.hubp.de&fp=chrome&allowInsecure=0#🇺🇸%20Америка
 vless://feaf1d64-b44c-4cc8-b114-4001478c1fd0@by.cdn.titun.su:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=qq&sni=by.cdn.titun.su&pbk=0L6FE1vTechnKhN9LxFgmcDzqGVIfEQz8ZBGfvzKGzg&sid=0273d62b9b0b742a#🇧🇾%20Беларусь
-vless://b81c61f9-51d5-48a4-84a6-1715f41d89fb@gb01-vlr01.tcp-reset-club.net:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=hls-svod.itunes.apple.com&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=86e999a2cdc2&spx=/#🇬🇧%20Великобритания
+vless://bc7e4baf-5b72-03ed-8d3c-99401a22d05b@ru.volnalink.uk:4433?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=qq&sni=yandex.ru&pbk=1YIROH0_y0ErpYZtnSBL93Wa75ydKXE18jHVNHwdmHM&sid=af55e4201576cf6c#🇬🇧%20Великобритания
 vless://199a78a5-b4d4-4064-a0db-bb37c5839134@212.192.31.146:443?type=ws&encryption=none&path=/panika#🇩🇪%20Германия
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTRGFGSVNyM0dmbTZZa0JTU3JGSUV3d1dqRUVVN1hibw@95.164.10.228:443#🇩🇰%20Дания
 vless://bc7e4baf-5b72-03ef-8d3c-99401a22d05b@ru.volnalink.uk:4433?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=qq&sni=yandex.ru&pbk=1YIROH0_y0ErpYZtnSBL93Wa75ydKXE18jHVNHwdmHM&sid=60815a2eb71ce895#🇮🇳%20Индия
