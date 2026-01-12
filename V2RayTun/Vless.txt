@@ -17,7 +17,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1OTVITEYzZkhVdXcwTWNNNTF0cHZQeWdTSUIxdWY0RA=
 vless://787ae54e-40ad-4caf-899b-ad3a19ff1103@45.144.48.192:8443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=discordapp.com&pbk=UBwue-cEE6w4gTS4dngQng5JEykNTR6d9f65p6RyA2w&sid=50c860b05993532d#🇵🇱%20Польша
 #🇸🇬%20Сингапур
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyTmE3NTNCY1V1UEJMOFl4WHg5Qng1YjRkZlZGdTQ1UWt6b3J3cVppelRsNkFmM04=@103.253.74.94:31348#🇹🇭%20Тайланд
-#🇹🇷%20Турция
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@185.123.101.64:2376?type=tcp#🇹🇷%20Турция
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5VlpvREdUaXZJdGFHV1ZSbkNCYndnSUZvWncwMk1nMzkwSzBOaVdOVzV0SFRqbFY@194.38.23.137:31348#🇺🇦%20Украина
 vless://d684cb56-e4b8-4453-8a7b-a1ad8c81935a@45.144.52.37:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=fi.reality.tv123.ru&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#🇫🇮%20Финляндия
 vless://75fbc7a6-b1c0-4f9f-aff7-166d1770d93b@sw.adr-cloud.ru:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=qq&sni=www.cloudflare.com&pbk=_jsOei7qay2_iPaZq6YCQPzsraiKkdBT18ASrsn323Q&sid=84ba23f147ad7a15#🇸🇪%20Швеция
