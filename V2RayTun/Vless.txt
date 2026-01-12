@@ -4,7 +4,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWVmxBZmY3N0NuQVU0M0FvYzVqMTVZ@90.156.203.62:
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@173.244.56.6:443#🇺🇸%20Америка
 vless://75fbc7a6-b1c0-4f9f-aff7-166d1770d93b@by.adr-cloud.ru:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=qq&sni=www.cloudflare.com&pbk=oL_5X9oIPHjUBjNTxxYJOk--hilANokOzUnerzeckBE&sid=84ba23f181dd9a15#🇧🇾%20Беларусь
 #🇬🇧%20Великобритания
-vless://199a78a5-b4d4-4064-a0db-bb37c5839134@212.192.31.146:443?type=ws&encryption=none&path=/panika#🇩🇪%20Германия
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKUWNjMnJJWnRYYW1hdFJZQUlOSWRkTW9tM01CdTd6Rg==@37.221.125.38:443#🇩🇪%20Германия
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTRGFGSVNyM0dmbTZZa0JTU3JGSUV3d1dqRUVVN1hibw@95.164.10.228:443#🇩🇰%20Дания
 #🇮🇳%20Индия
 #🇮🇹%20Италия
