@@ -21,8 +21,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyTmE3NTNCY1V1UEJMOFl4WHg5Qng1YjRkZlZGdTQ1UWt
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@185.123.101.64:2376?type=tcp#🇹🇷%20Турция
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5VlpvREdUaXZJdGFHV1ZSbkNCYndnSUZvWncwMk1nMzkwSzBOaVdOVzV0SFRqbFY@194.38.23.137:31348#🇺🇦%20Украина
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5WG9pRURGTVZvckdVZUtsYTc3azdzRVhDZVNFNXIyQQ==@45.15.127.49:443#🇫🇮%20Финляндия
-ss://YWVzLTI1Ni1nY206ZGYxZWE3YWEtMjVjMC00NzcwLWE3MzItOTNkZTliNDA5YWZh@193.228.128.82:443#🇨🇭%20Швейцария
 vless://75fbc7a6-b1c0-4f9f-aff7-166d1770d93b@sw.adr-cloud.ru:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=qq&sni=www.cloudflare.com&pbk=_jsOei7qay2_iPaZq6YCQPzsraiKkdBT18ASrsn323Q&sid=84ba23f147ad7a15#🇸🇪%20Швеция
-vless://75fbc7a6-b1c0-4f9f-aff7-166d1770d93b@est.adr-cloud.ru:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=qq&sni=www.cloudflare.com&pbk=lOSr-9AoQwZVwhuonEZxeHvVxN9kHpdDIePpRoPAzkM&sid=84ba23f581ad7a15#🇪🇪%20Эстония
+ss://YWVzLTI1Ni1nY206ZGYxZWE3YWEtMjVjMC00NzcwLWE3MzItOTNkZTliNDA5YWZh@193.228.128.82:443#🇪🇪%20Эстония
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYTE9ydkxXa0NCQkJ4THFTRWU5UzhsbkM1UExzTmZSaA@103.75.118.125:443#🇯🇵%20Япония
 
