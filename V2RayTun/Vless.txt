@@ -4,6 +4,7 @@ vless://90d193e6-4a18-409f-9828-b2b35352e032@178.72.145.62:443?type=tcp&encrypti
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBbXN5ODE5eHlIQlk3aDZfZWVKeXZiVXYxVkR4M0ZtWA==@ru.invisevps.ru:1234#🇷🇺%20Россия%20|1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxRkFKZEJFcXNJNzFqYVNNTDY3bkhvUEJDR2hYOTR1aw==@45.138.157.162:443#🇷🇺%20Россия%20|2
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4U3NKcHZ3WTZ4YnFKMVIyY3haQ21heTVxZmE4SmJjUQ==@82.97.242.53:1080#🇷🇺%20Россия%20|3
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@www.wto.org:2095?type=ws&host=fuckingfangbinxing.pusytroller.cf&path=/&security=none#🇷🇺%20Россия%20☁️|4
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@173.244.56.6:443#🇺🇸%20Америка
 vless://16bbdaa1-7145-4e5d-9c49-d2059d76432d@by.cdn.titun.su:443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=qq&sni=by.cdn.titun.su&pbk=0L6FE1vTechnKhN9LxFgmcDzqGVIfEQz8ZBGfvzKGzg&sid=09ce86a2c679b41f#🇧🇾%20Беларусь
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.179:443#🇬🇧%20Великобритания
