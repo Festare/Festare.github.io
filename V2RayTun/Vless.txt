@@ -11,7 +11,6 @@ vless://16bbdaa1-7145-4e5d-9c49-d2059d76432d@by.cdn.titun.su:443?encryption=none
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.179:443#🇬🇧%20Великобритания
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKUWNjMnJJWnRYYW1hdFJZQUlOSWRkTW9tM01CdTd6Rg==@37.221.125.38:443#🇩🇪%20Германия
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTRGFGSVNyM0dmbTZZa0JTU3JGSUV3d1dqRUVVN1hibw@95.164.10.228:443#🇩🇰%20Дания
-vless://0d93b787-b66b-4696-a036-a0f549764f69@103.243.232.218:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=id.fasti.win&pbk=-YTGWg5DjsLDyaDfr1D83kiUK22LVcrK3yC53lqqigs&sid=feedbacc#🇮🇳%20Индия
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRNHQ4VDdoRVlZM21EMkZuNHdueHlLNFgzNUFVenZSOA==@176.126.83.121:443#🇮🇹%20Италия
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzOExiSkNnVWlHWGVDS1ZjNjN0SEpQ@94.198.220.183:64674?type=tcp#🇰🇿%20Казахстан
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTNmpVSzlGdzVmTUhnTnFscVhPYkhaV3Y4VGY0bkVrbQ@193.203.203.66:443#🇨🇦%20Канада
@@ -25,6 +24,5 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyTmE3NTNCY1V1UEJMOFl4WHg5Qng1YjRkZlZGdTQ1UWt
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@185.123.101.64:2376?type=tcp#🇹🇷%20Турция
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5VlpvREdUaXZJdGFHV1ZSbkNCYndnSUZvWncwMk1nMzkwSzBOaVdOVzV0SFRqbFY@194.38.23.137:31348#🇺🇦%20Украина
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5WG9pRURGTVZvckdVZUtsYTc3azdzRVhDZVNFNXIyQQ==@45.15.127.49:443#🇫🇮%20Финляндия
-vless://2b651798-49f7-455f-a5f3-c553dd2be542@188.72.103.3:443?type=xhttp&host=ws.fjdjdjfjd.icu&path=/&mode=auto&security=tls&sni=ws.fjdjdjfjd.icu&alpn=h2,http/1.1&fp=qq&allowInsecure=1#🇪🇪%20Эстония
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYTE9ydkxXa0NCQkJ4THFTRWU5UzhsbkM1UExzTmZSaA@103.75.118.125:443#🇯🇵%20Япония
 
