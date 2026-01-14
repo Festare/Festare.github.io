@@ -22,6 +22,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyTmE3NTNCY1V1UEJMOFl4WHg5Qng1YjRkZlZGdTQ1UWt
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@185.123.101.64:2376?type=tcp#🇹🇷%20Турция
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5VlpvREdUaXZJdGFHV1ZSbkNCYndnSUZvWncwMk1nMzkwSzBOaVdOVzV0SFRqbFY@194.38.23.137:31348#🇺🇦%20Украина
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5WG9pRURGTVZvckdVZUtsYTc3azdzRVhDZVNFNXIyQQ==@45.15.127.49:443#🇫🇮%20Финляндия
-ss://YWVzLTI1Ni1nY206ZGYxZWE3YWEtMjVjMC00NzcwLWE3MzItOTNkZTliNDA5YWZh@193.228.128.82:443#🇪🇪%20Эстония
+vless://2b651798-49f7-455f-a5f3-c553dd2be542@188.72.103.3:443?type=xhttp&host=ws.fjdjdjfjd.icu&path=/&mode=auto&security=tls&sni=ws.fjdjdjfjd.icu&alpn=h2,http/1.1&fp=qq&allowInsecure=1#🇪🇪%20Эстония
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYTE9ydkxXa0NCQkJ4THFTRWU5UzhsbkM1UExzTmZSaA@103.75.118.125:443#🇯🇵%20Япония
 
