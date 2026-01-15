@@ -10,6 +10,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2VkFjbGw0UDh4UFRVVlZ0SGVTVDNvblJtTG9WSUJTVQ=
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4U3NKcHZ3WTZ4YnFKMVIyY3haQ21heTVxZmE4SmJjUQ==@82.22.40.9:1080#🇵🇱%20Польша
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyTmE3NTNCY1V1UEJMOFl4WHg5Qng1YjRkZlZGdTQ1UWt6b3J3cVppelRsNkFmM04=@103.253.74.94:31348#🇹🇭%20Тайланд
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5VlpvREdUaXZJdGFHV1ZSbkNCYndnSUZvWncwMk1nMzkwSzBOaVdOVzV0SFRqbFY@194.38.23.137:31348#🇺🇦%20Украина
-vless://0d93b787-b66b-4696-a036-a0f549764f69@196.196.203.90:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=fi.fasti.win&pbk=F294G-iRQHISvxNNtUtF2arP3d6pzigwfVcY2jqXcSc&sid=2a8a7bb6036e8461#🇫🇮%20Финляндия
+vless://00000000-0000-0000-0000-000000000000@8.47.69.0:2095?type=ws&host=freedom.pusytroller.cf&path=/&security=none#🇫🇮%20Финляндия%20☁️
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYTE9ydkxXa0NCQkJ4THFTRWU5UzhsbkM1UExzTmZSaA@103.75.118.125:443#🇯🇵%20Япония
 
