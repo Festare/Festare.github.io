@@ -8,6 +8,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2VkFjbGw0UDh4UFRVVlZ0SGVTVDNvblJtTG9WSUJTVQ=
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4U3NKcHZ3WTZ4YnFKMVIyY3haQ21heTVxZmE4SmJjUQ==@82.22.40.9:1080#🇵🇱%20Польша
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyTmE3NTNCY1V1UEJMOFl4WHg5Qng1YjRkZlZGdTQ1UWt6b3J3cVppelRsNkFmM04=@103.253.74.94:31348#🇹🇭%20Тайланд
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5VlpvREdUaXZJdGFHV1ZSbkNCYndnSUZvWncwMk1nMzkwSzBOaVdOVzV0SFRqbFY@194.38.23.137:31348#🇺🇦%20Украина
+vless://0d93b787-b66b-4696-a036-a0f549764f69@196.196.203.90:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=fi.fasti.win&pbk=F294G-iRQHISvxNNtUtF2arP3d6pzigwfVcY2jqXcSc&sid=2a8a7bb6036e8461#🇫🇮%20Финляндия
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYTE9ydkxXa0NCQkJ4THFTRWU5UzhsbkM1UExzTmZSaA@103.75.118.125:443#🇯🇵%20Япония
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@www.wto.org:2095?type=ws&host=fuckingfangbinxing.pusytroller.cf&path=/&security=none#☁️%20Cloudflare%20[Все%20страны]%20|1
 vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@8.47.69.0:2053?type=ws&host=sni.111000.dynv6.net&path=/&security=tls&sni=sni.111000.dynv6.net&fp=chrome&allowInsecure=1#☁️%20Cloudflare%20[Все%20страны]%20|2
