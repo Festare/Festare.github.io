@@ -2,8 +2,7 @@
 #profile-title: Festare⭐️
 #support-url: https://t.me/animefnik
 #profile-web-page-url: https://t.me/animefnik
-#announce: ☁️ - Cloudflare  
-❌ - Сервер закрыт
+#announce: ☁️ - Cloudflare; ❌ - Сервер закрыт
 vless://a2b792c1-e574-4035-907e-bae16a94ecc5@146.185.241.66:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=ads.x5.ru&pbk=OPER3fuXeO5cgEtTC2baWPzYT7YdEUcj91Uh26UgyBU&sid=5ea7e22e779dabc5#🌐%20[Все%20операторы]%20📶
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBbXN5ODE5eHlIQlk3aDZfZWVKeXZiVXYxVkR4M0ZtWA==@ru.invisevps.ru:1234#🇷🇺%20Россия%20|1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxRkFKZEJFcXNJNzFqYVNNTDY3bkhvUEJDR2hYOTR1aw==@45.138.157.162:443#🇷🇺%20Россия%20|2
