@@ -18,4 +18,5 @@ vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@8.47.69.0:2053?type=ws&host=sni.111
 vless://00000000-0000-0000-0000-000000000000@8.47.69.0:2095?type=ws&host=freedom.pusytroller.cf&path=/&security=none#☁️%20Cloudflare%20[Все%20страны]%20|3
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@8.6.112.0:2095?type=ws&host=freedom.pusytroller.cf&path=/&security=none#☁️%20Cloudflare%20[Все%20страны]%20|4
 vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@platform.wise.com:2053?type=ws&host=sni.111000.dynv6.net&path=/&security=tls&sni=sni.111000.dynv6.net&fp=chrome&allowInsecure=0#☁️%20Cloudflare%20[Все%20страны]%20|5
+vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@www.aapanel.com:2053?type=ws&host=sni.111000.dynv6.net&path=/&security=tls&sni=sni.111000.dynv6.net&fp=chrome&allowInsecure=0#☁️%20Cloudflare%20[Все%20страны]%20|6
 
