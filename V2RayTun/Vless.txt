@@ -1,5 +1,6 @@
 #profile-update-interval: 5
-#profile-title: Festare
+#profile-title: Festare⭐️
+#support-url: https://t.me/animefnik
 #announce: 🔝 - Быстрые сервера
 #announce: 📶 - Мобильные сервера
 #announce: 🛜 - WiFi сервера
