@@ -6,7 +6,7 @@
 vless://a2b792c1-e574-4035-907e-bae16a94ecc5@146.185.241.66:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=ads.x5.ru&pbk=OPER3fuXeO5cgEtTC2baWPzYT7YdEUcj91Uh26UgyBU&sid=5ea7e22e779dabc5#🌐%20[Все%20операторы]%20📶
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBbXN5ODE5eHlIQlk3aDZfZWVKeXZiVXYxVkR4M0ZtWA==@ru.invisevps.ru:1234#🇷🇺%20Россия%20|1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxRkFKZEJFcXNJNzFqYVNNTDY3bkhvUEJDR2hYOTR1aw==@45.138.157.162:443#🇷🇺%20Россия%20|2
-ss://YWVzLTI1Ni1nY206YzVmY2RmNzgyOTExMmNiNA==@45.140.169.225:60010#🇷🇺%20Россия%20|3
+vless://4e2aec88-7b8a-4268-9bb4-f7f61e2d382f@ru01-blh03.tcp-reset-club.net:443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=rutube.ru&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=f79448a30d&spx=/#🇷🇺%20Россия%20|3
 vless://94f729b1-5e1c-474f-a952-b8816a04e2fc@195.2.76.224:48868?type=tcp&headerType=none&security=reality&fp=chrome&sni=apple.com&pbk=QU6XzGL-1O93-UxkJYiV364sy30S5bI5EOahJL2blnE&sid=f2e878&spx=/#🇷🇺%20Россия%20|4
 vless://08c7f096-d057-4d53-82fd-c739d372887b@203.189.233.201:1140?type=tcp&headerType=none&security=none#🇷🇺%20Россия%20|5
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzbGl6ejhOc0dMVkZVYzU1WFdPcjBObTc0@basic-ru-3.undef.network:8894?type=tcp#🇷🇺%20Россия%20|6
