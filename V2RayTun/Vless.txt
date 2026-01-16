@@ -9,6 +9,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTRGFGSVNyM0dmbTZZa0JTU3JGSUV3d1dqRUVVN1hibw@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2VkFjbGw0UDh4UFRVVlZ0SGVTVDNvblJtTG9WSUJTVQ==@94.131.104.147:443#🇱🇻%20Латвия
 vless://5fdb3393-dfba-4550-98b2-9c2bb0cdca3e@mebel-moscow.mooo.com:443?type=tcp&encryption=none&security=reality&pbk=JAbWGIAmloNGelIAF_SogtwSjt2jH0E6by1p4_R2KGg&fp=random&sni=sub.mebel-moscow.mooo.com&sid=07155d5eeefa1d1e&spx=%2F#🇳🇱%20Нидерланды🔝
 vless://6c49485f-843c-4e96-abfe-046bc473c7b0@45.144.51.22:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=github.com&pbk=euR8poucesDF-UxANxJ7Uqg1t4cfiDtAzAQcTVhRQCE&sid=140d8b3989bf5116#🇵🇱%20Польша
+vless://1a0d2a22-7304-462c-9bab-bf2ad1cd24c2@104.18.166.129:443?type=ws&host=sp1.hhhhh.eu.org&path=/?proxyip%3Dproxyip.sg.cmliussss.net&security=tls&sni=sp1.hhhhh.eu.org&fp=chrome&allowInsecure=0#🇸🇬%20Сингапур
 vless://0d93b787-b66b-4696-a036-a0f549764f69@196.196.203.90:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=fi.fasti.win&pbk=F294G-iRQHISvxNNtUtF2arP3d6pzigwfVcY2jqXcSc&sid=2a8a7bb6036e8461#🇫🇮%20Финляндия
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYTE9ydkxXa0NCQkJ4THFTRWU5UzhsbkM1UExzTmZSaA@103.75.118.125:443#🇯🇵%20Япония
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@www.wto.org:2095?type=ws&host=fuckingfangbinxing.pusytroller.cf&path=/&security=none#☁️%20Cloudflare%20[Все%20страны]%20|1
