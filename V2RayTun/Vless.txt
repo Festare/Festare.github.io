@@ -18,7 +18,8 @@ vless://62770d79-dc4d-01f4-b01c-ea30399725aa@95.163.250.213:52006?encryption=non
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTRGFGSVNyM0dmbTZZa0JTU3JGSUV3d1dqRUVVN1hibw@95.164.10.228:443#🇩🇰%20Дания
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2VkFjbGw0UDh4UFRVVlZ0SGVTVDNvblJtTG9WSUJTVQ==@94.131.104.147:443#🇱🇻%20Латвия
 vless://5fdb3393-dfba-4550-98b2-9c2bb0cdca3e@mebel-moscow.mooo.com:443?type=tcp&encryption=none&security=reality&pbk=JAbWGIAmloNGelIAF_SogtwSjt2jH0E6by1p4_R2KGg&fp=random&sni=sub.mebel-moscow.mooo.com&sid=07155d5eeefa1d1e&spx=%2F#🇳🇱%20Нидерланды%20|1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.240:8080#🇳🇱%20Нидерланды%20|2
+vless://5479257a-26f5-4575-a679-9452dad217b4@mebel-moscow.mooo.com:443?type=xhttp&encryption=none&path=%2FozZyUlpJRQ&host=&mode=packet-up&security=tls#🇳🇱%20Нидерланды%20|2
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.240:8080#🇳🇱%20Нидерланды%20|3
 vless://6c49485f-843c-4e96-abfe-046bc473c7b0@45.144.51.22:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=github.com&pbk=euR8poucesDF-UxANxJ7Uqg1t4cfiDtAzAQcTVhRQCE&sid=140d8b3989bf5116#🇵🇱%20Польша%20|1
 trojan://zL7CpPYxhvFtYqm2yAbHrw@45.144.51.35:7390?type=tcp&headerType=none&security=none#🇵🇱%20Польша%20|2
 trojan://humanity@www.calmlunch.com:443?type=ws&host=www.calmlunch.com&path=/assignment&security=tls&sni=www.calmlunch.com&fp=chrome&allowInsecure=0#🇫🇷%20Франция
