@@ -22,6 +22,7 @@ vless://5479257a-26f5-4575-a679-9452dad217b4@mebel-moscow.mooo.com:443?type=xhtt
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.240:8080#🇳🇱%20Нидерланды%20|3
 vless://6c49485f-843c-4e96-abfe-046bc473c7b0@45.144.51.22:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=github.com&pbk=euR8poucesDF-UxANxJ7Uqg1t4cfiDtAzAQcTVhRQCE&sid=140d8b3989bf5116#🇵🇱%20Польша%20|1
 trojan://zL7CpPYxhvFtYqm2yAbHrw@45.144.51.35:7390?type=tcp&headerType=none&security=none#🇵🇱%20Польша%20|2
+vless://02fb468f-21f2-460e-bfa1-ef52ae5e627f@plcdn1.suio.me:443?type=tcp&headerType=none&security=tls&sni=plcdn1.suio.me&fp=chrome&allowInsecure=1#🇵🇱%20Польша%20|3
 trojan://humanity@www.calmlunch.com:443?type=ws&host=www.calmlunch.com&path=/assignment&security=tls&sni=www.calmlunch.com&fp=chrome&allowInsecure=0#🇫🇷%20Франция
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYTE9ydkxXa0NCQkJ4THFTRWU5UzhsbkM1UExzTmZSaA@103.75.118.125:443#🇯🇵%20Япония
 trojan://4843e94d205f3893f588255a591abe94@160.16.72.205:1933?type=tcp&security=tls&sni=www.nintendogames.net&fp=chrome&allowInsecure=0#🇯🇵%20Япония%20[Тест]
