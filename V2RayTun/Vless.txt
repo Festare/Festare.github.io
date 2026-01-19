@@ -7,13 +7,10 @@ vless://a2b792c1-e574-4035-907e-bae16a94ecc5@146.185.241.66:443?flow=xtls-rprx-v
 vless://ac586327-e718-49f0-806c-bbcb745efa66@ru.n.vpnzero.ru:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=www.aviasales.com&pbk=BoWKSM1aSfcTRgKX_kZYPlauG0jLIqku3zPBAiHpUgs&sid=5ea7e22e889dabc5#🇷🇺%20Россия%20|1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxRkFKZEJFcXNJNzFqYVNNTDY3bkhvUEJDR2hYOTR1aw==@45.138.157.162:443#🇷🇺%20Россия%20|2
 vless://87d58e85-a4b3-4187-9fb7-6f0a73b21a6b@178.154.202.67:443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=sso.passport.yandex.ru&pbk=lCwVDvngXM3kLz86XpOJmZ46coOVaV7Kl7vB7cCPeQI&sid=a20d3ed244c76426#🇷🇺%20Россия%20|3
-vless://94f729b1-5e1c-474f-a952-b8816a04e2fc@195.2.76.224:48868?type=tcp&headerType=none&security=reality&fp=chrome&sni=apple.com&pbk=QU6XzGL-1O93-UxkJYiV364sy30S5bI5EOahJL2blnE&sid=f2e878&spx=/#🇷🇺%20Россия%20|4
-vless://08c7f096-d057-4d53-82fd-c739d372887b@203.189.233.201:1140?type=tcp&headerType=none&security=none#🇷🇺%20Россия%20|5
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzbGl6ejhOc0dMVkZVYzU1WFdPcjBObTc0@basic-ru-3.undef.network:8894?type=tcp#🇷🇺%20Россия%20|6
-ss://YWVzLTI1Ni1nY206OWNhMjgwM2MxNmRlNzJjZA==@195.133.5.213:20219?type=tcp#🇷🇺%20Россия%20|7
-vless://0d93b787-b66b-4696-a036-a0f549764f69@196.196.203.90:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=fi.fasti.win&pbk=F294G-iRQHISvxNNtUtF2arP3d6pzigwfVcY2jqXcSc&sid=2a8a7bb6036e8461#🇷🇺%20Россия%20|8
-vless://62770d79-dc4d-07d0-b01c-ea30399725aa@95.163.250.213:52006?security=reality&encryption=none&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=d8c6b58bcbb0c323#🇷🇺%20Россия%20|9
-vless://4371ad14-b981-4699-bedf-83fb79bde3e6@176.108.242.76:443?security=reality&encryption=none&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.vkvideo.ru&sid=6354585c37827955#🇷🇺%20Россия%20|10
+ss://YWVzLTI1Ni1nY206OWNhMjgwM2MxNmRlNzJjZA==@195.133.5.213:20219?type=tcp#🇷🇺%20Россия%20|4
+vless://0d93b787-b66b-4696-a036-a0f549764f69@196.196.203.90:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=fi.fasti.win&pbk=F294G-iRQHISvxNNtUtF2arP3d6pzigwfVcY2jqXcSc&sid=2a8a7bb6036e8461#🇷🇺%20Россия%20|5
+vless://62770d79-dc4d-07d0-b01c-ea30399725aa@95.163.250.213:52006?security=reality&encryption=none&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=d8c6b58bcbb0c323#🇷🇺%20Россия%20|6
+vless://4371ad14-b981-4699-bedf-83fb79bde3e6@176.108.242.76:443?security=reality&encryption=none&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.vkvideo.ru&sid=6354585c37827955#🇷🇺%20Россия%20|7
 vless://62770d79-dc4d-01f4-b01c-ea30399725aa@95.163.250.213:52006?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#🇩🇪%20Германия[SenkoLLC]
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTRGFGSVNyM0dmbTZZa0JTU3JGSUV3d1dqRUVVN1hibw@95.164.10.228:443#🇩🇰%20Дания
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2VkFjbGw0UDh4UFRVVlZ0SGVTVDNvblJtTG9WSUJTVQ==@94.131.104.147:443#🇱🇻%20Латвия
@@ -27,8 +24,8 @@ trojan://zL7CpPYxhvFtYqm2yAbHrw@45.144.51.35:7390?type=tcp&headerType=none&secur
 vless://02fb468f-21f2-460e-bfa1-ef52ae5e627f@plcdn1.suio.me:443?type=tcp&headerType=none&security=tls&sni=plcdn1.suio.me&fp=chrome&allowInsecure=1#🇵🇱%20Польша%20|3
 vless://02fb468f-21f2-460e-bfa1-ef52ae5e627f@plcdn20.suio.me:443?type=tcp&headerType=none&security=tls&sni=plcdn20.suio.me&fp=chrome&allowInsecure=1#🇵🇱%20Польша%20|4
 trojan://humanity@www.calmlunch.com:443?type=ws&host=www.calmlunch.com&path=/assignment&security=tls&sni=www.calmlunch.com&fp=chrome&allowInsecure=0#🇫🇷%20Франция
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYTE9ydkxXa0NCQkJ4THFTRWU5UzhsbkM1UExzTmZSaA@103.75.118.125:443#🇯🇵%20Япония
-trojan://4843e94d205f3893f588255a591abe94@160.16.72.205:1933?type=tcp&security=tls&sni=www.nintendogames.net&fp=chrome&allowInsecure=0#🇯🇵%20Япония%20[Тест]
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYTE9ydkxXa0NCQkJ4THFTRWU5UzhsbkM1UExzTmZSaA@103.75.118.125:443#🇯🇵%20Япония%20|1
+trojan://4843e94d205f3893f588255a591abe94@160.16.72.205:1933?type=tcp&security=tls&sni=www.nintendogames.net&fp=chrome&allowInsecure=0#🇯🇵%20Япония%20|2
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@www.wto.org:2095?type=ws&host=fuckingfangbinxing.pusytroller.cf&path=/&security=none#☁️%20Cloudflare%20[Все%20страны]%20|1
 vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@8.47.69.0:2053?type=ws&host=sni.111000.dynv6.net&path=/&security=tls&sni=sni.111000.dynv6.net&fp=chrome&allowInsecure=1#☁️%20Cloudflare%20[Все%20страны]%20|2
 vless://00000000-0000-0000-0000-000000000000@8.47.69.0:2095?type=ws&host=freedom.pusytroller.cf&path=/&security=none#☁️%20Cloudflare%20[Все%20страны]%20|3
@@ -36,7 +33,4 @@ vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@8.6.112.0:2095?type=ws&host=freedom
 vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@platform.wise.com:2053?type=ws&host=sni.111000.dynv6.net&path=/&security=tls&sni=sni.111000.dynv6.net&fp=chrome&allowInsecure=0#☁️%20Cloudflare%20[Все%20страны]%20|5
 vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@www.aapanel.com:2053?type=ws&host=sni.111000.dynv6.net&path=/&security=tls&sni=sni.111000.dynv6.net&fp=chrome&allowInsecure=0#☁️%20Cloudflare%20[Все%20страны]%20|6
 vless://8a13ed66-d70a-4d32-8052-cbd8e0c5f7f4@141.101.121.223:8880?type=ws&host=joss.gvpn2.web.id&path=/Free-VPN-CF-Geo-Project/HK&security=none#☁️%20Cloudflare%20[Все%20страны]%20|7
-vless://8a13ed66-d70a-4d32-8052-cbd8e0c5f7f4@141.101.120.161:8880?type=ws&host=joss.gvpn2.web.id&path=/Free-VPN-CF-Geo-Project/HK&security=none#☁️%20Cloudflare%20[Все%20страны]%20|8
-vless://8a13ed66-d70a-4d32-8052-cbd8e0c5f7f4@141.101.121.75:8880?type=ws&host=joss.gvpn2.web.id&path=/Free-VPN-CF-Geo-Project/HK&security=none#☁️%20Cloudflare%20[Все%20страны]%20|9
-trojan://trojan@109.234.211.66:8443?type=ws&host=store.timimi.dpdns.org&path=/&security=tls&sni=store.timimi.dpdns.org&fp=chrome&allowInsecure=0#☁️%20Cloudflare%20[Все%20страны]%20|10
 
