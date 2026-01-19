@@ -25,6 +25,7 @@ trojan://zL7CpPYxhvFtYqm2yAbHrw@45.144.51.35:7390?type=tcp&headerType=none&secur
 vless://02fb468f-21f2-460e-bfa1-ef52ae5e627f@plcdn1.suio.me:443?type=tcp&headerType=none&security=tls&sni=plcdn1.suio.me&fp=chrome&allowInsecure=1#🇵🇱%20Польша%20|3
 vless://02fb468f-21f2-460e-bfa1-ef52ae5e627f@plcdn20.suio.me:443?type=tcp&headerType=none&security=tls&sni=plcdn20.suio.me&fp=chrome&allowInsecure=1#🇵🇱%20Польша%20|4
 vless://d6b1327d-2bec-4366-a3a1-9b1284f95841@212.233.72.239:1488?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=qq&sni=sun6-21.userapi.com&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#🇵🇱%20Польша%20|5
+vless://b9f3a4bb-6055-4890-a8a8-19a83d66bf30@91.211.27.167:2053?flow=&type=grpc&mode=gun&serviceName=xyz&security=reality&fp=chrome&sni=google.com&pbk=VoThhJ_pOwFXUCjB8DCpK3cM1ymeZKV4fBmo6audKVQ#🇵🇱%20Польша%20|6
 trojan://humanity@www.calmlunch.com:443?type=ws&host=www.calmlunch.com&path=/assignment&security=tls&sni=www.calmlunch.com&fp=chrome&allowInsecure=0#🇫🇷%20Франция
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYTE9ydkxXa0NCQkJ4THFTRWU5UzhsbkM1UExzTmZSaA@103.75.118.125:443#🇯🇵%20Япония%20|1
 trojan://4843e94d205f3893f588255a591abe94@160.16.72.205:1933?type=tcp&security=tls&sni=www.nintendogames.net&fp=chrome&allowInsecure=0#🇯🇵%20Япония%20|2
