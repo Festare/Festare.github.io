@@ -21,7 +21,7 @@ vless://6c49485f-843c-4e96-abfe-046bc473c7b0@45.144.51.22:443?flow=xtls-rprx-vis
 trojan://zL7CpPYxhvFtYqm2yAbHrw@45.144.51.35:7390?type=tcp&headerType=none&security=none#🇵🇱%20Польша%20|2
 vless://02fb468f-21f2-460e-bfa1-ef52ae5e627f@plcdn1.suio.me:443?type=tcp&headerType=none&security=tls&sni=plcdn1.suio.me&fp=chrome&allowInsecure=1#🇵🇱%20Польша%20|3
 vless://02fb468f-21f2-460e-bfa1-ef52ae5e627f@plcdn20.suio.me:443?type=tcp&headerType=none&security=tls&sni=plcdn20.suio.me&fp=chrome&allowInsecure=1#🇵🇱%20Польша%20|4
-vless://d6b1327d-2bec-4366-a3a1-9b1284f95841@212.233.72.239:1488?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=qq&sni=sun6-21.userapi.com&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#🇵🇱%20Польша%20|5
+trojan://3zHzw_g-AvErY8OQxDyxsA@185.138.90.31:444?type=tcp&security=none#🇵🇱%20Польша%20|5
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@www.wto.org:2095?type=ws&host=fuckingfangbinxing.pusytroller.cf&path=/&security=none#☁️%20Cloudflare%20[Все%20страны]%20|1
 vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@8.47.69.0:2053?type=ws&host=sni.111000.dynv6.net&path=/&security=tls&sni=sni.111000.dynv6.net&fp=chrome&allowInsecure=1#☁️%20Cloudflare%20[Все%20страны]%20|2
 vless://00000000-0000-0000-0000-000000000000@8.47.69.0:2095?type=ws&host=freedom.pusytroller.cf&path=/&security=none#☁️%20Cloudflare%20[Все%20страны]%20|3
