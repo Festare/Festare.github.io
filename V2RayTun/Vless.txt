@@ -27,7 +27,7 @@ vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@www.wto.org:2095?type=ws&host=fucki
 vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@8.47.69.0:2053?type=ws&host=sni.111000.dynv6.net&path=/&security=tls&sni=sni.111000.dynv6.net&fp=chrome&allowInsecure=1#☁️%20Cloudflare%20[Все%20страны]%20|2
 vless://00000000-0000-0000-0000-000000000000@8.47.69.0:2095?type=ws&host=freedom.pusytroller.cf&path=/&security=none#☁️%20Cloudflare%20[Все%20страны]%20|3
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@8.6.112.0:2095?type=ws&host=freedom.pusytroller.cf&path=/&security=none#☁️%20Cloudflare%20[Все%20страны]%20|4
-vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@platform.wise.com:2053?type=ws&host=sni.111000.dynv6.net&path=/&security=tls&sni=sni.111000.dynv6.net&fp=chrome&allowInsecure=0#☁️%20Cloudflare%20[Все%20страны]%20|5
+trojan://trojan@109.234.211.66:8443?type=ws&host=store.timimi.dpdns.org&path=/&security=tls&fp=chrome&sni=store.timimi.dpdns.org#☁️%20Cloudflare%20[Все%20страны]%20|5
 vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@www.aapanel.com:2053?type=ws&host=sni.111000.dynv6.net&path=/&security=tls&sni=sni.111000.dynv6.net&fp=chrome&allowInsecure=0#☁️%20Cloudflare%20[Все%20страны]%20|6
 vless://8a13ed66-d70a-4d32-8052-cbd8e0c5f7f4@141.101.121.223:8880?type=ws&host=joss.gvpn2.web.id&path=/Free-VPN-CF-Geo-Project/HK&security=none#☁️%20Cloudflare%20[Все%20страны]%20|7
 
