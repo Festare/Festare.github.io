@@ -4,6 +4,7 @@
 #profile-web-page-url: https://t.me/animefnik
 #announce: ☁️ - Cloudflare - Все страны, в зависимости от провайдера [Ближайшая].
 vless://c38e6142-9223-47ef-84ce-2a84a308cafb@51.250.0.147:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=api-maps.yandex.ru&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=17802e8ff84f12df#🌐%20[Все%20операторы]%20📶
+vless://4088cb46-66f8-43fa-bf37-6919cdda7830@31.59.168.88:6443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=tradingview.com&pbk=EhuKqEHHG-dQPFdT55oVEXAi9-cpGXPcxbpd6lGFoz4#🇨🇳%20Китай%20[$]
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxRkFKZEJFcXNJNzFqYVNNTDY3bkhvUEJDR2hYOTR1aw==@45.138.157.162:443#🇷🇺%20Россия%201️⃣
 vless://047bc9c2-7adc-47b6-9515-ae335714ff6c@37.18.14.235:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=rutube.ru&pbk=QhnA9aLmUkAz5CeeRE_1w5KyNtn-GeckBtGSavpgUgk&sid=24ca1a5ebf4e7a85#🇷🇺%20Россия%202️⃣
 vless://293a3485-1d30-4898-8c4e-7705e1f98cab@46.243.234.238:443?type=grpc&mode=gun&serviceName=b823c1a8&security=reality&fp=chrome&sni=eh.vk.com&pbk=fThABpYG1Jx9NjLPumXEJzuxMsH7iDSOAqjQ_NxbAwA&sid=c9fb824a026b05b9#🇷🇺%20Россия%203️⃣
