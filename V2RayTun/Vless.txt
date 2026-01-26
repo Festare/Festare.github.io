@@ -3,7 +3,7 @@
 #support-url: https://t.me/animefnik
 #profile-web-page-url: https://t.me/animefnik
 #announce: ☁️ - Cloudflare - Все страны, в зависимости от провайдера [Ближайшая].
-vless://a2b792c1-e574-4035-907e-bae16a94ecc5@146.185.241.66:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=ads.x5.ru&pbk=OPER3fuXeO5cgEtTC2baWPzYT7YdEUcj91Uh26UgyBU&sid=5ea7e22e779dabc5#🌐%20[Все%20операторы]%20📶
+vless://c38e6142-9223-47ef-84ce-2a84a308cafb@51.250.0.147:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=api-maps.yandex.ru&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=17802e8ff84f12df#🌐%20[Все%20операторы]%20📶
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxRkFKZEJFcXNJNzFqYVNNTDY3bkhvUEJDR2hYOTR1aw==@45.138.157.162:443#🇷🇺%20Россия%20|1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxRkFKZEJFcXNJNzFqYVNNTDY3bkhvUEJDR2hYOTR1aw==@45.138.157.162:443#🇷🇺%20Россия%20|2
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzbGl6ejhOc0dMVkZVYzU1WFdPcjBObTc0@basic-ru-3.undef.network:8894?type=tcp#🇷🇺%20Россия%20|3
