@@ -18,5 +18,5 @@ vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@www.wto.org:2095?type=ws&host=fucki
 vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@8.47.69.0:2053?type=ws&host=sni.111000.dynv6.net&path=/&security=tls&sni=sni.111000.dynv6.net&fp=chrome&allowInsecure=1#☁️%20Cloudflare%20|2
 vless://00000000-0000-0000-0000-000000000000@8.47.69.0:2095?encryption=none&type=ws&host=freedom.pusytroller.cf&path=/&security=none#☁️%20Cloudflare%20|3
 vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@www.aapanel.com:2053?type=ws&host=sni.111000.dynv6.net&path=/&security=tls&sni=sni.111000.dynv6.net&fp=chrome&allowInsecure=0#☁️%20Cloudflare%20|4
-vless://0dbad6ba-be87-46e1-ab90-30c53ef1878d@chatgpt.com:443?type=xhttp&host=&path=/sreztjsterw4j&mode=auto&security=tls&sni=drive.speegy.club&alpn=h2&fp=chrome&allowInsecure=0##☁️%20Cloudflare%20|5
+vless://0dbad6ba-be87-46e1-ab90-30c53ef1878d@chatgpt.com:443?type=xhttp&host=&path=/sreztjsterw4j&mode=auto&security=tls&sni=drive.speegy.club&alpn=h2&fp=chrome&allowInsecure=0#☁️%20Cloudflare%20|5
 
