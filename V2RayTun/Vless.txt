@@ -8,7 +8,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxRkFKZEJFcXNJNzFqYVNNTDY3bkhvUEJDR2hYOTR1aw=
 ss://YWVzLTEyOC1nY206dEtrbytZSUF1dVozZDBoc1BYMitEM05xZXB5dEcxSGEwVlJMd0JyZjBBaz0=@5.129.219.21:8080?type=tcp#🇷🇺%20Россия%202️⃣
 vless://419ccc44-0a46-4461-a73f-2d6f44fecede@95.163.208.119:4443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=yandex.ru&pbk=xc8CBkdFt4AYO_xP744z4V4RZsIQ0xJpyUKTsXaXp0I&sid=bd4038d0ad4e11de#🇳🇱%20Нидерланды%201️⃣
 vless://06d4a2dd-b823-4b6a-843e-c159b6858d91@25.129.199.122:2095?flow=&type=ws&host=ip6-free2.shakhle.ir.&path=/&security=none#🇫🇮%20Финляндия%201️⃣
-vless://72e97eb0d0544970a7ed42d796c6773c@130.0.233.100:8443?type=xhttp&host=&path=/x&mode=auto&security=reality&fp=random&sni=ya.ru&pbk=oJXngdG-SwLxHt2tJonmC-T_6PS4UEACLWj4sbfetno&sid=aabbccdd#🇺🇦%20Украина%201️⃣
+vless://cc235335-34f0-4f1b-b3e3-5f32e2eeaa89@87.121.82.104:443?flow=&type=tcp&headerType=none&security=reality&fp=chrome&sni=monolithgate.xyz&pbk=ITIzx2eH_sAZQKrUAShHHl_WS7fc7tUuPWbE6vEDbmo&sid=b7#🇫🇮%20Финляндия%202️⃣
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@www.wto.org:2095?type=ws&host=fuckingfangbinxing.pusytroller.cf&path=/&security=none#☁️%20Cloudflare%201️⃣
 vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@8.47.69.0:2053?type=ws&host=sni.111000.dynv6.net&path=/&security=tls&sni=sni.111000.dynv6.net&fp=chrome&allowInsecure=1#☁️%20Cloudflare%202️⃣
 vless://00000000-0000-0000-0000-000000000000@8.47.69.0:2095?encryption=none&type=ws&host=freedom.pusytroller.cf&path=/&security=none#☁️%20Cloudflare%203️⃣
