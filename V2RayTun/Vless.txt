@@ -4,16 +4,11 @@
 #profile-web-page-url: https://t.me/animefnik
 #announce: ☁️ - Cloudflare - Все страны, в зависимости от провайдера [Ближайшая].
 vless://c38e6142-9223-47ef-84ce-2a84a308cafb@51.250.0.147:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=api-maps.yandex.ru&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=17802e8ff84f12df#🌐%20[Все%20операторы]%20📶
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxRkFKZEJFcXNJNzFqYVNNTDY3bkhvUEJDR2hYOTR1aw==@45.138.157.162:443#🇷🇺%20Россия%20|1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxRkFKZEJFcXNJNzFqYVNNTDY3bkhvUEJDR2hYOTR1aw==@45.138.157.162:443#🇷🇺%20Россия%20|2
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzbGl6ejhOc0dMVkZVYzU1WFdPcjBObTc0@basic-ru-3.undef.network:8894?type=tcp#🇷🇺%20Россия%20|3
-vless://7005f499-036f-4570-a2a1-29761cfbbd9e@ru.fasti.win:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=ru.fasti.win&pbk=iAI3AU1ymQksBudcPndvOpV-mFWn-ECQKF0K42qb12k&sid=5e93929f12f446fe#🇷🇺%20Россия%20|4
-vless://047bc9c2-7adc-47b6-9515-ae335714ff6c@37.18.14.235:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=rutube.ru&pbk=QhnA9aLmUkAz5CeeRE_1w5KyNtn-GeckBtGSavpgUgk&sid=24ca1a5ebf4e7a85#🇷🇺%20Россия%20|5
-vless://5fdb3393-dfba-4550-98b2-9c2bb0cdca3e@mebel-moscow.mooo.com:443?type=tcp&encryption=none&security=reality&pbk=JAbWGIAmloNGelIAF_SogtwSjt2jH0E6by1p4_R2KGg&fp=random&sni=sub.mebel-moscow.mooo.com&sid=07155d5eeefa1d1e&spx=%2F#🇳🇱%20Нидерланды%20|1
-vless://5479257a-26f5-4575-a679-9452dad217b4@mebel-moscow.mooo.com:443?type=xhttp&encryption=none&path=%2FozZyUlpJRQ&host=&mode=packet-up&security=tls#🇳🇱%20Нидерланды%20|2
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.209:8080#🇳🇱%20Нидерланды%20|3
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowTmVONXRhN0ZMYTVCOURMeXRVMHVt@212.34.140.184:443#🇳🇱%20Нидерланды%20|4
-vless://419ccc44-0a46-4461-a73f-2d6f44fecede@95.163.208.119:4443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=yandex.ru&pbk=xc8CBkdFt4AYO_xP744z4V4RZsIQ0xJpyUKTsXaXp0I&sid=bd4038d0ad4e11de#🇳🇱%20Нидерланды%20|5
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxRkFKZEJFcXNJNzFqYVNNTDY3bkhvUEJDR2hYOTR1aw==@45.138.157.162:443#🇷🇺%20Россия%201️⃣
+ss://YWVzLTEyOC1nY206dEtrbytZSUF1dVozZDBoc1BYMitEM05xZXB5dEcxSGEwVlJMd0JyZjBBaz0=@5.129.219.21:8080?type=tcp#🇷🇺%20Россия%202️⃣
+vless://49621f3d38004f5faff2f5c7d836564b@134.17.17.236:8443?encryption=none&type=xhttp&mode=auto&path=/x&security=reality&fp=random&sni=yandex.by&pbk=SZwtfh2ve6sssKjeddg8-4EFuNqZo7rJKqSM9niM1jU&sid=aabbccdd#🇧🇾%20Беларусь%201️⃣
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTRGFGSVNyM0dmbTZZa0JTU3JGSUV3d1dqRUVVN1hibw==@95.164.10.228:443?type=tcp#🇩🇰%20Дания%201️⃣
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2VkFjbGw0UDh4UFRVVlZ0SGVTVDNvblJtTG9WSUJTVQ==@94.131.104.147:443?type=tcp#🇱🇻%20Латвия%201️⃣
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@www.wto.org:2095?type=ws&host=fuckingfangbinxing.pusytroller.cf&path=/&security=none#☁️%20Cloudflare%20|1
 vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@8.47.69.0:2053?type=ws&host=sni.111000.dynv6.net&path=/&security=tls&sni=sni.111000.dynv6.net&fp=chrome&allowInsecure=1#☁️%20Cloudflare%20|2
 vless://00000000-0000-0000-0000-000000000000@8.47.69.0:2095?encryption=none&type=ws&host=freedom.pusytroller.cf&path=/&security=none#☁️%20Cloudflare%20|3
