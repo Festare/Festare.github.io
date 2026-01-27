@@ -16,4 +16,4 @@ vless://419ccc44-0a46-4461-a73f-2d6f44fecede@95.163.208.119:4443?encryption=none
 vless://71a57467-98fc-4e3a-9eea-ba06e4974dd4@midorinote.ru:8443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=random&sni=tradingview.com&pbk=wNcFqVd4_PkgJbfgJJeouSU6Pn_Swuce4q4Chw5T0hY&sid=f7aa9e61197d3ac6#🇳🇱%20Нидерланды%203️⃣
 vless://5fdb3393-dfba-4550-98b2-9c2bb0cdca3e@mebel-moscow.mooo.com:443?encryption=none&type=tcp&security=reality&fp=random&sni=sub.mebel-moscow.mooo.com&pbk=JAbWGIAmloNGelIAF_SogtwSjt2jH0E6by1p4_R2KGg&sid=07155d5eeefa1d1e&spx=/#🇳🇱%20Нидерланды%204️⃣
 vless://5479257a-26f5-4575-a679-9452dad217b4@mebel-moscow.mooo.com:443?encryption=none&type=xhttp&mode=packet-up&path=/ozZyUlpJRQ&security=tls#🇳🇱%20Нидерланды%205️⃣
-
+vless://178362e7-a635-4e79-9a87-5958ff9c529f@85.192.34.4:4443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&fp=chrome&security=reality&pbk=uhbsWhNUi9ycReN9Z0aZ-GyrWwVCAHPtcTNin4fPDnw&sid=d5d56217eb2f52db#🇫🇮%20Финляндия%201️⃣
