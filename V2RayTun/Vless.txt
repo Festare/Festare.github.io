@@ -3,8 +3,7 @@
 #support-url: https://t.me/animefnik
 #profile-web-page-url: https://t.me/animefnik
 #announce: ☁️ - Cloudflare - Все страны, в зависимости от провайдера [Ближайшая].
-vless://3cc4c358-1119-4851-9dbd-2356bf5d285c@89.169.188.57:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=google.com&fp=chrome&security=reality&pbk=Dcy5P5rKN1GmV2KHVRzWpVmX4hhZDnt4dVUdTBt2Wjs&sid=#🌐%20[Все%20операторы]%20📶1️⃣
-vless://c38e6142-9223-47ef-84ce-2a84a308cafb@51.250.0.147:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=api-maps.yandex.ru&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=17802e8ff84f12df#🌐%20[Все%20операторы]%20📶2️⃣
+vless://3cc4c358-1119-4851-9dbd-2356bf5d285c@89.169.188.57:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=google.com&fp=chrome&security=reality&pbk=Dcy5P5rKN1GmV2KHVRzWpVmX4hhZDnt4dVUdTBt2Wjs&sid=#🌐%20[Все%20операторы]%20📶
 vless://4088cb46-66f8-43fa-bf37-6919cdda7830@31.59.168.88:6443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=tradingview.com&pbk=EhuKqEHHG-dQPFdT55oVEXAi9-cpGXPcxbpd6lGFoz4#🇨🇳%20Китай%20[$]
 vless://45e3b7ad-03b6-42fc-b616-1e92bdd0a5b3@185.234.59.94:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&fp=chrome&security=reality&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=f79448a30d#🇷🇺%20Россия%201️⃣
 vless://047bc9c2-7adc-47b6-9515-ae335714ff6c@37.18.14.235:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=rutube.ru&pbk=QhnA9aLmUkAz5CeeRE_1w5KyNtn-GeckBtGSavpgUgk&sid=24ca1a5ebf4e7a85#🇷🇺%20Россия%202️⃣
