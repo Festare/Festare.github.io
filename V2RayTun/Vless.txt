@@ -3,7 +3,7 @@
 #support-url: https://t.me/animefnik
 #profile-web-page-url: https://t.me/animefnik
 #announce: ☁️ - Cloudflare - Все страны, в зависимости от провайдера [Ближайшая].
-vless://3cc4c358-1119-4851-9dbd-2356bf5d285c@89.169.188.57:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=google.com&fp=chrome&security=reality&pbk=Dcy5P5rKN1GmV2KHVRzWpVmX4hhZDnt4dVUdTBt2Wjs&sid=#🌐%20[Все%20операторы]%20📶
+vless://792adea77a684201b13f85084a00287e@45.151.62.132:8443?mode=auto&path=%2Fx&security=reality&encryption=none&pbk=pbvLeT8R8bA8isPIi1JNbSAz7zM3GFkTLkDinP8ilnU&fp=random&type=xhttp&sni=ya.ru&sid=aabbccdd#🌐%20[Все%20операторы]%20📶
 vless://4088cb46-66f8-43fa-bf37-6919cdda7830@31.59.168.88:6443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=tradingview.com&pbk=EhuKqEHHG-dQPFdT55oVEXAi9-cpGXPcxbpd6lGFoz4#🇨🇳%20Китай%20[$]
 vless://45e3b7ad-03b6-42fc-b616-1e92bdd0a5b3@185.234.59.94:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&fp=chrome&security=reality&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=f79448a30d#🇷🇺%20Россия%201️⃣
 vless://45e3b7ad-03b6-42fc-b616-1e92bdd0a5b3@185.234.59.58:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=hls-svod.itunes.apple.com&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=f79448a30d#🇷🇺%20Россия%202️⃣
