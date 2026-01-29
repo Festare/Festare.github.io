@@ -3,7 +3,6 @@
 #support-url: https://t.me/animefnik
 #profile-web-page-url: https://t.me/animefnik
 #announce: 🇷🇺🇩🇪🇳🇱🇪🇪
-vless://c4e8c108-acaa-45da-b47e-fef6f82693ef@0.0.0.0:1?encryption=none&type=tcp#⭐️⬇️ВНИЗУ%20ЧТО-ТО%20РАБОТАЕТ⬇️⭐️
 vless://3cc4c358-1119-4851-9dbd-2356bf5d285c@89.169.188.57:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=google.com&fp=chrome&security=reality&pbk=Dcy5P5rKN1GmV2KHVRzWpVmX4hhZDnt4dVUdTBt2Wjs&sid=#🌐%20[Все%20операторы]%20📶
 vless://4088cb46-66f8-43fa-bf37-6919cdda7830@31.59.168.88:6443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=tradingview.com&pbk=EhuKqEHHG-dQPFdT55oVEXAi9-cpGXPcxbpd6lGFoz4#🇨🇳%20Китай%20[$]
 vless://45e3b7ad-03b6-42fc-b616-1e92bdd0a5b3@185.234.59.94:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&fp=chrome&security=reality&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=f79448a30d#🇷🇺%20Россия%201️⃣
