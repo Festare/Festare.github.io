@@ -2,7 +2,7 @@
 #profile-title: Festare⭐️
 #support-url: https://t.me/animefnik
 #profile-web-page-url: https://t.me/animefnik
-#announce: 🇷🇺🇩🇪🇳🇱🇪🇪
+#announce: 🇷🇺🇩🇪🇳🇱
 vless://20db9c4e-3b61-4fda-bb08-8dbb4da8e2dc@vkcbaza.appav.online:7443?encryption=none&type=grpc&mode=gun&serviceName=UpdateService&security=reality&fp=chrome&sni=5post-gate.x5.ru&pbk=8hdXyv-YBQIaA2xgOfT2nhfna5y5s19qbZD-SpMZ6hg&sid=dd700a46e27751d1#🌐%20[Все%20операторы]%20📶
 vless://4088cb46-66f8-43fa-bf37-6919cdda7830@31.59.168.88:6443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=tradingview.com&pbk=EhuKqEHHG-dQPFdT55oVEXAi9-cpGXPcxbpd6lGFoz4#🇨🇳%20Китай%20[$]
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowSWFCekptWWVlQktCQktwZ2pmS2JWUnpX@basic-ru-0.undef.network:40639#🇷🇺%20Россия%201️⃣
@@ -14,6 +14,3 @@ vless://b338a8f4-9aa3-4e1d-b6b7-5efed8ae038b@85.195.101.122:48129?flow=&type=tcp
 vless://71a57467-98fc-4e3a-9eea-ba06e4974dd4@midorinote.ru:8443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=random&sni=tradingview.com&pbk=wNcFqVd4_PkgJbfgJJeouSU6Pn_Swuce4q4Chw5T0hY&sid=f7aa9e61197d3ac6#🇳🇱%20Нидерланды%201️⃣
 vless://id8500406898@89.110.104.241:443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=www.vk.com&pbk=mQTsBogxsAzc4BAMBiDIkBVSWY6e8_juktrBuF38lX0&sid=6ff4532866a26194&spx=/hCjeuv1mElv1PFT#🇳🇱%20Нидерланды%202️⃣
 vless://e0ff43e6-76ed-42f3-a1f0-1bbd5f8ee59d@217.114.15.157:443?type=xhttp&host=&path=/&mode=auto&security=reality&fp=firefox&sni=github.com&pbk=Y2gKx6Wvg0kWTSwtDZUMwoig1x9sxhx4kUg_VrYnUXc&sid=bcbfa46faa4370d2&spx=/#🇳🇱%20Нидерланды%203️⃣
-vless://72d33e6f-2067-4607-8056-fa45e1967b0c@tbankru.outlinekeys.net:443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=tbankru.outlinekeys.net&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA#🇪🇪%20Эстония%201️⃣
-vless://f4fec1b0-a67e-4967-b9ea-0bd832b57a4d@38.180.45.221:8443?type=tcp&headerType=none&security=reality&fp=chrome&sni=sun6-21.userapi.com&pbk=upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo&sid=3ca620a7ed5f3196#🇪🇪%20Эстония%202️⃣
-vless://45e3b7ad-03b6-42fc-b616-1e92bdd0a5b3@est01-vlr01.tcp-reset-club.net:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=hls-svod.itunes.apple.com&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=31#🇪🇪%20Эстония%203️⃣
