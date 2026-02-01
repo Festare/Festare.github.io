@@ -10,8 +10,7 @@ vless://45e3b7ad-03b6-42fc-b616-1e92bdd0a5b3@185.234.59.58:443?encryption=none&f
 vless://792adea77a684201b13f85084a00287e@45.151.62.132:8443?encryption=none&type=xhttp&mode=auto&path=/x&security=reality&fp=random&sni=ya.ru&pbk=pbvLeT8R8bA8isPIi1JNbSAz7zM3GFkTLkDinP8ilnU&sid=aabbccdd#🇷🇺%20Россия%203️⃣
 vless://d4a0cc8c-2f9c-41fb-a5b8-d60c9a2a347d@179.61.132.58:32143?encryption=none&type=ws&path=/#🇩🇪%20Германия%201️⃣
 vless://ccbc334b-de33-4431-89b4-35b756230f51@94.237.93.9:59421?flow=&type=tcp&headerType=http&host=soft98.ir&path=&security=none#🇩🇪%20Германия%202️⃣
-vless://ccbc334b-de33-4431-89b4-35b756230f51@94.237.93.9:59421?type=tcp&headerType=http&host=soft98.ir&path=&security=none#🇩🇪%20Германия%203️⃣
-trojan://x.8ur1QiCyzlRHXeaB5UwoDfgZ04s@45.32.158.138:20994?type=tcp&headerType=none&security=tls&sni=%F0%9F%94%92&fp=chrome&allowInsecure=1#🇩🇪%20Германия%204️⃣
+trojan://x.8ur1QiCyzlRHXeaB5UwoDfgZ04s@45.32.158.138:20994?type=tcp&headerType=none&security=tls&sni=%F0%9F%94%92&fp=chrome&allowInsecure=1#🇩🇪%20Германия%203️⃣
 vless://71a57467-98fc-4e3a-9eea-ba06e4974dd4@midorinote.ru:8443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=random&sni=tradingview.com&pbk=wNcFqVd4_PkgJbfgJJeouSU6Pn_Swuce4q4Chw5T0hY&sid=f7aa9e61197d3ac6#🇳🇱%20Нидерланды%201️⃣
 vless://id8500406898@89.110.104.241:443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=www.vk.com&pbk=mQTsBogxsAzc4BAMBiDIkBVSWY6e8_juktrBuF38lX0&sid=6ff4532866a26194&spx=/hCjeuv1mElv1PFT#🇳🇱%20Нидерланды%202️⃣
 vless://e0ff43e6-76ed-42f3-a1f0-1bbd5f8ee59d@217.114.15.157:443?type=xhttp&host=&path=/&mode=auto&security=reality&fp=firefox&sni=github.com&pbk=Y2gKx6Wvg0kWTSwtDZUMwoig1x9sxhx4kUg_VrYnUXc&sid=bcbfa46faa4370d2&spx=/#🇳🇱%20Нидерланды%203️⃣
