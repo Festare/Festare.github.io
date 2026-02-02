@@ -3,7 +3,7 @@
 #support-url: https://t.me/animefnik
 #profile-web-page-url: https://t.me/animefnik
 #announce: 🇷🇺🇵🇱🇳🇱
-vless://20db9c4e-3b61-4fda-bb08-8dbb4da8e2dc@vkcbaza.appav.online:7443?encryption=none&type=grpc&mode=gun&serviceName=UpdateService&security=reality&fp=chrome&sni=5post-gate.x5.ru&pbk=8hdXyv-YBQIaA2xgOfT2nhfna5y5s19qbZD-SpMZ6hg&sid=dd700a46e27751d1#🌐%20[Все%20операторы]%20📶
+vless://83dd438b-357b-4060-a633-52e9714afabe@51.250.0.147:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=ads.x5.ru&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=33554379411b3219#🌐%20[Все%20операторы]%20📶
 vless://4088cb46-66f8-43fa-bf37-6919cdda7830@31.59.168.88:6443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=tradingview.com&pbk=EhuKqEHHG-dQPFdT55oVEXAi9-cpGXPcxbpd6lGFoz4#🇨🇳%20Китай%20[$]
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowSWFCekptWWVlQktCQktwZ2pmS2JWUnpX@basic-ru-0.undef.network:40639#🇷🇺%20Россия%201️⃣
 vless://afa7cc47-243c-477b-a526-6262d5b75353@5.188.140.3:57783?flow=&type=ws&host=api.vles.space&path=/api/maps&security=tls&sni=api.vles.space&alpn=h2,http/1.1&fp=chrome&allowInsecure=0#🇷🇺%20Россия%202️⃣
