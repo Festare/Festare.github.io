@@ -12,4 +12,4 @@ vless://a7a9f670-44c0-45a9-8047-69db0203c142@144.31.0.85:443?flow=&type=tcp&head
 vless://71a57467-98fc-4e3a-9eea-ba06e4974dd4@midorinote.ru:8443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=random&sni=tradingview.com&pbk=wNcFqVd4_PkgJbfgJJeouSU6Pn_Swuce4q4Chw5T0hY&sid=f7aa9e61197d3ac6#🇳🇱%20Нидерланды%201️⃣
 vless://e0ff43e6-76ed-42f3-a1f0-1bbd5f8ee59d@217.114.15.157:443?type=xhttp&host=&path=/&mode=auto&security=reality&fp=firefox&sni=github.com&pbk=Y2gKx6Wvg0kWTSwtDZUMwoig1x9sxhx4kUg_VrYnUXc&sid=bcbfa46faa4370d2&spx=/#🇳🇱%20Нидерланды%202️⃣
 vless://1e1b9a1f-47cd-4cb2-a0dc-103a09e253ba@nl.iccgame.site:3000?flow=&type=tcp&headerType=http&host=chess.com&path=/&security=none#🇳🇱%20Нидерланды%203️⃣
-vless://a7a9f670-44c0-45a9-8047-69db0203c142@45.144.53.98:443?type=tcp&security=tls&sni=ficdn4.suio.me&fp=chrome&allowInsecure=0#🇫🇮%20Финляндия%201️⃣
+vless://a7a9f670-44c0-45a9-8047-69db0203c142@ficdn4.suio.me:443?type=tcp&security=tls&sni=ficdn4.suio.me&fp=chrome&allowInsecure=0#🇫🇮%20Финляндия%201️⃣
