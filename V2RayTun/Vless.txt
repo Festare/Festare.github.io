@@ -2,7 +2,7 @@
 #profile-title: Festare⭐️
 #support-url: https://t.me/animefnik
 #profile-web-page-url: https://t.me/animefnik
-#announce: 🇷🇺🇵🇱🇳🇱🇫🇮
+#announce: 🇷🇺🇵🇱🇳🇱
 vless://e2efcdb7-7d9b-4b29-8a0e-e6b1b6e10037@5.188.35.49:50652?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=eh.vk.com&pbk=NXo5uRsVEmNtYWahGbEjr-y2IloJTgBc3WQmq60F2T8&sid=78781cd4b7f0#🌐%20[Все%20операторы]%20📶
 vless://dd9c0ccd-1aeb-4f2d-9ab1-5f6996518c77@81.200.151.91:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=m.vk.com&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=17f0f0e38f01af5a#🇷🇺%20Россия%201️⃣
 vless://8ff544c5-303c-46f4-80fe-8e8e166fd981@45.139.26.213:443?security=reality&encryption=none&pbk=tYFlc_8tzrwDisZbxlHj06rw_YE154TVYeEBuwOQZHE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.yandex.ru&sid=8a6605e7#🇷🇺%20Россия%202️⃣
@@ -18,4 +18,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.82:80
 vless://e0ff43e6-76ed-42f3-a1f0-1bbd5f8ee59d@217.114.15.157:443?type=xhttp&host=&path=/&mode=auto&security=reality&fp=firefox&sni=github.com&pbk=Y2gKx6Wvg0kWTSwtDZUMwoig1x9sxhx4kUg_VrYnUXc&sid=bcbfa46faa4370d2&spx=/#🇳🇱%20Нидерланды%202️⃣
 vless://1e1b9a1f-47cd-4cb2-a0dc-103a09e253ba@nl.iccgame.site:3000?flow=&type=tcp&headerType=http&host=chess.com&path=/&security=none#🇳🇱%20Нидерланды%203️⃣
 vless://12319401-960e-4a2c-881b-917cf0af6c83@144.31.100.120:443?flow=&type=tcp&headerType=none&security=reality&fp=chrome&sni=www.google.com&pbk=ihtXyG0UidSbXjvCJXUhABwZGCCB62DUsVBFn_qVd3g&sid=54c71eb172a3#🇳🇱%20Нидерланды%204️⃣
-vless://05dc09d5-5c56-454b-a34e-6ef743d91e1a@finland.boot-lee.ru:8443?security=reality&encryption=none&pbk=3JGwSDrfkiCPdU3rvQP5m0z4Ag_UB_2w8Qq3VMXmo28&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=sun6-22.userapi.com&sid=abc323#🇫🇮%20Финляндия%202️⃣
