@@ -4,7 +4,7 @@
 #profile-web-page-url: https://t.me/animefnik
 #announce: 🇷🇺🇵🇱🇳🇱🇫🇮
 vless://e2efcdb7-7d9b-4b29-8a0e-e6b1b6e10037@5.188.35.49:50652?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=eh.vk.com&pbk=NXo5uRsVEmNtYWahGbEjr-y2IloJTgBc3WQmq60F2T8&sid=78781cd4b7f0#🌐%20[Все%20операторы]%20📶
-vless://792adea77a684201b13f85084a00287e@45.151.62.132:8443?encryption=none&type=xhttp&mode=auto&path=/x&security=reality&fp=random&sni=ya.ru&pbk=pbvLeT8R8bA8isPIi1JNbSAz7zM3GFkTLkDinP8ilnU&sid=aabbccdd#🇷🇺%20Россия%201️⃣
+vless://dd9c0ccd-1aeb-4f2d-9ab1-5f6996518c77@81.200.151.91:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=m.vk.com&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=17f0f0e38f01af5a#🇷🇺%20Россия%201️⃣
 vless://8ff544c5-303c-46f4-80fe-8e8e166fd981@45.139.26.213:443?security=reality&encryption=none&pbk=tYFlc_8tzrwDisZbxlHj06rw_YE154TVYeEBuwOQZHE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.yandex.ru&sid=8a6605e7#🇷🇺%20Россия%202️⃣
 vless://e6ec1d89-17fc-4de7-af89-81cd51022526@pl.griffon-guard.com:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=apple.com&pbk=IBvNLerjNLpF4OpUX-wGJp8YDZrnKoh-gEItUDNT_Bg#🇵🇱%20Польша%201️⃣
 vless://b42f7955-3741-406f-b95a-ed7b051ae5aa@144.31.3.45:5555?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=eurofurence.org&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#🇵🇱%20Польша%202️⃣
