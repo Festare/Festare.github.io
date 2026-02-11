@@ -9,4 +9,5 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxMnFCS2ZzYmQwUmpPMHZxRWhnc2FjY3dw@basic-ru-1
 vless://e8accc46-c511-42fb-919b-9283799a88a1@87.239.107.214:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=m.vk.ru&pbk=Qddpg8luihgzgx4g4uMJklXzlrMCd8L1igJSWrRUvSc&sid=887c0d72e771a934#🇵🇱%20Польша%201️⃣
 vless://b42f7955-3741-406f-b95a-ed7b051ae5aa@144.31.3.45:5555?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=eurofurence.org&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#🇵🇱%20Польша%202️⃣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.82:8080#🇳🇱%20Нидерланды%201️⃣
-vless://9a9653b4-b5b8-4ad2-9fb9-e0e30fbbba77@osn.takovpn.ru:443?encryption=none&type=tcp&headerType=none&security=reality&fp=chrome&sni=google.com&pbk=ihtXyG0UidSbXjvCJXUhABwZGCCB62DUsVBFn_qVd3g&sid=9de7#🇳🇱%20Нидерланды%202️⃣
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.99:8080?type=tcp#🇳🇱%20Нидерланды%202️⃣
+vless://9a9653b4-b5b8-4ad2-9fb9-e0e30fbbba77@osn.takovpn.ru:443?encryption=none&type=tcp&headerType=none&security=reality&fp=chrome&sni=google.com&pbk=ihtXyG0UidSbXjvCJXUhABwZGCCB62DUsVBFn_qVd3g&sid=9de7#🇳🇱%20Нидерланды%203️⃣
