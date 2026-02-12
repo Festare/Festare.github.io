@@ -11,4 +11,4 @@ vless://e8accc46-c511-42fb-919b-9283799a88a1@87.239.107.214:443?flow=xtls-rprx-v
 vless://b42f7955-3741-406f-b95a-ed7b051ae5aa@144.31.3.45:5555?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=eurofurence.org&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#🇵🇱%20Польша%202️⃣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.82:8080#🇳🇱%20Нидерланды%201️⃣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.99:8080?type=tcp#🇳🇱%20Нидерланды%202️⃣
-vless://9a9653b4-b5b8-4ad2-9fb9-e0e30fbbba77@osn.takovpn.ru:443?encryption=none&type=tcp&headerType=none&security=reality&fp=chrome&sni=google.com&pbk=ihtXyG0UidSbXjvCJXUhABwZGCCB62DUsVBFn_qVd3g&sid=9de7#🇳🇱%20Нидерланды%203️⃣
+vless://30c04389-bbcb-431f-9d47-a8ad24406bd4@45.134.218.222:443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=stats.vk-portal.net&pbk=eQXsYV276NoiN9SDwuloNrJkX-NU2tDtkMK6ntKQwlg&sid=d4727968a1fae56f#🇳🇱%20Нидерланды%203️⃣
