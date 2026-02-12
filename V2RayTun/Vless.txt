@@ -7,7 +7,7 @@ vless://30c04389-bbcb-431f-9d47-a8ad24406bd4@51.250.23.190:443?encryption=none&f
 vless://07cd9dbe-21ac-4871-817d-c772687e4b7c@176.109.106.241:443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=eh.vk.com&pbk=7IOtSp0-n2_uNS5nMO9ywZbn2HibMRGy0KbLad3szXc&sid=b8cf9578640a9edf#🇷🇺%20Россия%201️⃣
 vless://8ff544c5-303c-46f4-80fe-8e8e166fd981@45.139.26.213:443?security=reality&encryption=none&pbk=tYFlc_8tzrwDisZbxlHj06rw_YE154TVYeEBuwOQZHE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.yandex.ru&sid=8a6605e7#🇷🇺%20Россия%202️⃣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxMnFCS2ZzYmQwUmpPMHZxRWhnc2FjY3dw@basic-ru-1.undef.network:33386#🇷🇺%20Россия%203️⃣
-vless://e8accc46-c511-42fb-919b-9283799a88a1@87.239.107.214:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=m.vk.ru&pbk=Qddpg8luihgzgx4g4uMJklXzlrMCd8L1igJSWrRUvSc&sid=887c0d72e771a934#🇵🇱%20Польша%201️⃣
+vless://e8accc46-c511-42fb-919b-9283799a88a1@158.160.221.132:51102?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=yandex.ru&pbk=Qddpg8luihgzgx4g4uMJklXzlrMCd8L1igJSWrRUvSc&sid=8f222b3475800821#🇵🇱%20Польша%201️⃣
 vless://b42f7955-3741-406f-b95a-ed7b051ae5aa@144.31.3.45:5555?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=eurofurence.org&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#🇵🇱%20Польша%202️⃣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.82:8080#🇳🇱%20Нидерланды%201️⃣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.99:8080?type=tcp#🇳🇱%20Нидерланды%202️⃣
