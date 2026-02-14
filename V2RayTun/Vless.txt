@@ -2,7 +2,7 @@
 #profile-title: Festare⭐️
 #support-url: https://t.me/animefnik
 #profile-web-page-url: https://t.me/animefnik
-#announce: 🇷🇺🇵🇱🇳🇱
+#announce:  
 vless://30c04389-bbcb-431f-9d47-a8ad24406bd4@51.250.23.190:443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=stats.vk-portal.net&pbk=OBR2JYROQB8odK5glVW_KLnsWl3UZ-voyGq_9ihQgTI&sid=d49d578f280fd83a#🌐%20[Все%20операторы]%20📶
 vless://eb071647-72a6-46be-8e89-ff3d228d52f6@by.cdn.titun.su:443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=qq&sni=by.cdn.titun.su&pbk=0L6FE1vTechnKhN9LxFgmcDzqGVIfEQz8ZBGfvzKGzg&sid=cad317b20db4aad2#🌐%20АнтиГлушилка%20⭐️1️⃣
 vless://30c04389-bbcb-431f-9d47-a8ad24406bd4@31.13.208.89:443?encryption=none&type=grpc&mode=gun&serviceName=xyz&security=reality&fp=chrome&sni=ads.x5.ru&pbk=OBR2JYROQB8odK5glVW_KLnsWl3UZ-voyGq_9ihQgTI&sid=d49d578f280fd83a#🌐%20АнтиГлушилка%20⭐️2️⃣
