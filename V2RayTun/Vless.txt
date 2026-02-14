@@ -16,4 +16,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.82:80
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.99:8080?type=tcp#🇳🇱%20Нидерланды%202️⃣
 vless://30c04389-bbcb-431f-9d47-a8ad24406bd4@45.134.218.222:443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=stats.vk-portal.net&pbk=eQXsYV276NoiN9SDwuloNrJkX-NU2tDtkMK6ntKQwlg&sid=d4727968a1fae56f#🇳🇱%20Нидерланды%203️⃣
 vless://30c04389-bbcb-431f-9d47-a8ad24406bd4@31.13.208.89:443?encryption=none&type=grpc&mode=gun&serviceName=xyz&security=reality&fp=chrome&sni=ads.x5.ru&pbk=OBR2JYROQB8odK5glVW_KLnsWl3UZ-voyGq_9ihQgTI&sid=d49d578f280fd83a#🇫🇮%20Финляндия%201️⃣
+vless://d4de1f64-bf3c-4d97-9663-0091f8c07359@logggg.nammknammknammknammknammkb2.ir:443?encryption=none&type=tcp&headerType=none&security=reality&sni=logggg.nammknammknammknammknammkb2.ir&pbk=RravQN06gzsNsm5ojEhZGrxBgLGEpqEThtHEltdjpBk&sid=b3d76d#🇫🇮%20Финляндия%202️⃣
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxUzNza3dtb2xyUTcwcTg0MmlyUUQw@178.17.61.67:5790?type=tcp#🇫🇮%20Финляндия%203️⃣
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@156.243.83.238:2096?flow=&type=ws&host=sni.jpmj.dev&path=/?ed%3D2560&security=tls&sni=sni.jpmj.dev&fp=chrome&allowInsecure=0#☁️%20Cloudflare
