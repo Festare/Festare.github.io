@@ -1,4 +1,4 @@
-                                                                                                                                                                                                               #profile-update-interval: 5
+#profile-update-interval: 5
 #profile-title: Festare⭐️
 #support-url: https://t.me/animefnik
 #profile-web-page-url: https://t.me/animefnik
