@@ -8,7 +8,6 @@ vless://eb071647-72a6-46be-8e89-ff3d228d52f6@by.cdn.titun.su:443?encryption=none
 vless://05a6897b-bdea-46d9-8654-89bceb208504@104.128.134.181:34816?encryption=none&type=tcp&headerType=none&security=none#🇷🇺%20Россия%20[LowPing]%201️⃣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoeWVSc2xXaHlCYW5SRFc2UHlUaVND@212.192.14.73:65330?type=tcp#🇷🇺%20Россия%202️⃣
 vless://ccedb1b1-35f3-46d1-a85a-c699eef5f3e1@spb.scroogethebest.com:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=spb.scroogethebest.com&pbk=C3hc32Cknec2shasKJIH2DYVb7Fyu64RF9v71L3ipEg&sid=9c2378562188c3cb#🇷🇺%20Россия%203️⃣
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoeWVSc2xXaHlCYW5SRFc2UHlUaVND@212.192.14.73:65330#🇷🇺%20Россия%204️⃣
 vless://30c04389-bbcb-431f-9d47-a8ad24406bd4@45.134.217.212:443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=stats.vk-portal.net&pbk=eQXsYV276NoiN9SDwuloNrJkX-NU2tDtkMK6ntKQwlg&sid=d3d1ed07dfdee544#🇩🇪%20Германия%201️⃣
 vless://e8accc46-c511-42fb-919b-9283799a88a1@158.160.221.132:51102?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=yandex.ru&pbk=Qddpg8luihgzgx4g4uMJklXzlrMCd8L1igJSWrRUvSc&sid=8f222b3475800821#🇵🇱%20Польша%201️⃣
 vless://4604876a-0652-4835-88bd-4421ea5c40da@pol01-rblx01.tcp-reset-club.net:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=hls-svod.itunes.apple.com&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=86e999a2cdc2#🇵🇱%20Польша%202️⃣
