@@ -4,7 +4,7 @@
 #profile-web-page-url: https://t.me/animefnik
 #announce: 🟢Онлайн✅
 vless://ec99a7c0-5f60-426c-9e98-8b1798b27b5d@obshibypass1.suio.me:443?security=reality&encryption=none&pbk=5bGFIWSo4vlrd9Tv1yFcpdpSjrjYYN20SOWHYfighHc&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=bbea2805#🌐%20[Все%20операторы]%20📶
-vless://f10ce7c9-55ed-44ab-a7c0-30cfa37fd0c1@snl29.linkey22.ru:8443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=qq&sni=www.vk.com&pbk=wDQjzXYVtjdLkEyXpReh973y4rDIDH6kkX-g-MR7xAg#🚀%20StarLink%20🚀
+vless://e70df474-9192-40c6-82ea-28aed7a96fe8@178.17.50.111:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=ads.x5.ru&pbk=vfmqSXTEjdIOgz43eZTNzBRztAvd1U1dDkSz_mnaSk4&sid=bc97736f81817c41#🚀%20StarLink%20🚀
 vless://ccedb1b1-35f3-46d1-a85a-c699eef5f3e1@spb.scroogethebest.com:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=spb.scroogethebest.com&pbk=C3hc32Cknec2shasKJIH2DYVb7Fyu64RF9v71L3ipEg&sid=9c2378562188c3cb#🇷🇺%20Россия%201️⃣
 vless://4aff5de5-83dc-43c9-a33e-10e6fdb90ed2@93.183.82.153:22310?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&sni=apple.com&pbk=Kfqxu87PVBYAQN3N2ADo35S6utTucz8sMH37vcw5cQ0#🇷🇺%20Россия%202️⃣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.82:8080#🇳🇱%20Нидерланды%201️⃣
