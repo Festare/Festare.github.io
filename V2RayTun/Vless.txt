@@ -3,15 +3,14 @@
 #support-url: https://t.me/animefnik
 #profile-web-page-url: https://t.me/animefnik
 #announce: 🟢Онлайн✅
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPdzhpU0V4UU5hb2JaUFk5Yko0RVBJ@212.192.14.234:24441?type=tcp#🌐%20[Все%20операторы]%20📶
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPdzhpU0V4UU5hb2JaUFk5Yko0RVBJ@212.192.14.234:24441?type=tcp#🌐%20[Все%20операторы]%20📶1️⃣
+vless://358a7ddd-6b44-45b2-a318-f5718e25e464@51.250.87.28:443?security=reality&encryption=none&pbk=okSpKWUqFiV0OsVoon9FkmFXLmquCxLM1pHIriHipA4&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=eh.vk.com&sid=238fc644534e#🌐%20[Все%20операторы]%20📶2️⃣
 vless://e70df474-9192-40c6-82ea-28aed7a96fe8@178.17.50.111:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=ads.x5.ru&pbk=vfmqSXTEjdIOgz43eZTNzBRztAvd1U1dDkSz_mnaSk4&sid=bc97736f81817c41#🚀%20StarLink%20🚀
 vless://ccedb1b1-35f3-46d1-a85a-c699eef5f3e1@spb.scroogethebest.com:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=spb.scroogethebest.com&pbk=C3hc32Cknec2shasKJIH2DYVb7Fyu64RF9v71L3ipEg&sid=9c2378562188c3cb#🇷🇺%20Россия%201️⃣
 vless://e70df474-9192-40c6-82ea-28aed7a96fe8@213.165.54.4:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=cdnjs.com&pbk=vfmqSXTEjdIOgz43eZTNzBRztAvd1U1dDkSz_mnaSk4&sid=fc7a526a7e61ba3b#🇷🇺%20Россия%202️⃣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.82:8080#🇳🇱%20Нидерланды%201️⃣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.99:8080?type=tcp#🇳🇱%20Нидерланды%202️⃣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.217:8080?type=tcp#🇳🇱%20Нидерланды%203️⃣
-vless://225f5dd9-d885-49ad-8e7f-c0900bbc2230@158.160.105.121:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=yandex.ru&pbk=Qddpg8luihgzgx4g4uMJklXzlrMCd8L1igJSWrRUvSc&sid=887c0d72e771a934#🇵🇱%20Польша%201️⃣
-vless://2cf4eee2-6067-4aba-a368-5831f569c105@91.193.18.146:443?type=xhttp&host=&path=/&mode=packet-up&security=reality&fp=chrome&sni=api-maps.yandex.ru&pbk=uKLvvAtmm7sEZDLtXoC9ogrSH_SrmfRuiZbHnen9nGs#🇵🇱%20Польша%202️⃣
 vless://30c04389-bbcb-431f-9d47-a8ad24406bd4@31.13.208.89:443?encryption=none&type=grpc&mode=gun&serviceName=xyz&security=reality&fp=chrome&sni=ads.x5.ru&pbk=OBR2JYROQB8odK5glVW_KLnsWl3UZ-voyGq_9ihQgTI&sid=d49d578f280fd83a#🇫🇮%20Финляндия%201️⃣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLYm0zeG9LMDRwNE9ob3FWcEV6ZGxq@95.164.113.198:53829?type=tcp#🇫🇮%20Финляндия%202️⃣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxUzNza3dtb2xyUTcwcTg0MmlyUUQw@178.17.61.67:5790?type=tcp#🇫🇮%20Финляндия%203️⃣
