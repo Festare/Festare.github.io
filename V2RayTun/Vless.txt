@@ -6,7 +6,7 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPdzhpU0V4UU5hb2JaUFk5Yko0RVBJ@212.192.14.234:24441?type=tcp#🌐%20[Все%20операторы]%20📶
 vless://9a63b59c-5e54-437a-b7a1-2788780a7c13@31.57.28.209:8443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=retn.net&pbk=qBcUlVqkzWxGORpDCj_FcNHACi3mrAYTCZeJyVQa5yU&sid=6b374e33af12fd1e#🚀%20StarLink%20🚀
 vless://f1449968-0329-468b-b56b-1c573ac2a767@144.31.4.136:8081?encryption=none&type=tcp&security=reality&fp=chrome&sni=www.apple.com&pbk=EJKcPSl0dv7mtU26gg6tUmKPw_aDvO2AHraRgNn6B14&sid=425ba80cd1a821a8#🇵🇱%20Польша
-vless://ccedb1b1-35f3-46d1-a85a-c699eef5f3e1@spb.scroogethebest.com:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=spb.scroogethebest.com&pbk=C3hc32Cknec2shasKJIH2DYVb7Fyu64RF9v71L3ipEg&sid=9c2378562188c3cb#🇷🇺%20Россия%201️⃣
+vless://f1449968-0329-468b-b56b-1c573ac2a767@youtube.vpnhub.shop:443?encryption=none&type=tcp&security=reality&fp=chrome&sni=www.apple.com&pbk=EJKcPSl0dv7mtU26gg6tUmKPw_aDvO2AHraRgNn6B14&sid=425ba80cd1a821a8#🇷🇺%20Россия%201️⃣
 vless://e70df474-9192-40c6-82ea-28aed7a96fe8@213.165.54.4:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=cdnjs.com&pbk=vfmqSXTEjdIOgz43eZTNzBRztAvd1U1dDkSz_mnaSk4&sid=fc7a526a7e61ba3b#🇷🇺%20Россия%202️⃣
 vless://f1449968-0329-468b-b56b-1c573ac2a767@yytbework.vpnhub.shop:443?encryption=none&type=tcp&security=reality&fp=chrome&sni=www.apple.com&pbk=EJKcPSl0dv7mtU26gg6tUmKPw_aDvO2AHraRgNn6B14&sid=425ba80cd1a821a8#🇷🇺%20Россия%203️⃣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.82:8080#🇳🇱%20Нидерланды%201️⃣
