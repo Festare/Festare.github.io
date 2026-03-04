@@ -13,5 +13,5 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.82:80
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.99:8080?type=tcp#🇳🇱%20Нидерланды%202️⃣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.217:8080?type=tcp#🇳🇱%20Нидерланды%203️⃣
 vless://bc0411d9-430b-4f26-b6e9-3803fa9bea10@87.121.82.108:443?security=reality&type=grpc&headerType=&serviceName=&authority=&mode=gun&sni=if.primarymaster.online&fp=chrome&pbk=EaRQAugh8pPPPPpJ45NoxcHRP7qwhzlp2bAUwCUuDCA&sid=c661ddc7be80dd89#🇫🇮%20Финляндия%201️⃣
-vless://f1449968-0329-468b-b56b-1c573ac2a767@flnd.vpnhub.shop:8081?encryption=none&type=tcp&security=reality&fp=chrome&sni=www.apple.com&pbk=EJKcPSl0dv7mtU26gg6tUmKPw_aDvO2AHraRgNn6B14&sid=425ba80cd1a821a8#🇫🇮%20Финляндия%202️⃣
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxUzNza3dtb2xyUTcwcTg0MmlyUUQw@178.17.61.67:5790?type=tcp#🇫🇮%20Финляндия%203️⃣
+vless://f1449968-0329-468b-b56b-1c573ac2a767@flnd.vpnhub.shop:8081?encryption=none&type=tcp&security=reality&fp=chrome&sni=www.apple.com&pbk=EJKcPSl0dv7mtU26gg6tUmKPw_aDvO2AHraRgNn6B14&sid=425ba80cd1a821a8#🇫🇮%20Финка%202️⃣
+vless://53c556d1-7243-4f71-9878-bc79dc940e22@51.250.64.147:8449?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=qq&sni=api-maps.yandex.ru&pbk=eWc4OGy6tScPuAS_MCVSrFpqJRj1uC9f1gh6YLc332M&spx=/#🇫🇮%20Финка%203️⃣
