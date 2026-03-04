@@ -5,9 +5,7 @@
 #announce: 🟢Онлайн✅
 vless://f1449968-0329-468b-b56b-1c573ac2a767@51.250.27.109:8081?encryption=none&type=tcp&security=reality&fp=chrome&sni=ads.x5.ru&pbk=EJKcPSl0dv7mtU26gg6tUmKPw_aDvO2AHraRgNn6B14&sid=425ba80cd1a821a8#🌐%20[Все%20операторы]%20📶
 vless://f1449968-0329-468b-b56b-1c573ac2a767@144.31.4.136:8081?encryption=none&type=tcp&security=reality&fp=chrome&sni=www.apple.com&pbk=EJKcPSl0dv7mtU26gg6tUmKPw_aDvO2AHraRgNn6B14&sid=425ba80cd1a821a8#🇵🇱%20Польша
-vless://f1449968-0329-468b-b56b-1c573ac2a767@youtube.vpnhub.shop:443?encryption=none&type=tcp&security=reality&fp=chrome&sni=www.apple.com&pbk=EJKcPSl0dv7mtU26gg6tUmKPw_aDvO2AHraRgNn6B14&sid=425ba80cd1a821a8#🇷🇺%20Россия%201️⃣
-vless://e70df474-9192-40c6-82ea-28aed7a96fe8@213.165.54.4:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=cdnjs.com&pbk=vfmqSXTEjdIOgz43eZTNzBRztAvd1U1dDkSz_mnaSk4&sid=fc7a526a7e61ba3b#🇷🇺%20Россия%202️⃣
-vless://f1449968-0329-468b-b56b-1c573ac2a767@youtube2.vpnhub.shop:443?encryption=none&type=tcp&security=reality&fp=chrome&sni=www.apple.com&pbk=EJKcPSl0dv7mtU26gg6tUmKPw_aDvO2AHraRgNn6B14&sid=425ba80cd1a821a8#🇷🇺%20Россия%203️⃣
+vless://f1449968-0329-468b-b56b-1c573ac2a767@yutbe.vpnhub.shop:443?encryption=none&type=tcp&security=reality&fp=chrome&sni=www.apple.com&pbk=EJKcPSl0dv7mtU26gg6tUmKPw_aDvO2AHraRgNn6B14&sid=425ba80cd1a821a8#🇷🇺%20Россия%201️⃣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.82:8080#🇳🇱%20Нидерланды%201️⃣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.99:8080?type=tcp#🇳🇱%20Нидерланды%202️⃣
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.217:8080?type=tcp#🇳🇱%20Нидерланды%203️⃣
