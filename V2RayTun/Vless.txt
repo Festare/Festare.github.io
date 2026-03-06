@@ -3,7 +3,7 @@
 #support-url: https://t.me/animefnik
 #profile-web-page-url: https://t.me/animefnik
 #announce: 🟢Онлайн✅
-vless://dbcdd65d-637b-4d93-b0c3-11707ff08e00@95-any.harknmav.fun:9443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=eh.vk.com&pbk=sMMDn89-fJAD7VgeTJbdQTmyyUoyRucoMLMvVMm8hAM&sid=cfdbaa7f996dd0e9#🌐%20[Все%20операторы]%20📶
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnQzdhUXY5RHNFTmFWZkt6VFBES1lW@212.192.14.226:41968?type=tcp#🌐%20[Все%20операторы]%20📶
 vless://f1449968-0329-468b-b56b-1c573ac2a767@yutbe.vpnhub.shop:443?encryption=none&type=tcp&security=reality&fp=chrome&sni=www.apple.com&pbk=EJKcPSl0dv7mtU26gg6tUmKPw_aDvO2AHraRgNn6B14&sid=425ba80cd1a821a8#🇷🇺%20Россия
 vless://f1449968-0329-468b-b56b-1c573ac2a767@fnd.vpnhub.shop:443?encryption=none&type=tcp&security=reality&fp=chrome&sni=eh.vk.com&pbk=EJKcPSl0dv7mtU26gg6tUmKPw_aDvO2AHraRgNn6B14&sid=425ba80cd1a821a8#🇫🇮%20Финка%201️⃣
 vless://f1449968-0329-468b-b56b-1c573ac2a767@flnd.vpnhub.shop:8081?encryption=none&type=tcp&security=reality&fp=chrome&sni=www.apple.com&pbk=EJKcPSl0dv7mtU26gg6tUmKPw_aDvO2AHraRgNn6B14&sid=425ba80cd1a821a8#🇫🇮%20Финка%202️⃣
