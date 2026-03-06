@@ -10,3 +10,4 @@ vless://f1449968-0329-468b-b56b-1c573ac2a767@flnd.vpnhub.shop:8081?encryption=no
 vless://9d888774-4472-41d0-8198-832706c71c9a@51.250.86.241:8449?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=api-maps.yandex.ru&pbk=eWc4OGy6tScPuAS_MCVSrFpqJRj1uC9f1gh6YLc332M#🇫🇮%20Финка%203️⃣
 vless://74b5e97f-0b10-4f50-a9b9-e8098a4f9926@node.blokanet.icu:443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&sni=google.com:443&pbk=hYrb43lt6yrrg6XLyT4SoD0Puxz9p8Cd7q6ERYKPnVA#🇪🇪%20Эстоня%201️⃣
 vless://74b5e97f-0b10-4f50-a9b9-e8098a4f9926@node.blokanet.icu:443?encryption=none&type=xhttp&mode=auto&path=/yourpath&security=reality&sni=google.com&pbk=RtWi65Ko_V7jVau0oUkeFbUZhRB-J5x1ApKTEkmI2T0&sid=02#🇪🇪%20Эстоня%202️⃣
+hysteria2://be0ff4db-134c-4178-8dac-48ead0c4a432@156.246.91.11:2000?obfs&obfs-password&type=hysteria&mport&security=tls&sni=www.bing.com&alpn=h3&allowInsecure=1#🇯🇵%20Япопия
