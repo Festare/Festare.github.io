@@ -3,7 +3,7 @@
 #support-url: https://t.me/animefnik
 #profile-web-page-url: https://t.me/animefnik
 #announce: 🟢Онлайн✅
-vless://0d3e2d21-f31b-07d0-b418-54cacd0be7c4@109.120.188.14:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#🇷🇺🌐%20[Все%20операторы]%20📶1️⃣
+vless://f10ce7c9-55ed-44ab-a7c0-30cfa37fd0c1@s-rus3.linkey42.ru:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=qq&sni=www.vk.com&pbk=Z21G5fqpwA7U32v67cwx-oRdDqxomvRQPXRkD5fh0yE#🇷🇺🌐%20[Все%20операторы]%20📶1️⃣
 vless://0d3e2d21-f31b-07d0-b418-54cacd0be7c4@146.185.240.88:52006?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#🇷🇺🌐%20[Все%20операторы]%20📶2️⃣
 vless://f1449968-0329-468b-b56b-1c573ac2a767@yutbe.vpnhub.shop:443?encryption=none&type=tcp&security=reality&fp=chrome&sni=www.apple.com&pbk=EJKcPSl0dv7mtU26gg6tUmKPw_aDvO2AHraRgNn6B14&sid=425ba80cd1a821a8#🇷🇺🌐%20[Все%20операторы]%20📶3️⃣
 vless://b61714be-8bc6-4a9a-bc46-c1950aa603b1@23.140.40.163:12443?type=tcp&headerType=none&security=reality&fp=chrome&sni=google.com&pbk=kjYnWkxgewB9k_-RWIgRPvjOoiCREr9ks5qllrvb-hI&sid=1d17b9f02500fd14#🇷🇺🌐%20[Все%20операторы]%20📶4️⃣
