@@ -3,12 +3,4 @@
 #support-url: https://t.me/animefnik
 #profile-web-page-url: https://t.me/animefnik
 #announce: 🟢Онлайн✅
-vless://ee54ac80-2463-41ea-84fc-515df9de5dac@89.221.203.3:2443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=google.com&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#🇷🇺🌐%20[Все%20операторы]%20📶1️⃣
-vless://907d49eb-b38e-0064-989b-53b49096da1e@free-pl.moscow-neversleep.digital:753?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=firefox&sni=www.nvidia.com&pbk=zYNnGVEkMFCUR_9NcYeaXfm9A_L-PP6iG2sIIST6S0M&sid=1ed136481e0ede74#🇵🇱%20Польша%201️⃣
-vless://ee54ac80-2463-41ea-84fc-515df9de5dac@pl.learnyouthinspire.co.uk:8443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=tls&sni=pl.learnyouthinspire.co.uk&fp=chrome&allowInsecure=0#🇵🇱%20Польша%202️⃣
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyd1V1Qjk4VGJFZG9jRXFQVlBaV3JiVGdHNG9uXzZZOA==@144.31.4.207:9999#🇵🇱%20Польша%203️⃣
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyd1V1Qjk4VGJFZG9jRXFQVlBaV3JiVGdHNG9uXzZZOA==@85.192.49.203:9999#🇫🇮%20Финка%201️⃣
-vless://ee54ac80-2463-41ea-84fc-515df9de5dac@fi.learnyouthinspire.co.uk:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=tls&sni=fi.learnyouthinspire.co.uk&fp=chrome&allowInsecure=0#🇫🇮%20Финка%202️⃣
-vless://ee54ac80-2463-41ea-84fc-515df9de5dac@45.83.182.68:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=tls&sni=ee.learnyouthinspire.co.uk&fp=chrome&allowInsecure=0#🇪🇪%20Эстоня%201️⃣
-vless://3a4e812e-b3e8-4008-81b6-2d63405736b3@64.188.78.121:30353?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=www.icloud.com&pbk=kLPBaVSLHWbPQUYr3IzAzsDmDl9o2Gh8FcP1ONxxCWk&sid=badd0a3410#🇪🇪%20Эстоня%202️⃣
-vless://aea4d791-93e8-44f3-99d6-83541e2a2ba4@node.blokanet.icu:443?encryption=none&type=xhttp&mode=auto&path=/yourpath&security=reality&sni=google.com&pbk=RtWi65Ko_V7jVau0oUkeFbUZhRB-J5x1ApKTEkmI2T0&sid=00#🇪🇪%20Эстоня%203️⃣
+vless://64aa8b21-b0f9-27e6-a51c-3770a8aa6764@91.218.122.10:443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=speed.cloudflare.com&pbk=yom9KP2ytaVYsKof-Wp5-M78ykcF4RV8YmWYpiGKamI#🇺🇦%20Украина
