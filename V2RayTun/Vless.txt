@@ -4,3 +4,4 @@
 #profile-web-page-url: https://t.me/animefnik
 #announce: 🟢Онлайн✅
 vless://64aa8b21-b0f9-27e6-a51c-3770a8aa6764@91.218.122.10:443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=speed.cloudflare.com&pbk=yom9KP2ytaVYsKof-Wp5-M78ykcF4RV8YmWYpiGKamI#🇺🇦%20Украина
+vless://8330693c-4f84-43cb-b3be-e9bb02a5dae9@176.109.108.201:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=qq&sni=apple.com&pbk=1F5YLZnYpHAPtK9h0sAENt7AuK-r2gTxdQdYn-a-dnI&sid=21342134#🇫🇮%20Финляндия
