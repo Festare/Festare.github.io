@@ -3,6 +3,6 @@
 #support-url: https://t.me/animefnik
 #profile-web-page-url: https://t.me/animefnik
 #announce: 🟢Онлайн✅
-vless://0ed9e62d-44eb-42c8-91a0-027931547744@ee.spectrum.vu:443?security=reality&encryption=none&pbk=jbB-Qp0Hmy-zGQu72PLiS1Bb_JGjIbHVl2Hu-GqIjGY&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=ee.spectrum.vu&sid=1c4d5e6f7a7b#🇪🇪%20Эстоня%201️⃣
-vless://29aab552-bfbb-0578-b22a-9a9c58c84811@84.23.52.105:52006?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#🇪🇪%20Эстоня%202️⃣
-vless://29aab552-bfbb-0578-b22a-9a9c58c84811@craftmymine.ru:52006?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#🇪🇪%20Эстоня%203️⃣
+vless://f7bae22e-20ab-11f1-835c-0242ac110002@fi1.cyphervpn.pro:443?encryption=none&type=tcp&security=reality&fp=firefox&sni=fi1.cyphervpn.pro&pbk=z_mZq7riCGYKcTsXGCFX3KyhLL5PYgG3ydZ8_wM_ZkU&sid=5bfa0c&spx=/#%F0%9F%87%AB%F0%9F%87%AE%D0%A4%D0%B8%D0%BD%D0%BB%D1%8F%D0%BD%D0%B4%D0%B8%D1%8F
+vless://f7bae22e-20ab-11f1-835c-0242ac110002@pl1.cyphervpn.pro:443?encryption=none&type=xhttp&mode=auto&path=/&security=reality&fp=firefox&sni=pl1.cyphervpn.pro&pbk=R1loGzTHjNh4LfUq0MnRcr4uklumv2msKPCdW3mK9gw&sid=5bfa0c&spx=/#%F0%9F%87%B5%F0%9F%87%B1%D0%9F%D0%BE%D0%BB%D1%8C%D1%88%D0%B0
+vless://f7bae22e-20ab-11f1-835c-0242ac110002@jp1.cyphervpn.pro:443?encryption=none&type=tcp&security=reality&fp=firefox&sni=jp1.cyphervpn.pro&pbk=rjE8nekciQ8vkzooBJVwOIqV5tMS0soqdq1AysukY2Q&sid=5bfa0c&spx=/#%F0%9F%87%AF%F0%9F%87%B5%D0%AF%D0%BF%D0%BE%D0%BD%D0%B8%D1%8F
