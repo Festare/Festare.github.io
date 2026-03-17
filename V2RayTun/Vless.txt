@@ -4,3 +4,4 @@
 #profile-web-page-url: https://t.me/animefnik
 #announce: 🟢Онлайн✅
 vless://0ed9e62d-44eb-42c8-91a0-027931547744@ee.spectrum.vu:443?security=reality&encryption=none&pbk=jbB-Qp0Hmy-zGQu72PLiS1Bb_JGjIbHVl2Hu-GqIjGY&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=ee.spectrum.vu&sid=1c4d5e6f7a7b#🇪🇪%20Эстоня%201️⃣
+vless://29aab552-bfbb-0578-b22a-9a9c58c84811@84.23.52.105:52006?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=qq&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#🇪🇪%20Эстоня%202️⃣
