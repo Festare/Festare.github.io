@@ -3,8 +3,4 @@
 #support-url: https://t.me/animefnik
 #profile-web-page-url: https://t.me/animefnik
 #announce: 🟢Онлайн✅
-vless://35b9becb-2488-447c-ad69-e839f2fc13c1@81.90.17.34:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=firefox&sni=github.com&pbk=jwuhpH8U1JScgJezyRtoc4RsQ6rKjOcB_80EjderTX0&sid=4f5d6f6d5d4d8df9#🇵🇱%20Польша%201️⃣
-vless://ea00433c-fef9-4e06-a93e-e6e7a900b864@130.193.41.243:8443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=random&sni=rbc.ru&pbk=Qddpg8luihgzgx4g4uMJklXzlrMCd8L1igJSWrRUvSc&sid=1929ef620e9b34f5#🇵🇱%20Польша%202️⃣
-vless://ea00433c-fef9-4e06-a93e-e6e7a900b864@130.193.41.243:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=random&sni=rbc.ru&pbk=Qddpg8luihgzgx4g4uMJklXzlrMCd8L1igJSWrRUvSc&sid=8f222b3475800821#🇵🇱%20Польша%203️⃣
-vless://1609d73a-aad5-4215-b25d-908e3e3412de@82.22.40.111:8443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=ya.ru&pbk=98GUVpWw96tdeGtjIOHXmkklpeA72qQQJoxxyfJ1yTo&sid=c0ffee00#🇵🇱%20Польша%204️⃣
-vless://1609d73a-aad5-4215-b25d-908e3e3412de@82.22.40.106:8443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=ya.ru&pbk=98GUVpWw96tdeGtjIOHXmkklpeA72qQQJoxxyfJ1yTo&sid=0f1e2d3c#🇵🇱%20Польша%205️⃣
+vless://0ed9e62d-44eb-42c8-91a0-027931547744@ee.spectrum.vu:443?security=reality&encryption=none&pbk=jbB-Qp0Hmy-zGQu72PLiS1Bb_JGjIbHVl2Hu-GqIjGY&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=ee.spectrum.vu&sid=1c4d5e6f7a7b#🇪🇪%20Эстоня%201️⃣
