@@ -3,6 +3,4 @@
 #support-url: https://t.me/animefnik
 #profile-web-page-url: https://t.me/animefnik
 #announce: 🟢Онлайн✅
-vless://f7bae22e-20ab-11f1-835c-0242ac110002@fi1.cyphervpn.pro:443?encryption=none&type=tcp&security=reality&fp=firefox&sni=fi1.cyphervpn.pro&pbk=z_mZq7riCGYKcTsXGCFX3KyhLL5PYgG3ydZ8_wM_ZkU&sid=5bfa0c&spx=/#%F0%9F%87%AB%F0%9F%87%AE%D0%A4%D0%B8%D0%BD%D0%BB%D1%8F%D0%BD%D0%B4%D0%B8%D1%8F
-vless://f7bae22e-20ab-11f1-835c-0242ac110002@pl1.cyphervpn.pro:443?encryption=none&type=xhttp&mode=auto&path=/&security=reality&fp=firefox&sni=pl1.cyphervpn.pro&pbk=R1loGzTHjNh4LfUq0MnRcr4uklumv2msKPCdW3mK9gw&sid=5bfa0c&spx=/#%F0%9F%87%B5%F0%9F%87%B1%D0%9F%D0%BE%D0%BB%D1%8C%D1%88%D0%B0
-vless://f7bae22e-20ab-11f1-835c-0242ac110002@jp1.cyphervpn.pro:443?encryption=none&type=tcp&security=reality&fp=firefox&sni=jp1.cyphervpn.pro&pbk=rjE8nekciQ8vkzooBJVwOIqV5tMS0soqdq1AysukY2Q&sid=5bfa0c&spx=/#%F0%9F%87%AF%F0%9F%87%B5%D0%AF%D0%BF%D0%BE%D0%BD%D0%B8%D1%8F
+vless://8395c53c-6e9d-40d9-8d98-bd7383a2ed15@77.110.122.16:443?security=reality&encryption=none&pbk=A6NhgVnNXJX6P95XZEGIMQfcXYQjX7nC18GBF4WhJR4&headerType=none&fp=chrome&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=f6ee#🇺🇸%20Америка%201️⃣
