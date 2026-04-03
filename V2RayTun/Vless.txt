@@ -3,7 +3,4 @@
 #support-url: https://t.me/animefnik
 #profile-web-page-url: https://t.me/animefnik
 #announce: 🟢Онлайн✅
-vless://8395c53c-6e9d-40d9-8d98-bd7383a2ed15@77.110.122.16:443?security=reality&encryption=none&pbk=A6NhgVnNXJX6P95XZEGIMQfcXYQjX7nC18GBF4WhJR4&headerType=none&fp=chrome&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=f6ee#🇺🇸%20Америка%201️⃣
-vless://90f876fa-0458-435a-aceb-a506551f1aab@pol.pinkweb.one:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=pol.pinkweb.one&pbk=WfCGASxNxAvNzJZH6Onu5HB2Nup4ZHB_Lpyru_1aqWA&sid=fbb0342cef1b13ea#🇵🇱%20Польша%201️⃣
-vless://90f876fa-0458-435a-aceb-a506551f1aab@fin.pinkweb.one:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=fin.pinkweb.one&pbk=QOwCXPQ5wojJSOL4zk2okFhHAZEmo9u7Mttbwwf1SHg&sid=f6e9bb82435d565d#🇫🇮%20Финляндия%201️⃣
-vless://90f876fa-0458-435a-aceb-a506551f1aab@et.pinkweb.one:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=et.pinkweb.one&pbk=sQrrYcu1AnXynaMenZCMT7yZsGRVYxjJMpN2uIuN9RA&sid=fd0aaf7dd2c22362#🇪🇪%20Эстония%201️⃣
+vless://d662fc31-dca7-4a7f-9276-0fa35c5f9cd2@most-by.harknmav.fun:443?security=reality&encryption=none&pbk=YY8bCRlzVDtlIEm7n07EIBg0S_PSR5j_mFj37TdLpHY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=bcs.ru&sid=6a752b0d4d15e0f9#🇧🇾%20Беларусь
