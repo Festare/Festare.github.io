@@ -1,0 +1,69 @@
+mode: rule
+ipv6: false
+log-level: error
+allow-lan: false
+unified-delay: true
+tcp-concurrent: true
+external-controller: 127.0.0.1:9090
+
+dns:
+  enable: true
+  listen: 127.0.0.1:7874
+  ipv6: false
+  default-nameserver:
+    - 1.1.1.1
+    - 1.0.0.1
+  nameserver:
+    - "https://cloudflare-dns.com/dns-query"
+    - "tls://1dot1dot1dot1.cloudflare-dns.com"
+
+keep-alive-idle: 15
+keep-alive-interval: 15
+
+profile:
+  store-selected: true
+  tracing: false
+
+sniffer:
+  enable: true
+  force-dns-mapping: true
+  parse-pure-ip: true
+  sniff:
+    HTTP:
+      ports: [80, 8080-8880]
+    TLS:
+      ports: [443, 8443]
+    QUIC:
+      ports: [443, 8443]
+  skip-domain:
+    - "Mijia Cloud"
+    - '+.lan'
+    - '+.local'
+    - '+.push.apple.com'
+    - '+.apple.com'
+    - '+.msftconnecttest.com'
+    - '+.3gppnetwork'
+
+proxies:
+  - name: wg-wh.ettacent.dev
+    type: wireguard
+    server: wh.ettacent.dev
+    port: 51111
+    ip: 10.66.0.123
+    ipv6: fd42:42:42::7b
+    private-key: +AvDdo5jRAVloVv/v3O8vXS7Doittdju4hf+0QNAb1A=
+    public-key: B2kmh/v3BISYLI4FEWrqMypQWWdoI3q5y2AIVLszxFQ=
+    udp: true
+    pre-shared-key: dAU9NobKpeLeB5V2Ls8G7sG0AVj4o91TltOK/1Ulyok=
+    dns:
+      - 1.1.1.1
+
+proxy-groups:
+  - name: Proxy
+    type: select
+    proxies:
+      - wg-wh.ettacent.dev
+      - DIRECT
+
+rules:
+  - MATCH,wg-wh.ettacent.dev
