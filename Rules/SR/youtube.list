@@ -1,0 +1,21 @@
+# YouTube.list
+# Дата обновления: 2025-11-19
+
+# --- Доменные суффиксы ---
+DOMAIN-SUFFIX,youtube.com
+DOMAIN-SUFFIX,youtube-nocookie.com
+DOMAIN-SUFFIX,youtu.be
+DOMAIN-SUFFIX,ytimg.com
+DOMAIN-SUFFIX,googlevideo.com
+DOMAIN-SUFFIX,ggpht.com
+DOMAIN-SUFFIX,gvt1.com
+DOMAIN-SUFFIX,gvt2.com
+DOMAIN-SUFFIX,video.google.com
+DOMAIN-SUFFIX,wide-youtube.l.google.com
+DOMAIN-SUFFIX,ytapis.google.com
+
+# --- Точные домены ---
+DOMAIN,m.youtube.com
+DOMAIN,studio.youtube.com
+DOMAIN,accounts.youtube.com
+DOMAIN,manifest.googlevideo.com
