@@ -3,5 +3,4 @@
 #support-url: https://t.me/animefnik
 #profile-web-page-url: https://t.me/animefnik
 #announce: 🟢Онлайн✅
-vless://d662fc31-dca7-4a7f-9276-0fa35c5f9cd2@most-by.harknmav.fun:443?security=reality&encryption=none&pbk=YY8bCRlzVDtlIEm7n07EIBg0S_PSR5j_mFj37TdLpHY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=bcs.ru&sid=6a752b0d4d15e0f9#🇧🇾%20Беларусь
-vless://a2b431d9-d5d3-41c8-ad5b-8f95aa5a6712@72.56.6.164:59999?security=reality&encryption=none&pbk=x0t1otRGBv62aJKGNbsQRJGtwh-sp6CEScFS6S8y3EM&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=yastatic.net&sid=0f1e2d3c#🇷🇺%20Россия
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDSm1UQ0N4N0x0dWQ=@108.181.58.239:8388#Нидерланды
