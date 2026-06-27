@@ -3,5 +3,10 @@
 #support-url: https://t.me/animefnik
 #profile-web-page-url: https://t.me/animefnik
 #announce: 🟢Онлайн✅
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNWmVTVHZwbDJ1b2V5MVIwZnJoUHlK@109.107.182.229:51544#Финляндия
+vless://d04a4dd9-f7d7-40c4-9775-a18d3cc41161@45.8.250.247:16443/?security=none#Russia%20Moscow
+vless://174b56c1-4a95-41da-9593-281630d5b2a8@45.131.42.29:16443/?security=none#Russia%20Saint-Petersburg
+vless://7e167f47-033a-4bf9-a9f3-7f19a8d24051@185.66.68.105:443/?security=reality&sni=apps.apple.com&pbk=3Og4atSyY-g6ol4clBCV6uQApO3pJy7UAk-czCM8ZCE&sid=928be7e0#Belarus%20Minsk
+vless://a947a776-eaa8-43a0-989a-2f770accff9a@90.156.218.225:16443/?security=none#Finland%20Helsinki%20(LTE)
+vless://543a90b9-8265-477d-82c0-5f4b58b2278e@45.131.40.131:16444/?security=none#Finland%20Helsinki
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDSm1UQ0N4N0x0dWQ=@108.181.58.239:8388#Нидерланды
+vless://008c6ab0-e312-419d-93d5-b62ce70bd41c@89.19.223.245:8080/?security=none#Ukraine%20Kiev
