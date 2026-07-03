@@ -4,7 +4,7 @@
 #profile-web-page-url: https://t.me/animefnik
 #announce: 🟢Онлайн✅
 vless://d04a4dd9-f7d7-40c4-9775-a18d3cc41161@45.8.250.247:16443/?security=none#🇷🇺%20Россия%201️⃣
-vless://174b56c1-4a95-41da-9593-281630d5b2a8@45.131.42.29:16443/?security=none#🇷🇺%20Россия%20
+vless://174b56c1-4a95-41da-9593-281630d5b2a8@45.131.42.29:16443/?security=none#🇷🇺%20Россия%202️⃣
 hysteria2://53d0c9d8-0d59-453c-a5da-8f7c81f5ea03@hyst-1.hysteria.ltd:5443/#🇷🇺%20Россия%203️⃣
 vless://7e167f47-033a-4bf9-a9f3-7f19a8d24051@185.66.68.105:443/?security=reality&sni=apps.apple.com&pbk=3Og4atSyY-g6ol4clBCV6uQApO3pJy7UAk-czCM8ZCE&sid=928be7e0#🇧🇾%20Беларусь%201️⃣
 vless://43769417-2cec-41aa-a93b-effba59a4109@80.249.146.25:16443?encryption=none&type=tcp&security=none#🇩🇪%20Германия%201️⃣
