@@ -3,12 +3,9 @@
 #support-url: https://t.me/animefnik
 #profile-web-page-url: https://t.me/animefnik
 #announce: 🟢Онлайн✅
-vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@194.53.53.62:443/?security=tls&type=ws&sni=vpn47.cc.cd&host=vpn47.cc.cd#☁️%20Cloudare%201️⃣
-vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@45.131.6.211:443/?security=tls&type=ws&sni=vpn47.cc.cd&host=vpn47.cc.cd#☁️%20Cloudare%202️⃣
-vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@45.80.111.244:443/?security=tls&type=ws&sni=vpn47.cc.cd&host=vpn47.cc.cd#☁️%20Cloudare%203️⃣
 vless://d04a4dd9-f7d7-40c4-9775-a18d3cc41161@45.8.250.247:16443/?security=none#🇷🇺%20Россия%201️⃣
 vless://174b56c1-4a95-41da-9593-281630d5b2a8@45.131.42.29:16443/?security=none#🇷🇺%20Россия%202️⃣
-hysteria2://53d0c9d8-0d59-453c-a5da-8f7c81f5ea03@hyst-1.hysteria.ltd:5443/#🇷🇺%20Россия%203️⃣
+hysteria2://35a14133-45f6-40bc-a9cd-918fd0ecb345@hyst-1.hysteria.ltd:5443/#🇷🇺%20Россия%203️⃣
 vless://7e167f47-033a-4bf9-a9f3-7f19a8d24051@185.66.68.105:443/?security=reality&sni=apps.apple.com&pbk=3Og4atSyY-g6ol4clBCV6uQApO3pJy7UAk-czCM8ZCE&sid=928be7e0#🇧🇾%20Беларусь%201️⃣
 vless://497631c4-a1a4-0023-a86a-f42873473bb6@185.40.28.217:8443/?flow=xtls-rprx-vision&security=reality&sni=auto.quattro-tech.ru&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6#🇧🇾%20Беларусь%202️⃣
 vless://43769417-2cec-41aa-a93b-effba59a4109@80.249.146.25:16443?encryption=none&type=tcp&security=none#🇩🇪%20Германия%201️⃣
