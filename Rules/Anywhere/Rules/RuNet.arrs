@@ -22,8 +22,6 @@ name = RuNet
 2, dbankcloud.ru
 2, gazprombank.ru
 2, gitflic.ru
-2, gldn.net
-2, globalsign.com
 2, gov.ru
 2, gpb.ru
 2, imgsmail.ru
@@ -72,7 +70,6 @@ name = RuNet
 3, licard
 3, odnoklassniki
 3, oneprice
-3, poizon
 3, rostic
 3, sferum
 3, smotrim
@@ -138,7 +135,7 @@ name = RuNet
 2, bm.ru
 2, bnk.ru
 3, boxberry
-3, bringly.ru
+2, bringly.ru
 3, bugsnag
 3, burgerking
 3, cardsmobile
@@ -165,7 +162,7 @@ name = RuNet
 3, dodopizza
 3, dodostatic
 3, dodois
-2, doublegis
+3, doublegis
 3, dermir
 2, detmir-stats.ru
 2, detmir.ru
@@ -196,10 +193,9 @@ name = RuNet
 3, gazprom
 3, genotek
 2, genotek.ru
-3, gitflic.ru
 3, gitverse
-3, globalsign.com
-3, gldn.net
+2, globalsign.com
+2, gldn.net
 3, goskey
 3, gosuslugi
 3, gorod
@@ -319,7 +315,7 @@ name = RuNet
 2, perekrestok.ru
 3, perekrestok
 2, pervye.ru
-2, poizon
+3, poizon
 3, pobeda
 2, pochta.ru
 3, podberi
