@@ -42,6 +42,7 @@ name = RuNet
 2, asg.ru
 2, au.ru
 2, auto.ru
+2, avto.ru
 2, aviasales
 2, avito
 2, avtodor-tr.ru
@@ -218,6 +219,7 @@ name = RuNet
 3, oneme
 3, online-trade
 3, opros
+2, ozon.app
 2, ozon.com
 2, ozon.dev
 2, ozon.global
@@ -225,6 +227,7 @@ name = RuNet
 2, ozon.market
 2, ozon.ru
 2, ozon.travel
+2, ozone.app
 2, ozone.com
 2, ozone.ru
 2, ozone.dev
@@ -380,7 +383,6 @@ name = RuNet
 2, vkgo.ru
 3, vkusno
 3, vkusvill
-3, vkmessenger
 3, vkclips
 3, vkcloud
 2, vtb.com
