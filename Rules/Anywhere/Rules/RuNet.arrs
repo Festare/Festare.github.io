@@ -5,7 +5,7 @@ name = RuNet
 2, рф
 2, xn--p1ai
 
-# VK, mailru group
+# Domains
 2, imgsmail.ru
 2, mail.ru
 2, mycdn.me
@@ -54,8 +54,6 @@ name = RuNet
 3, vkontakte
 3, odnoklassniki
 2, ok.ru
-
-#yandex
 2, ya.ru
 2, ya.net
 3, yandex
@@ -495,6 +493,8 @@ name = RuNet
 2, qualtrics.com
 2, t-investments.ru
 2, tcsbank.ru
+
+# ip-cidr
 0, 91.194.226.0/23
 0, 194.54.12.0/22
 0, 194.54.14.0/23
