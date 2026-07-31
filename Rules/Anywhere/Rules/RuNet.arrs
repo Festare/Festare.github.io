@@ -1,8 +1,11 @@
 name = RuNet
+# Suffix
 2, ru
 2, su
 2, рф
 2, xn--p1ai
+
+# VK, mailru group
 2, imgsmail.ru
 2, mail.ru
 2, mycdn.me
@@ -51,6 +54,8 @@ name = RuNet
 3, vkontakte
 3, odnoklassniki
 2, ok.ru
+
+#yandex
 2, ya.ru
 2, ya.net
 3, yandex
@@ -237,7 +242,6 @@ name = RuNet
 3, okko
 2, ivi.ru
 2, ivi.com
-2, vk-cdn
 3, kinopoisk
 3, restream-media
 3, licard
