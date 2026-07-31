@@ -1,0 +1,25 @@
+name = Twitch
+3, twitch
+3, ttvnw
+3, jtvnw
+2, live-video.net
+2, media-amazon.com
+2, a2z.com
+2, amazonaws.com
+2, cloudfront.net
+2, 7tv.app
+2, 7tv.io
+2, betterttv.net
+2, frankerfacez.com
+0, 103.53.48.0/23
+0, 185.42.204.0/22
+0, 192.108.239.0/24
+0, 192.16.64.0/21
+0, 199.9.248.0/21
+0, 23.160.0.0/24
+1, 2402:2A80::/32
+0, 45.113.128.0/22
+0, 52.223.192.0/20
+0, 52.223.208.0/21
+0, 52.223.224.0/19
+0, 99.181.64.0/18
