@@ -37,7 +37,6 @@ name = RuNet
 3, vkcloud
 3, vkclips
 2, max.ru
-2, mail.ru
 3, tamtam
 3, vk-video
 3, vkvideo
@@ -94,7 +93,6 @@ name = RuNet
 2, xn--90aijkdmaud0d.xn--p1ai
 3, mosobl
 3, mosenergo
-2, ccrs.com
 3, emias
 3, riamo
 2, reg.eu
@@ -127,8 +125,6 @@ name = RuNet
 2, genotek.ru
 2, invitro.ru
 2, medsi.ru
-2, xn--90aijkdmaud0d.xn--p1ai
-2, domopult.ru
 2, rutube.ru
 2, rutubelist.ru
 2, questa.ru
@@ -221,7 +217,6 @@ name = RuNet
 3, paywb
 3, wildpay
 3, wb-bank
-3, paywb
 3, cdnwb
 3, bank-wb
 3, wb-family
@@ -302,11 +297,6 @@ name = RuNet
 2, zoom.su
 3, cardsmobile
 2, tmiaf.ru
-3, dns-shop
-3, tbank
-3, tinkoff
-3, t-bank
-3, koshelek
 2, tb.ru
 2, nsdi.ru
 2, nsdi.com
@@ -348,13 +338,10 @@ name = RuNet
 3, lemanapro
 3, esia
 3, sputnik
-2, gov.ru
 2, cdek.ru
 2, cdek.com
 2, cdek.net
 2, cdek.su
-2, ad-cdek.ru
-2, cdek.shopping
 2, apps-web.net
 2, snet.ru
 2, v1.ru
@@ -396,15 +383,10 @@ name = RuNet
 2, rzd.ru
 2, onelya.ru
 2, bitrix.info
-2, yadro.ru
 2, dzvr.ru
 2, refocus.ru
-2, ttk.ru
 2, spb.ru
 2, emex.ru
-2, dbankcloud.com
-2, dbankcloud.ru
-2, qsrapp.ru
 3, tu-tu
 2, tula.ru
 2, turbopages.org
@@ -419,7 +401,6 @@ name = RuNet
 2, alfa-fx.com
 2, alfa-pc.com
 2, alfa-usa.com
-3, alfabank
 3, alfa-bank
 2, alfafinance.biz
 2, alfafuture.com
@@ -439,7 +420,6 @@ name = RuNet
 3, tb-esim
 3, tconf
 2, tdev.by
-2, gb.ru
 2, cian.ru
 3, adfox
 3, avtodor
@@ -462,7 +442,6 @@ name = RuNet
 3, perekrestok
 3, punto
 2, reso.ru
-2, questa.ru
 2, saby.ru
 2, saby.com
 2, sbis.com
@@ -482,14 +461,12 @@ name = RuNet
 3, yastat
 3, ymetrika
 3, ymvccb7b8b
-2, zen.me
 3, zenadservices
 3, rustore
 3, rumarket
 3, pobeda
 2, discord.ru
 3, evotor
-2, mycdn.me
 3, myspar
 3, dermir
 3, bitrix
@@ -508,7 +485,6 @@ name = RuNet
 3, vprok
 3, smotrim
 2, nntv.tv
-2, vgtrk.ru
 2, ria.ru
 2, rbc.ru
 2, vtb24.ru
@@ -520,7 +496,6 @@ name = RuNet
 2, rt.ru
 2, 1tv.ru
 2, cbr.ru
-2, kremlin.ru
 2, moex.com
 2, gitflic.ru
 2, tutu.ru
