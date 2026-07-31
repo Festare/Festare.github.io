@@ -92,8 +92,6 @@ name = RuNet
 2, 5ka.com
 2, 5ka.ru
 3, ad-cdek
-2, adfox
-2, adjust
 2, alfa-bank.com
 2, alfa-bank.ru
 3, alfa-bank
@@ -506,7 +504,7 @@ name = RuNet
 2, yand.ex
 3, yandex
 3, yads
-2, yamusic
+3, yamusic
 2, yantp.net
 3, yastat
 2, yastat.net
