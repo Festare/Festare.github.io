@@ -3,6 +3,7 @@
 #support-url: https://t.me/animefnik
 #profile-web-page-url: https://t.me/animefnik
 #announce: 🟢Онлайн✅
+vless://eb78e1f0-d921-4ca9-a889-261fcc5a0547@qq.utiltools.ru:443/?flow=xtls-rprx-vision&security=reality&type=raw&sni=qq.utiltools.ru&pbk=drY21DHNOr6ezJLA2B10mzTExeJ9-gVBfTBNLwVBtWI#сыр-косичка
 vless://d04a4dd9-f7d7-40c4-9775-a18d3cc41161@45.8.250.247:16443/?security=none#🇷🇺%20Россия%201️⃣
 vless://174b56c1-4a95-41da-9593-281630d5b2a8@45.131.42.29:16443?encryption=none&type=tcp&security=none#🇷🇺%20Россия%202️⃣
 vless://669b15b9-a618-47a6-ab0b-6210767ba6fd@185.66.68.201:8080?encryption=none&type=xhttp&security=none&path=%2F&mode=auto#🇧🇾%20Беларусь%201️⃣
