@@ -10,6 +10,7 @@ vless://eda60d9b-38fd-4633-b426-e3a9e4e2c178@45.131.40.209:8080?encryption=none&
 vless://793204ea-b02b-4e13-b379-3fb1870b340c@114.29.238.59:443?encryption=none&type=tcp&security=reality&sni=www.bilibili.com&fp=ios&pbk=jhinzEOtnPG2AHDuMbB6xPYctIw-1O_RVSyHe34LBEA&sid=b3b6a2f5222b00&spx=%2F#🇭🇰%20Гонг-Конг%201️⃣
 vless://86ffa984-780d-4e7b-a1b7-bfa784de3e14@80.249.145.24:16444?encryption=none&type=tcp&security=none#🇳🇱%20Нидерланды%201️⃣
 vless://3c7a9cbd-3346-45ee-80e2-cb722cb59192@cdn.videohubcdn.co:443?encryption=none&type=xhttp&security=tls&path=%2Fvideoplayback.ts&host=cdn.videohubcdn.co&mode=packet-up#🇳🇱%20Нидерланды%202️⃣🏳️
+vless://c01bdd9e-b46c-426f-b4c6-e1cabff7c1b7@89.19.223.245:16443?encryption=none&type=tcp&security=none#🇵🇱%20Польша%201️⃣
 vless://83367000-4ff9-4efa-bc7b-56ae03a4ad91@83.97.78.240:8080?encryption=none&type=xhttp&security=none&path=%2F&mode=auto#🇫🇮%20Финляндия%201️⃣
 vless://60d00d50-ee1b-478d-8ccc-acfedcc1857e@45.86.60.35:16443?encryption=none&type=tcp&security=none#🇪🇪%20Эстония%201️⃣
 vless://13e541f3-d09d-4633-89df-8513db0ced20@45.86.60.174:16443?encryption=none&type=tcp&security=none#🇪🇪%20Эстония%202️⃣
