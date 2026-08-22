@@ -1,4 +1,9 @@
 name = Telemetry
+# 2, (domain).(suffix)
+# 3, (domain)
+# 0, (ip-cidr)
+
+# Domains
 3, adjust
 3, telemetry
 3, tracking
@@ -272,6 +277,8 @@ name = Telemetry
 3, chdbits
 3, m-team
 3, torrent
+
+# IP-CIDR
 0, 207.241.226.111/32
 0, 207.241.231.226/32
 0, 52.58.128.163/32
