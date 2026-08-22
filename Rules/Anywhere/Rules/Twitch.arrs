@@ -1,4 +1,10 @@
 name = Twitch
+# 2, (domain).(suffix)
+# 3, (domain)
+# 0, (ip-cidr v4)
+# 1, (ip-cidr v6)
+
+# Domains
 3, twitch
 3, ttvnw
 3, jtvnw
@@ -10,6 +16,8 @@ name = Twitch
 2, 7tv.io
 2, betterttv.net
 2, frankerfacez.com
+
+# IP-CIDR
 0, 103.53.48.0/23
 0, 185.42.204.0/22
 0, 192.108.239.0/24
