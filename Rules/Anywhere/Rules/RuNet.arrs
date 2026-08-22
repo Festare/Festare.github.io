@@ -17,6 +17,10 @@ name = RuNet
 2, xn--90ais
 
 # Domains
+2, 1c-bitrix.ru
+2, 1c.ru
+2, 3dnews.ru
+2, 5-tv.ru
 2, beget.ru
 2, beget.com
 2, beget.su
@@ -393,6 +397,13 @@ name = RuNet
 2, sbp.ru
 3, school
 2, secret-agents.ru
+2, skbkontur.ru
+2, skyscanner.ru
+2, smailru.net
+2, sovsport.ru
+2, spark-interfax.ru
+2, spark-marketing.ru
+2, sport-express.ru
 3, selectel
 3, setsushi
 3, skillbox
