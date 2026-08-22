@@ -1,4 +1,10 @@
 name = Local
+# 2, (domain).(suffix)
+# 3, (domain)
+# 0, (ip-cidr v4)
+# 1, (ip-cidr v6)
+
+# IP-CIDR
 0, 127.0.0.0/8
 0, 10.0.0.0/8
 0, 100.64.0.0/10
