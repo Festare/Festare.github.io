@@ -1,4 +1,10 @@
 name = Microsoft
+# 2, (domain).(suffix)
+# 3, (domain)
+# 0, (ip-cidr v4)
+# 1, (ip-cidr v6)
+
+# Domains
 2, vsmarketplacebadge.apphb.com
 2, 1drv.ms
 2, 21vbc.com
