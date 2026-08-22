@@ -1,4 +1,10 @@
 name = RU-ADs
+# 2, (domain).(suffix)
+# 3, (domain)
+# 0, (ip-cidr v4)
+# 1, (ip-cidr v6)
+
+# Domains
 3, 1l-hit.mail.ru
 3, 1l-hit.vkplay.ru
 3, a.mts.ru
