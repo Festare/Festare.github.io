@@ -1,4 +1,10 @@
 name = Gemini
+# 2, (domain).(suffix)
+# 3, (domain)
+# 0, (ip-cidr v4)
+# 1, (ip-cidr v6)
+
+# Domains
 2, ai.google.dev
 2, ai.studio
 2, aicode.googleapis.com
