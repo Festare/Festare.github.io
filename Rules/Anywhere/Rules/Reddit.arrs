@@ -1,4 +1,10 @@
 name = Reddit
+# 2, (domain).(suffix)
+# 3, (domain)
+# 0, (ip-cidr v4)
+# 1, (ip-cidr v6)
+
+# Domains
 2, redd.it
 3, reddit
 2, app.link
