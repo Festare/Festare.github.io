@@ -99,6 +99,9 @@ name = RuNet
 2, b1.ru
 3, bank
 3, bank-wb
+2, bbr.ru
+2, bbr.com
+2, bbr.su
 3, beeline
 2, beeline.ru
 2, beget.com
@@ -188,6 +191,7 @@ name = RuNet
 3, domclick
 2, domclick.ru
 2, domopult.ru
+3, domrfbank
 2, donationalerts.com
 3, doublegis
 2, dpd.ru
@@ -214,6 +218,8 @@ name = RuNet
 3, evotor
 2, exolve.ru
 2, expf.ru
+3, expo-bank
+3, expobank
 2, exwinner.ru
 2, f1news.ru
 2, fanat1k.ru
@@ -257,6 +263,7 @@ name = RuNet
 3, headhunter
 2, headhunter.ru
 2, hh.ru
+3, hlynov
 2, hrlink.ru
 2, icloud-mail.ru
 2, icmp0.ru
@@ -265,6 +272,7 @@ name = RuNet
 2, inbox.ru
 2, invitro.ru
 2, irr.ru
+3, iturupbank
 2, ivi.com
 2, ivi.ru
 2, iz.ru
@@ -310,6 +318,7 @@ name = RuNet
 2, leroymerlin.ru
 3, lesta
 2, lesta.ru
+3, lineage2fun
 3, licard
 2, lifehacker.ru
 2, lifemebel.ru
