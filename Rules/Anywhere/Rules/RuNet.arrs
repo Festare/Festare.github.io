@@ -67,6 +67,7 @@ name = RuNet
 2, algoritmika.org
 2, alice.yandex.ru
 3, aliexpress
+3, alrosa
 2, altbank.com
 2, altynbank.com
 2, amediateka.ru
@@ -84,6 +85,7 @@ name = RuNet
 3, auchan
 2, auchan.ru
 2, auto.ru
+3, aversbank
 2, aviasales
 3, aviasales
 2, aviasales.ru
@@ -118,6 +120,11 @@ name = RuNet
 3, boxberry
 2, boxberry.ru
 2, bringly.ru
+2, bspb.ru
+2, bspb.su
+2, bspb.app
+2, bspb.com
+2, bspb.net
 3, bugsnag
 3, burgerking
 3, cardsmobile
@@ -156,6 +163,7 @@ name = RuNet
 2, ddos-guard.su
 2, delivery-club.ru
 2, deliveryclub.ru
+3, derzhava
 3, dermir
 2, detmir-stats.ru
 2, detmir.ru
@@ -199,6 +207,7 @@ name = RuNet
 2, eldorado.ru
 2, emex.ru
 3, emias
+3, entropyservers
 3, esia
 2, esia.gosuslugi.ru
 2, etagi.com
@@ -216,6 +225,7 @@ name = RuNet
 2, fns.gov.ru
 3, foodpicasso
 3, foodsoul
+3, forabank
 2, fsb.ru
 2, fssp.gov.ru
 2, garant.ru
@@ -459,6 +469,7 @@ name = RuNet
 2, privetmir.ru
 3, psbank
 2, psbank.ru
+3, ptsecurity
 3, punto
 2, pyaterochka.ru
 2, qiwi.com
