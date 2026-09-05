@@ -334,6 +334,7 @@ name = RuNet
 2, lmru.net
 2, lmru.ru
 2, lmru.su
+3, lockobank
 3, magnit
 2, magnit-market.ru
 2, magnit.ru
@@ -351,6 +352,8 @@ name = RuNet
 3, megafon
 2, megafon.ru
 3, megamarket
+3, metallinvest
+2, metcom.ru
 2, metrika.yandex.ru
 3, metro
 2, metro-cc.ru
@@ -360,6 +363,11 @@ name = RuNet
 2, minfin.gov.ru
 2, minzdrav.gov.ru
 2, mirpay.ru
+2, mkb.ru
+2, mkb.ru
+2, mkb.su
+2, mkb.app
+2, mkb.com
 2, mm.ru
 3, mobile-kassa
 2, moex.com
@@ -406,6 +414,7 @@ name = RuNet
 2, nspk.com
 2, nspk.ru
 2, nspk.su
+2, nskbl.ru
 2, ntv.ru
 2, nuum.ru
 2, nvfn.ru
@@ -476,6 +485,7 @@ name = RuNet
 2, poverh.tv
 2, premier.one
 2, privetmir.ru
+2, pscb.ru
 3, psbank
 2, psbank.ru
 3, ptsecurity
@@ -517,6 +527,10 @@ name = RuNet
 3, rostelecom
 2, rostelecom.ru
 3, rostic
+3, rosbank
+3, rosneft
+3, rostec
+2, rsb.ru
 2, rsc.cdn77.org
 2, rshb.ru
 2, rt.ru
@@ -554,6 +568,7 @@ name = RuNet
 2, sbrn.com
 2, sbrn.ru
 3, school
+2, sdm.ru
 2, secret-agents.ru
 3, selectel
 2, sendpulse.com
@@ -564,11 +579,14 @@ name = RuNet
 3, skillbox
 3, skillfactory
 2, skyscanner.ru
+2, sinara
 2, smailru.net
 3, smotrim
 2, smotrim.ru
 2, snet.ru
+2, sngb.ru
 2, sovsport.ru
+3, sovcombank
 2, spark-interfax.ru
 2, spark-marketing.ru
 2, spb.ru
@@ -582,6 +600,7 @@ name = RuNet
 3, studilka
 3, sunlight
 2, superjob.ru
+3, surgutneft
 3, sushiwok
 2, sushkof.ru
 2, t-access.ru
@@ -664,12 +683,14 @@ name = RuNet
 2, tvzvezda.ru
 2, tyumen.ru
 2, u24.ru
+2, ubrr.ru
 2, uchi.com
 2, uchi.ru
 2, udm.ru
 2, udmurtia.ru
 2, ulan-ude.ru
 2, unisender.com
+3, uralsib
 3, urent
 2, usedesk.ru
 2, userapi.com
@@ -678,6 +699,7 @@ name = RuNet
 2, v1.market
 2, v1.ru
 2, vc.ru
+2, veb.ru
 2, vedomosti.ru
 2, vgtrk.ru
 3, video-vk
@@ -738,6 +760,7 @@ name = RuNet
 2, vtb.ru
 2, vtb24.com
 2, vtb24.ru
+2, vsk.ru
 3, wavesend
 3, wb-bank
 3, wb-family
