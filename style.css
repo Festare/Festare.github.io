@@ -4,10 +4,8 @@
     box-sizing: border-box;
     font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
     
-    /* Отключаем синий подсвет при нажатии на мобильных */
     -webkit-tap-highlight-color: transparent;
     
-    /* Отключаем выделение текста при частых кликах */
     -webkit-user-select: none;
     user-select: none;
 }
@@ -22,7 +20,6 @@ body {
     position: relative;
 }
 
-/* Фоновое переливающееся сияние */
 body::before {
     content: '';
     position: absolute;
@@ -47,7 +44,6 @@ body::before {
     }
 }
 
-/* Главный контейнер */
 .container {
     position: relative;
     z-index: 2;
@@ -67,7 +63,6 @@ body::before {
     font-weight: 600;
 }
 
-/* Заголовок с переливающимся градиентом и свечением */
 .title {
     font-size: 72px;
     font-weight: 800;
@@ -101,7 +96,6 @@ body::before {
     font-weight: 300;
 }
 
-/* Переключатель сияния */
 .glow-btn {
     background: rgba(35, 15, 50, 0.6);
     border: 1px solid rgba(255, 113, 206, 0.5);
@@ -118,7 +112,6 @@ body::before {
     align-items: center;
     gap: 10px;
     
-    /* Отключаем зум и некорректные тапы на смартфонах */
     touch-action: manipulation;
 }
 
@@ -129,12 +122,10 @@ body::before {
                 inset 0 0 20px rgba(185, 103, 255, 0.4);
 }
 
-/* Эффект пружинящего нажатия при клике */
 .glow-btn:active {
     transform: scale(0.92);
 }
 
-/* Баннер Cookie */
 .cookie-banner {
     position: fixed;
     bottom: 25px;
@@ -224,7 +215,6 @@ body::before {
     background: rgba(255, 255, 255, 0.05);
 }
 
-/* Состояние при отключенном сиянии */
 body.glow-off .title {
     animation: none;
     background: #ffffff;
@@ -255,7 +245,6 @@ body.glow-off .cookie-btn.accept {
     box-shadow: none;
 }
 
-/* Адаптивность для планшетов */
 @media (min-width: 601px) and (max-width: 1024px) {
     .title {
         font-size: 58px;
@@ -265,7 +254,6 @@ body.glow-off .cookie-btn.accept {
     }
 }
 
-/* Адаптивность для мобильных устройств */
 @media (max-width: 600px) {
     .title {
         font-size: 44px;
