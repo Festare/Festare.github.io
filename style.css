@@ -1,0 +1,280 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+}
+
+body {
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #0a0512;
+    overflow: hidden;
+    position: relative;
+}
+
+/* Фоновое переливающееся сияние */
+body::before {
+    content: '';
+    position: absolute;
+    width: 150%;
+    height: 150%;
+    background: radial-gradient(circle at 30% 30%, rgba(147, 51, 234, 0.3), transparent 50%),
+                radial-gradient(circle at 70% 70%, rgba(236, 72, 153, 0.3), transparent 50%),
+                radial-gradient(circle at 50% 50%, rgba(168, 85, 247, 0.2), transparent 60%);
+    animation: rotateGlow 10s ease-in-out infinite alternate;
+    z-index: 1;
+}
+
+@keyframes rotateGlow {
+    0% {
+        transform: scale(1) translate(0, 0);
+    }
+    50% {
+        transform: scale(1.1) translate(-2%, 2%);
+    }
+    100% {
+        transform: scale(1) translate(2%, -2%);
+    }
+}
+
+/* Главный контейнер */
+.container {
+    position: relative;
+    z-index: 2;
+    text-align: center;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.welcome {
+    font-size: 14px;
+    letter-spacing: 6px;
+    text-transform: uppercase;
+    color: rgba(255, 255, 255, 0.8);
+    margin-bottom: 12px;
+    font-weight: 600;
+}
+
+/* Заголовок с переливающимся градиентом и свечением */
+.title {
+    font-size: 72px;
+    font-weight: 800;
+    margin-bottom: 15px;
+    background: linear-gradient(90deg, #ff71ce, #b967ff, #ec4899, #b967ff, #ff71ce);
+    background-size: 300% 100%;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    animation: gradientShift 6s ease infinite;
+    filter: drop-shadow(0 0 15px rgba(255, 113, 206, 0.6))
+            drop-shadow(0 0 30px rgba(185, 103, 255, 0.4));
+    transition: all 0.5s ease;
+}
+
+@keyframes gradientShift {
+    0% {
+        background-position: 0% 50%;
+    }
+    50% {
+        background-position: 100% 50%;
+    }
+    100% {
+        background-position: 0% 50%;
+    }
+}
+
+.subtitle {
+    font-size: 18px;
+    color: rgba(255, 255, 255, 0.7);
+    margin-bottom: 35px;
+    font-weight: 300;
+}
+
+/* Переключатель сияния */
+.glow-btn {
+    background: rgba(35, 15, 50, 0.6);
+    border: 1px solid rgba(255, 113, 206, 0.5);
+    color: #ffffff;
+    padding: 12px 28px;
+    font-size: 16px;
+    border-radius: 30px;
+    cursor: pointer;
+    backdrop-filter: blur(10px);
+    box-shadow: 0 0 15px rgba(185, 103, 255, 0.3),
+                inset 0 0 15px rgba(255, 113, 206, 0.2);
+    transition: all 0.3s ease;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    user-select: none;
+}
+
+.glow-btn:hover {
+    transform: translateY(-2px);
+    border-color: rgba(255, 113, 206, 0.9);
+    box-shadow: 0 0 25px rgba(255, 113, 206, 0.6),
+                inset 0 0 20px rgba(185, 103, 255, 0.4);
+}
+
+/* Баннер Cookie */
+.cookie-banner {
+    position: fixed;
+    bottom: 25px;
+    left: 50%;
+    transform: translateX(-50%) translateY(150px);
+    width: 90%;
+    max-width: 550px;
+    background: rgba(20, 10, 35, 0.85);
+    border: 1px solid rgba(255, 113, 206, 0.4);
+    border-radius: 20px;
+    padding: 16px 22px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 15px;
+    backdrop-filter: blur(15px);
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.5),
+                0 0 20px rgba(185, 103, 255, 0.25);
+    z-index: 1000;
+    opacity: 0;
+    transition: transform 0.6s cubic-bezier(0.16, 1, 0.3, 1), opacity 0.6s ease;
+}
+
+.cookie-banner.show {
+    transform: translateX(-50%) translateY(0);
+    opacity: 1;
+}
+
+.cookie-content {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+}
+
+.cookie-icon {
+    font-size: 22px;
+}
+
+.cookie-text {
+    color: rgba(255, 255, 255, 0.85);
+    font-size: 13px;
+    line-height: 1.4;
+    font-weight: 400;
+}
+
+.cookie-buttons {
+    display: flex;
+    gap: 10px;
+}
+
+.cookie-btn {
+    padding: 8px 16px;
+    font-size: 13px;
+    font-weight: 600;
+    border-radius: 20px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    white-space: nowrap;
+}
+
+.cookie-btn.accept {
+    background: linear-gradient(135deg, #ff71ce, #b967ff);
+    color: #ffffff;
+    border: none;
+    box-shadow: 0 0 10px rgba(255, 113, 206, 0.4);
+}
+
+.cookie-btn.accept:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 0 18px rgba(255, 113, 206, 0.7);
+}
+
+.cookie-btn.decline {
+    background: transparent;
+    color: rgba(255, 255, 255, 0.6);
+    border: 1px solid rgba(255, 255, 255, 0.2);
+}
+
+.cookie-btn.decline:hover {
+    color: #ffffff;
+    border-color: rgba(255, 255, 255, 0.5);
+    background: rgba(255, 255, 255, 0.05);
+}
+
+/* Состояние при отключенном сиянии */
+body.glow-off .title {
+    animation: none;
+    background: #ffffff;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    filter: none;
+}
+
+body.glow-off::before {
+    display: none;
+}
+
+body.glow-off .glow-btn {
+    box-shadow: none;
+    border-color: rgba(255, 255, 255, 0.2);
+    background: rgba(20, 20, 20, 0.5);
+}
+
+body.glow-off .cookie-banner {
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.7);
+    border-color: rgba(255, 255, 255, 0.15);
+    background: rgba(15, 15, 20, 0.95);
+}
+
+body.glow-off .cookie-btn.accept {
+    background: #ffffff;
+    color: #000000;
+    box-shadow: none;
+}
+
+/* Адаптивность для планшетов */
+@media (min-width: 601px) and (max-width: 1024px) {
+    .title {
+        font-size: 58px;
+    }
+    .subtitle {
+        font-size: 16px;
+    }
+}
+
+/* Адаптивность для мобильных устройств */
+@media (max-width: 600px) {
+    .title {
+        font-size: 44px;
+    }
+    .welcome {
+        font-size: 11px;
+        letter-spacing: 4px;
+    }
+    .subtitle {
+        font-size: 15px;
+    }
+    .cookie-banner {
+        flex-direction: column;
+        align-items: stretch;
+        text-align: center;
+        bottom: 15px;
+        padding: 16px;
+    }
+    .cookie-content {
+        flex-direction: column;
+        gap: 6px;
+        margin-bottom: 8px;
+    }
+    .cookie-buttons {
+        justify-content: center;
+        width: 100%;
+    }
+    .cookie-btn {
+        flex: 1;
+    }
+}
