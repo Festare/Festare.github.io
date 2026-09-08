@@ -594,15 +594,8 @@ name = RuNet
 3, sportmaster
 2, sports.ru
 3, sputnik
-2, srv-hub.ru
-2, srv-hub.org
-2, srv-hub.su
-2, srv-hub.net
-2, srv-hub.com
-2, srv-hub.app
-2, srv-hub.ru.net
-2, srv-hub.ru.com
-2, srv-hub.io
+3, srv-hub
+3, srvhub
 2, mycdn.me
 2, start.ru
 3, stolichki
@@ -641,6 +634,7 @@ name = RuNet
 2, tass.ru
 3, taximaxim
 2, taximaxim.ru
+3, taya-ai
 3, tb-esim
 2, tb.ru
 3, tbank
