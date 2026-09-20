@@ -7,6 +7,7 @@ vless://d04a4dd9-f7d7-40c4-9775-a18d3cc41161@45.8.250.247:16443/?security=none#�
 vless://669b15b9-a618-47a6-ab0b-6210767ba6fd@185.66.68.201:8080?encryption=none&type=xhttp&security=none&path=%2F&mode=auto#🇧🇾%20Беларусь%201️⃣
 vless://1163ce97-68d2-4bd7-a983-e501920a953d@194.26.138.171:16443?encryption=none&type=tcp&security=none#🇩🇪%20Германия%201️⃣
 vless://793204ea-b02b-4e13-b379-3fb1870b340c@114.29.238.59:443?encryption=none&type=tcp&security=reality&sni=www.bilibili.com&fp=ios&pbk=jhinzEOtnPG2AHDuMbB6xPYctIw-1O_RVSyHe34LBEA&sid=b3b6a2f5222b00&spx=%2F#🇭🇰%20Гонг-Конг%201️⃣
+vless://b48e1596-e835-4547-bdae-31daadf9ea17@5.53.124.191:8008?encryption=none&type=xhttp&security=none&path=%2F&mode=auto#🇨🇦%20Канада%201️⃣
 vless://c01bdd9e-b46c-426f-b4c6-e1cabff7c1b7@89.19.223.245:16443?encryption=none&type=tcp&security=none#🇵🇱%20Польша%201️⃣
 vless://83367000-4ff9-4efa-bc7b-56ae03a4ad91@83.97.78.240:8080?encryption=none&type=xhttp&security=none&path=%2F&mode=auto#🇫🇮%20Финляндия%201️⃣
 vless://60d00d50-ee1b-478d-8ccc-acfedcc1857e@45.86.60.35:16443?encryption=none&type=tcp&security=none#🇪🇪%20Эстония%201️⃣
