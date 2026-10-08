@@ -2542,6 +2542,7 @@ name = RuNet
 2, a.mts.ru
 2, obs.mts.ru
 2, sentry.iptv.rt.ru
+2, smena.cafe
 
 # IP-CIDR
 0, 91.194.226.0/23
