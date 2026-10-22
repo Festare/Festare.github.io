@@ -4,6 +4,8 @@ name = GitHub
 # 0, (ip-cidr v4)
 # 1, (ip-cidr v6)
 
+# IP-CIDR
+
 # Domains
 2, githubcopilot.com
 2, copilot-proxy.githubusercontent.com
@@ -70,4 +72,3 @@ name = GitHub
 2, productionresultssa19.blob.core.windows.net
 2, cafe.github.com
 2, collector.github.com
-3, github
