@@ -4,18 +4,44 @@ name = Twitch
 # 0, (ip-cidr v4)
 # 1, (ip-cidr v6)
 
+# IP-CIDR
+
 # Domains
-3, twitch
-3, ttvnw
-3, jtvnw
+2, ext-twitch.tv
+2, jtvnw.net
 2, live-video.net
-2, media-amazon.com
-2, a2z.com
-2, amazonaws.com
-2, 7tv.app
-2, 7tv.io
-2, betterttv.net
-2, frankerfacez.com
+2, ttvnw.net
+2, twitch.tv
+2, twitchcdn.net
+2, twitchcon.com
+2, twitchsvc.net
+2, d1g1f25tn8m2e6.cloudfront.net
+2, d1m7jfoe9zdc1j.cloudfront.net
+2, d1mhjrowxxagfy.cloudfront.net
+2, d1ndex63qxojbr.cloudfront.net
+2, d1oca24q5dwo6d.cloudfront.net
+2, d1w2poirtb3as9.cloudfront.net
+2, d1xhnb4ptk05mw.cloudfront.net
+2, d1ymi26ma8va5x.cloudfront.net
+2, d2aba1wr3818hz.cloudfront.net
+2, d2dylwb3shzel1.cloudfront.net
+2, d2e2de1etea730.cloudfront.net
+2, d2nvs31859zcd8.cloudfront.net
+2, d2um2qdswy1tb0.cloudfront.net
+2, d2vjef5jvl6bfs.cloudfront.net
+2, d2xmjdvx03ij56.cloudfront.net
+2, d36nr0u3xmc4mm.cloudfront.net
+2, d3aqoihi2n8ty8.cloudfront.net
+2, d3c27h4odz752x.cloudfront.net
+2, d3stzm2eumvgb4.cloudfront.net
+2, d3vd9lfkzbru3h.cloudfront.net
+2, d6d4ismr40iw.cloudfront.net
+2, d6tizftlrpuof.cloudfront.net
+2, ddacn6pr5v0tl.cloudfront.net
+2, dgeft87wbj63p.cloudfront.net
+2, dqrpb9wgowsf5.cloudfront.net
+2, ds0h3roq6wcgc.cloudfront.net
+2, dykkng5hnh52u.cloudfront.net
 
 # IP-CIDR
 0, 103.53.48.0/23
