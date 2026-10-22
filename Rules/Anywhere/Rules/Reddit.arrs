@@ -4,15 +4,18 @@ name = Reddit
 # 0, (ip-cidr v4)
 # 1, (ip-cidr v6)
 
+# IP-CIDR
+
 # Domains
 2, redd.it
-3, reddit
-2, app.link
-2, redd.it
+2, reddit.app.link
 2, reddit.com
+2, redditblog.com
+2, reddithelp.com
+2, redditinc.com
 2, redditmail.com
 2, redditmedia.com
+2, redditspace.com
 2, redditstatic.com
-2, reddituploads.com
-2, reddituploads.com.cdn-cf.behance.net
-2, reddituploads.com.cdn-cf.dropbox.com
+2, redditstatus.com
+2, reddit.map.fastly.net
