@@ -4,6 +4,8 @@ name = Private
 # 0, (ip-cidr v4)
 # 1, (ip-cidr v6)
 
+# IP-CIDR
+
 # Domains
 2, lan
 2, localdomain
@@ -126,6 +128,8 @@ name = Private
 2, plex.direct
 2, localhost.sec.qq.com
 2, localhost.ptlogin2.qq.com
+2, localhost.weixin.qq.com
+2, localhost.work.weixin.qq.com
 2, tendawifi.com
 2, tplinkwifi.net
 2, tplogin.cn
