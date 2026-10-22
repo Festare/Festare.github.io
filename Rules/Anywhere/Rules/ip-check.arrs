@@ -1,8 +1,10 @@
-name = ip-check
+name = IP-Detector
 # 2, (domain).(suffix)
 # 3, (domain)
 # 0, (ip-cidr v4)
 # 1, (ip-cidr v6)
+
+# IP-CIDR
 
 # Domains
 2, ipip.net
@@ -1687,23 +1689,3 @@ name = ip-check
 2, ipv6-internet.yandex.net
 2, ipv6.internet.yandex.net
 2, whois.pconline.com.cn
-
-#
-3, traceflow
-3, trace-flow
-3, ifconfig
-3, trustmyip
-3, tracemyip
-3, showmyip
-3, mylocation
-3, ip-check
-3, geoip
-3, checkip
-3, whatmyip
-3, check-host
-3, find-my-ip
-3, geoplugin
-3, geoscan
-3, iplocation
-3, whatismyip
-3, whatsmyip
