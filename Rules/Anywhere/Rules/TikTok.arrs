@@ -4,6 +4,8 @@ name = TikTok
 # 0, (ip-cidr v4)
 # 1, (ip-cidr v6)
 
+# IP-CIDR
+
 # Domains
 2, bytedapm.com
 2, muscdn.com
@@ -42,29 +44,3 @@ name = TikTok
 2, roovza.launches.appsflyersdk.com
 2, roovza.skadsdk.appsflyersdk.com
 2, analytics.tiktok.com
-
-#
-3, tiktok
-2, musical.ly
-3, atomile
-3, byteoversea
-3, byteimg
-3, bytetcdn
-3, bytedapm
-3, bytegecko
-3, byteintlapi
-3, ibytedtos
-3, ipstatp
-3, isnssdk
-3, musemuse
-3, muscdn
-3, pstatp
-3, rocket-cdn
-3, sgsnssdk
-3, tlivecdn
-3, toversea
-3, twstatic
-3, worldfcdn
-3, ttwebview
-3, tik-tok
-
