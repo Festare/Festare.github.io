@@ -2,9 +2,270 @@
 <html lang="ru">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <!-- Предзагрузка ничего не требует, так как мы используем системные шрифты (это уже огромный плюс к скорости!) -->
     <title>Animefnik</title>
-    <link rel="stylesheet" href="style.css">
+    <style>
+        html, body {
+            height: 100%;
+            overflow-y: auto;
+            overflow-x: hidden;
+            scrollbar-width: none;
+            -ms-overflow-style: none;
+        }
+
+        html::-webkit-scrollbar, body::-webkit-scrollbar {
+            display: none;
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+            -webkit-tap-highlight-color: transparent;
+            -webkit-user-select: none;
+            user-select: none;
+        }
+
+        body {
+            width: 100vw;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            background: #0a0512;
+            position: relative;
+            /* Оптимизация отображения шрифтов */
+            -webkit-font-smoothing: antialiased;
+            -moz-osx-font-smoothing: grayscale;
+            text-rendering: optimizeLegibility;
+        }
+
+        body::before {
+            content: '';
+            position: absolute;
+            width: 150%;
+            height: 150%;
+            background: radial-gradient(circle at 30% 30%, rgba(147, 51, 234, 0.3), transparent 50%),
+                        radial-gradient(circle at 70% 70%, rgba(236, 72, 153, 0.3), transparent 50%),
+                        radial-gradient(circle at 50% 50%, rgba(168, 85, 247, 0.2), transparent 60%);
+            animation: rotateGlow 10s ease-in-out infinite alternate;
+            z-index: 1;
+            /* Включаем аппаратное ускорение (GPU) для тяжелого градиента */
+            will-change: transform;
+            transform: translateZ(0); 
+            pointer-events: none; /* Игнорируем клики по фону для скорости браузера */
+        }
+
+        @keyframes rotateGlow {
+            0% { transform: scale(1) translate(0, 0) translateZ(0); }
+            50% { transform: scale(1.1) translate(-2%, 2%) translateZ(0); }
+            100% { transform: scale(1) translate(2%, -2%) translateZ(0); }
+        }
+
+        .container {
+            position: relative;
+            z-index: 2;
+            text-align: center;
+            padding: 20px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            width: 100%;
+        }
+
+        .welcome {
+            font-size: clamp(11px, 2vw, 14px);
+            letter-spacing: clamp(4px, 1vw, 6px);
+            text-transform: uppercase;
+            color: rgba(255, 255, 255, 0.8);
+            margin-bottom: 12px;
+            font-weight: 600;
+        }
+
+        .title {
+            font-size: clamp(44px, 8vw, 72px);
+            font-weight: 800;
+            margin-bottom: 15px;
+            background: linear-gradient(90deg, #ff71ce, #b967ff, #ec4899, #b967ff, #ff71ce);
+            background-size: 300% 100%;
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            animation: gradientShift 6s ease infinite;
+            filter: drop-shadow(0 0 15px rgba(255, 113, 206, 0.6))
+                    drop-shadow(0 0 30px rgba(185, 103, 255, 0.4));
+            transition: filter 0.5s ease;
+            will-change: background-position; /* Оптимизация градиента текста */
+        }
+
+        @keyframes gradientShift {
+            0% { background-position: 0% 50%; }
+            50% { background-position: 100% 50%; }
+            100% { background-position: 0% 50%; }
+        }
+
+        .subtitle {
+            font-size: clamp(15px, 3vw, 18px);
+            color: rgba(255, 255, 255, 0.7);
+            margin-bottom: 35px;
+            font-weight: 300;
+        }
+
+        .action-buttons {
+            display: flex;
+            flex-direction: column;
+            gap: 15px;
+            align-items: center;
+            width: 100%;
+        }
+
+        .glow-btn {
+            background: rgba(35, 15, 50, 0.6);
+            border: 1px solid rgba(255, 113, 206, 0.5);
+            color: #ffffff;
+            padding: 12px 28px;
+            font-size: 16px;
+            border-radius: 30px;
+            cursor: pointer;
+            backdrop-filter: blur(10px);
+            -webkit-backdrop-filter: blur(10px); /* Для поддержки Safari */
+            box-shadow: 0 0 15px rgba(185, 103, 255, 0.3),
+                        inset 0 0 15px rgba(255, 113, 206, 0.2);
+            transition: transform 0.15s cubic-bezier(0.175, 0.885, 0.32, 1.275), box-shadow 0.3s ease, border-color 0.3s ease;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 10px;
+            touch-action: manipulation;
+            text-decoration: none;
+            width: 240px;
+            will-change: transform, box-shadow; /* Подсказка браузеру для плавной анимации */
+        }
+
+        .glow-btn:hover {
+            transform: translateY(-2px);
+            border-color: rgba(255, 113, 206, 0.9);
+            box-shadow: 0 0 25px rgba(255, 113, 206, 0.6),
+                        inset 0 0 20px rgba(185, 103, 255, 0.4);
+        }
+
+        .glow-btn:active { transform: scale(0.92); }
+
+        .cookie-banner {
+            position: fixed;
+            bottom: 25px;
+            left: 50%;
+            transform: translateX(-50%) translateY(150px);
+            width: 90%;
+            max-width: 550px;
+            background: rgba(20, 10, 35, 0.85);
+            border: 1px solid rgba(255, 113, 206, 0.4);
+            border-radius: 20px;
+            padding: 16px 22px;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            gap: 15px;
+            backdrop-filter: blur(15px);
+            -webkit-backdrop-filter: blur(15px);
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.5),
+                        0 0 20px rgba(185, 103, 255, 0.25);
+            z-index: 1000;
+            opacity: 0;
+            pointer-events: none; /* Отключаем клики, пока баннер не выедет */
+            transition: transform 0.6s cubic-bezier(0.16, 1, 0.3, 1), opacity 0.6s ease;
+            will-change: transform, opacity;
+        }
+
+        .cookie-banner.show {
+            transform: translateX(-50%) translateY(0);
+            opacity: 1;
+            pointer-events: auto; /* Включаем клики обратно */
+        }
+
+        .cookie-content { display: flex; align-items: center; gap: 12px; }
+        .cookie-icon { font-size: 22px; }
+        .cookie-text {
+            color: rgba(255, 255, 255, 0.85);
+            font-size: 13px;
+            line-height: 1.4;
+            font-weight: 400;
+        }
+
+        .cookie-buttons { display: flex; gap: 10px; }
+        .cookie-btn {
+            padding: 8px 16px;
+            font-size: 13px;
+            font-weight: 600;
+            border-radius: 20px;
+            cursor: pointer;
+            transition: all 0.2s ease;
+            white-space: nowrap;
+            touch-action: manipulation;
+        }
+
+        .cookie-btn.accept {
+            background: linear-gradient(135deg, #ff71ce, #b967ff);
+            color: #ffffff;
+            border: none;
+            box-shadow: 0 0 10px rgba(255, 113, 206, 0.4);
+        }
+
+        .cookie-btn.accept:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 0 18px rgba(255, 113, 206, 0.7);
+        }
+
+        .cookie-btn:active { transform: scale(0.95); }
+        
+        .cookie-btn.decline {
+            background: transparent;
+            color: rgba(255, 255, 255, 0.6);
+            border: 1px solid rgba(255, 255, 255, 0.2);
+        }
+
+        .cookie-btn.decline:hover {
+            color: #ffffff;
+            border-color: rgba(255, 255, 255, 0.5);
+            background: rgba(255, 255, 255, 0.05);
+        }
+
+        /* Оптимизированные стили выключенного сияния (без лишних анимаций) */
+        body.glow-off .title {
+            animation: none;
+            background: #ffffff;
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            filter: none;
+            will-change: auto;
+        }
+        body.glow-off::before { display: none; }
+        body.glow-off .glow-btn {
+            box-shadow: none;
+            border-color: rgba(255, 255, 255, 0.2);
+            background: rgba(20, 20, 20, 0.5);
+            will-change: transform;
+        }
+        body.glow-off .cookie-banner {
+            box-shadow: 0 10px 25px rgba(0, 0, 0, 0.7);
+            border-color: rgba(255, 255, 255, 0.15);
+            background: rgba(15, 15, 20, 0.95);
+        }
+        body.glow-off .cookie-btn.accept { background: #ffffff; color: #000000; box-shadow: none; }
+
+        @media (max-width: 600px) {
+            .cookie-banner {
+                flex-direction: column;
+                align-items: stretch;
+                text-align: center;
+                bottom: 15px;
+                padding: 16px;
+            }
+            .cookie-content { flex-direction: column; gap: 6px; margin-bottom: 8px; }
+            .cookie-buttons { justify-content: center; width: 100%; }
+            .cookie-btn { flex: 1; }
+        }
+    </style>
 </head>
 <body>
 
@@ -13,18 +274,22 @@
         <h1 class="title">Animefnik</h1>
         <p class="subtitle">Добро пожаловать на мою страницу</p>
         
-        <button class="glow-btn" id="toggleBtn">
-            <span id="heartIcon">💜</span>
-            <span id="btnText">Сияние включено</span>
-        </button>
+        <div class="action-buttons">
+            <button class="glow-btn" id="toggleBtn">
+                <span id="heartIcon">💜</span>
+                <span id="btnText">Сияние включено</span>
+            </button>
+            <a href="https://t.me/animefnik" class="glow-btn" target="_blank" rel="noopener noreferrer">
+                <span>✈️</span>
+                <span>Telegram</span>
+            </a>
+        </div>
     </div>
 
     <div class="cookie-banner" id="cookieBanner">
         <div class="cookie-content">
             <span class="cookie-icon">🍪</span>
-            <p class="cookie-text">
-                Мы используем cookie для улучшения работы сайта.
-            </p>
+            <p class="cookie-text">Мы используем cookie для улучшения работы сайта.</p>
         </div>
         <div class="cookie-buttons">
             <button class="cookie-btn accept" id="acceptCookie">Принять</button>
@@ -32,6 +297,64 @@
         </div>
     </div>
 
-    <script src="script.js"></script>
+    <script>
+        // Читаем Storage ДО загрузки DOM, чтобы избежать "моргания" темы
+        const cookieConsent = localStorage.getItem('cookieAccepted');
+        const savedGlow = localStorage.getItem('glowState');
+        let isGlowOn = savedGlow !== 'false'; // По умолчанию включено
+
+        // Если сохранено выключенное состояние, применяем класс сразу, чтобы браузер не рисовал сияние вхолостую
+        if (!isGlowOn) document.body.classList.add('glow-off');
+
+        document.addEventListener('DOMContentLoaded', () => {
+            const toggleBtn = document.getElementById('toggleBtn');
+            const btnText = document.getElementById('btnText');
+            const heartIcon = document.getElementById('heartIcon');
+            const cookieBanner = document.getElementById('cookieBanner');
+
+            // Синхронизация текста кнопки с начальным состоянием
+            if (!isGlowOn) {
+                btnText.textContent = 'Сияние выключено';
+                heartIcon.textContent = '🖤';
+            }
+
+            const updateGlowUI = (state) => {
+                isGlowOn = state;
+                if (isGlowOn) {
+                    document.body.classList.remove('glow-off');
+                    btnText.textContent = 'Сияние включено';
+                    heartIcon.textContent = '💜';
+                } else {
+                    document.body.classList.add('glow-off');
+                    btnText.textContent = 'Сияние выключено';
+                    heartIcon.textContent = '🖤';
+                }
+                if (localStorage.getItem('cookieAccepted') === 'true') {
+                    localStorage.setItem('glowState', isGlowOn);
+                }
+            };
+
+            // Логика баннера куки
+            if (cookieConsent === null) {
+                // Используем requestAnimationFrame вместо обычного таймаута для идеальной плавности
+                setTimeout(() => requestAnimationFrame(() => cookieBanner.classList.add('show')), 800);
+            }
+
+            // Обработчики кликов
+            toggleBtn.addEventListener('click', () => updateGlowUI(!isGlowOn));
+
+            document.getElementById('acceptCookie').addEventListener('click', () => {
+                localStorage.setItem('cookieAccepted', 'true');
+                localStorage.setItem('glowState', isGlowOn);
+                cookieBanner.classList.remove('show');
+            });
+
+            document.getElementById('declineCookie').addEventListener('click', () => {
+                localStorage.setItem('cookieAccepted', 'false');
+                localStorage.removeItem('glowState');
+                cookieBanner.classList.remove('show');
+            });
+        });
+    </script>
 </body>
 </html>
