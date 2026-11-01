@@ -3,7 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-    <!-- Предзагрузка ничего не требует, так как мы используем системные шрифты (это уже огромный плюс к скорости!) -->
     <title>Animefnik</title>
     <style>
         html, body {
@@ -35,7 +34,6 @@
             align-items: center;
             background: #0a0512;
             position: relative;
-            /* Оптимизация отображения шрифтов */
             -webkit-font-smoothing: antialiased;
             -moz-osx-font-smoothing: grayscale;
             text-rendering: optimizeLegibility;
@@ -51,10 +49,8 @@
                         radial-gradient(circle at 50% 50%, rgba(168, 85, 247, 0.2), transparent 60%);
             animation: rotateGlow 10s ease-in-out infinite alternate;
             z-index: 1;
-            /* Включаем аппаратное ускорение (GPU) для тяжелого градиента */
             will-change: transform;
             transform: translateZ(0); 
-            pointer-events: none; /* Игнорируем клики по фону для скорости браузера */
         }
 
         @keyframes rotateGlow {
@@ -95,7 +91,7 @@
             filter: drop-shadow(0 0 15px rgba(255, 113, 206, 0.6))
                     drop-shadow(0 0 30px rgba(185, 103, 255, 0.4));
             transition: filter 0.5s ease;
-            will-change: background-position; /* Оптимизация градиента текста */
+            will-change: background-position;
         }
 
         @keyframes gradientShift {
@@ -128,7 +124,7 @@
             border-radius: 30px;
             cursor: pointer;
             backdrop-filter: blur(10px);
-            -webkit-backdrop-filter: blur(10px); /* Для поддержки Safari */
+            -webkit-backdrop-filter: blur(10px);
             box-shadow: 0 0 15px rgba(185, 103, 255, 0.3),
                         inset 0 0 15px rgba(255, 113, 206, 0.2);
             transition: transform 0.15s cubic-bezier(0.175, 0.885, 0.32, 1.275), box-shadow 0.3s ease, border-color 0.3s ease;
@@ -139,7 +135,7 @@
             touch-action: manipulation;
             text-decoration: none;
             width: 240px;
-            will-change: transform, box-shadow; /* Подсказка браузеру для плавной анимации */
+            will-change: transform, box-shadow;
         }
 
         .glow-btn:hover {
@@ -172,7 +168,7 @@
                         0 0 20px rgba(185, 103, 255, 0.25);
             z-index: 1000;
             opacity: 0;
-            pointer-events: none; /* Отключаем клики, пока баннер не выедет */
+            pointer-events: none;
             transition: transform 0.6s cubic-bezier(0.16, 1, 0.3, 1), opacity 0.6s ease;
             will-change: transform, opacity;
         }
@@ -230,7 +226,6 @@
             background: rgba(255, 255, 255, 0.05);
         }
 
-        /* Оптимизированные стили выключенного сияния (без лишних анимаций) */
         body.glow-off .title {
             animation: none;
             background: #ffffff;
@@ -298,12 +293,10 @@
     </div>
 
     <script>
-        // Читаем Storage ДО загрузки DOM, чтобы избежать "моргания" темы
         const cookieConsent = localStorage.getItem('cookieAccepted');
         const savedGlow = localStorage.getItem('glowState');
-        let isGlowOn = savedGlow !== 'false'; // По умолчанию включено
+        let isGlowOn = savedGlow !== 'false';
 
-        // Если сохранено выключенное состояние, применяем класс сразу, чтобы браузер не рисовал сияние вхолостую
         if (!isGlowOn) document.body.classList.add('glow-off');
 
         document.addEventListener('DOMContentLoaded', () => {
@@ -312,7 +305,6 @@
             const heartIcon = document.getElementById('heartIcon');
             const cookieBanner = document.getElementById('cookieBanner');
 
-            // Синхронизация текста кнопки с начальным состоянием
             if (!isGlowOn) {
                 btnText.textContent = 'Сияние выключено';
                 heartIcon.textContent = '🖤';
@@ -334,13 +326,10 @@
                 }
             };
 
-            // Логика баннера куки
             if (cookieConsent === null) {
-                // Используем requestAnimationFrame вместо обычного таймаута для идеальной плавности
                 setTimeout(() => requestAnimationFrame(() => cookieBanner.classList.add('show')), 800);
             }
 
-            // Обработчики кликов
             toggleBtn.addEventListener('click', () => updateGlowUI(!isGlowOn));
 
             document.getElementById('acceptCookie').addEventListener('click', () => {
