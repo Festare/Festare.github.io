@@ -2,72 +2,162 @@
 <html lang="ru">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="color-scheme" content="dark">
+    <meta name="theme-color" content="#0a0512">
+    <meta name="description" content="Личная страница Animefnik">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Animefnik">
+    <meta property="og:description" content="Добро пожаловать на мою страницу">
+    <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ctext y='.9em' font-size='90'%3E💜%3C/text%3E%3C/svg%3E">
     <title>Animefnik</title>
+
+    <script>
+        if (!(window.CSS && CSS.registerProperty)) {
+            document.documentElement.classList.add('no-props');
+        }
+        try {
+            if (localStorage.getItem('glowState') === 'false') {
+                document.documentElement.classList.add('glow-off');
+            }
+        } catch (e) {}
+    </script>
+
     <style>
-        html, body {
-            height: 100%;
-            overflow-y: auto;
-            overflow-x: hidden;
-            scrollbar-width: none;
-            -ms-overflow-style: none;
+        :root {
+            --bg: #0a0512;
+            --pink: #ff71ce;
+            --purple: #b967ff;
+            --magenta: #ec4899;
+
+            --btn-bg: rgba(35, 15, 50, 0.6);
+            --btn-border: rgba(255, 113, 206, 0.5);
+            --btn-border-hover: rgba(255, 113, 206, 0.9);
+            --btn-shadow: 0 0 15px rgba(185, 103, 255, 0.3), inset 0 0 15px rgba(255, 113, 206, 0.2);
+            --btn-shadow-hover: 0 0 25px rgba(255, 113, 206, 0.6), inset 0 0 20px rgba(185, 103, 255, 0.4);
+
+            --banner-bg: rgba(20, 10, 35, 0.85);
+            --banner-border: rgba(255, 113, 206, 0.4);
+            --banner-shadow: 0 10px 30px rgba(0, 0, 0, 0.5), 0 0 20px rgba(185, 103, 255, 0.25);
+
+            --accent-bg: linear-gradient(135deg, var(--pink), var(--purple));
+            --accent-text: #ffffff;
+            --accent-shadow: 0 0 10px rgba(255, 113, 206, 0.4);
+            --accent-shadow-hover: 0 0 18px rgba(255, 113, 206, 0.7);
+
+            --focus: #ffffff;
         }
 
-        html::-webkit-scrollbar, body::-webkit-scrollbar {
-            display: none;
+        .glow-off {
+            --btn-bg: rgba(20, 20, 20, 0.5);
+            --btn-border: rgba(255, 255, 255, 0.2);
+            --btn-border-hover: rgba(255, 255, 255, 0.2);
+            --btn-shadow: none;
+            --btn-shadow-hover: none;
+
+            --banner-bg: rgba(15, 15, 20, 0.95);
+            --banner-border: rgba(255, 255, 255, 0.15);
+            --banner-shadow: 0 10px 25px rgba(0, 0, 0, 0.7);
+
+            --accent-bg: #ffffff;
+            --accent-text: #000000;
+            --accent-shadow: none;
+            --accent-shadow-hover: none;
         }
 
         * {
             margin: 0;
             padding: 0;
             box-sizing: border-box;
-            font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
             -webkit-tap-highlight-color: transparent;
-            -webkit-user-select: none;
-            user-select: none;
         }
 
+        html {
+            -webkit-text-size-adjust: 100%;
+            text-size-adjust: 100%;
+            overflow-x: hidden;
+            scrollbar-width: none;
+            -ms-overflow-style: none;
+            background: var(--bg);
+        }
+
+        html::-webkit-scrollbar { display: none; }
+
         body {
-            width: 100vw;
+            min-height: 100vh;
+            min-height: 100dvh;
+            width: 100%;
             display: flex;
-            justify-content: center;
-            align-items: center;
-            background: #0a0512;
-            position: relative;
+            background: var(--bg);
+            color: #fff;
+            font-family: system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
             -webkit-font-smoothing: antialiased;
             -moz-osx-font-smoothing: grayscale;
             text-rendering: optimizeLegibility;
         }
 
+        button { font: inherit; }
+
+        @property --x1 { syntax: '<percentage>'; inherits: false; initial-value: 20%; }
+        @property --y1 { syntax: '<percentage>'; inherits: false; initial-value: 30%; }
+        @property --x2 { syntax: '<percentage>'; inherits: false; initial-value: 75%; }
+        @property --y2 { syntax: '<percentage>'; inherits: false; initial-value: 35%; }
+        @property --x3 { syntax: '<percentage>'; inherits: false; initial-value: 50%; }
+        @property --y3 { syntax: '<percentage>'; inherits: false; initial-value: 75%; }
+        @property --x4 { syntax: '<percentage>'; inherits: false; initial-value: 15%; }
+        @property --y4 { syntax: '<percentage>'; inherits: false; initial-value: 80%; }
+
         body::before {
             content: '';
-            position: absolute;
-            width: 150%;
-            height: 150%;
-            background: radial-gradient(circle at 30% 30%, rgba(147, 51, 234, 0.3), transparent 50%),
-                        radial-gradient(circle at 70% 70%, rgba(236, 72, 153, 0.3), transparent 50%),
-                        radial-gradient(circle at 50% 50%, rgba(168, 85, 247, 0.2), transparent 60%);
-            animation: rotateGlow 10s ease-in-out infinite alternate;
-            z-index: 1;
-            will-change: transform;
-            transform: translateZ(0); 
+            position: fixed;
+            inset: 0;
+            z-index: 0;
+            pointer-events: none;
+            background:
+                radial-gradient(circle at var(--x4) var(--y4), rgba(130, 24, 140, 0.42), rgba(130, 24, 140, 0) 80%),
+                radial-gradient(circle at var(--x3) var(--y3), rgba(150, 28, 100, 0.52), rgba(150, 28, 100, 0) 85%),
+                radial-gradient(circle at var(--x2) var(--y2), rgba(120, 40, 170, 0.46), rgba(120, 40, 170, 0) 85%),
+                radial-gradient(circle at var(--x1) var(--y1), rgba(30, 44, 130, 0.45), rgba(30, 44, 130, 0) 65%),
+                #120632;
+            animation: moveX1 12s ease-in-out infinite alternate,
+                       moveY1 16s ease-in-out infinite alternate,
+                       moveX2 14s ease-in-out infinite alternate,
+                       moveY2 10s ease-in-out infinite alternate,
+                       moveX3 13s ease-in-out infinite alternate,
+                       moveY3 18s ease-in-out infinite alternate,
+                       moveX4 15s ease-in-out infinite alternate,
+                       moveY4 11s ease-in-out infinite alternate;
         }
 
-        @keyframes rotateGlow {
-            0% { transform: scale(1) translate(0, 0) translateZ(0); }
-            50% { transform: scale(1.1) translate(-2%, 2%) translateZ(0); }
-            100% { transform: scale(1) translate(2%, -2%) translateZ(0); }
+        .glow-off body::before { display: none; }
+
+        .no-props body::before {
+            animation: none;
+            --x1: 20%; --y1: 30%;
+            --x2: 75%; --y2: 35%;
+            --x3: 50%; --y3: 75%;
+            --x4: 15%; --y4: 80%;
         }
+
+        @keyframes moveX1 { from { --x1: 5%; }  to { --x1: 85%; } }
+        @keyframes moveY1 { from { --y1: 10%; } to { --y1: 90%; } }
+        @keyframes moveX2 { from { --x2: 95%; } to { --x2: 15%; } }
+        @keyframes moveY2 { from { --y2: 20%; } to { --y2: 100%; } }
+        @keyframes moveX3 { from { --x3: 30%; } to { --x3: 100%; } }
+        @keyframes moveY3 { from { --y3: 90%; } to { --y3: 0%; } }
+        @keyframes moveX4 { from { --x4: 0%; }  to { --x4: 80%; } }
+        @keyframes moveY4 { from { --y4: 100%; } to { --y4: 15%; } }
 
         .container {
             position: relative;
-            z-index: 2;
-            text-align: center;
+            z-index: 1;
+            margin: auto;
             padding: 20px;
+            width: 100%;
             display: flex;
             flex-direction: column;
             align-items: center;
-            width: 100%;
+            text-align: center;
         }
 
         .welcome {
@@ -79,24 +169,65 @@
             font-weight: 600;
         }
 
-        .title {
+        .title-wrap {
+            position: relative;
+            isolation: isolate;
+            margin-bottom: 15px;
             font-size: clamp(44px, 8vw, 72px);
             font-weight: 800;
-            margin-bottom: 15px;
-            background: linear-gradient(90deg, #ff71ce, #b967ff, #ec4899, #b967ff, #ff71ce);
+            line-height: normal;
+            white-space: nowrap;
+        }
+
+        .title-wrap::before,
+        .title-wrap::after {
+            content: attr(data-text);
+            content: attr(data-text) / '';
+            position: absolute;
+            inset: 0;
+            z-index: -1;
+            text-align: center;
+            pointer-events: none;
+            -webkit-user-select: none;
+            user-select: none;
+        }
+
+        .title-wrap::before {
+            color: rgb(255, 113, 206);
+            opacity: 0.6;
+            filter: blur(7.5px);
+        }
+
+        .title-wrap::after {
+            color: rgb(185, 103, 255);
+            opacity: 0.4;
+            filter: blur(15px);
+        }
+
+        .glow-off .title-wrap::before,
+        .glow-off .title-wrap::after { display: none; }
+
+        .title {
+            font: inherit;
+            background: linear-gradient(90deg, var(--pink), var(--purple), var(--magenta), var(--purple), var(--pink));
             background-size: 300% 100%;
             -webkit-background-clip: text;
+            background-clip: text;
             -webkit-text-fill-color: transparent;
+            color: transparent;
             animation: gradientShift 6s ease infinite;
-            filter: drop-shadow(0 0 15px rgba(255, 113, 206, 0.6))
-                    drop-shadow(0 0 30px rgba(185, 103, 255, 0.4));
-            transition: filter 0.5s ease;
-            will-change: background-position;
+        }
+
+        .glow-off .title {
+            animation: none;
+            background: none;
+            -webkit-text-fill-color: #ffffff;
+            color: #ffffff;
         }
 
         @keyframes gradientShift {
-            0% { background-position: 0% 50%; }
-            50% { background-position: 100% 50%; }
+            0%   { background-position: 0% 50%; }
+            50%  { background-position: 100% 50%; }
             100% { background-position: 0% 50%; }
         }
 
@@ -110,77 +241,90 @@
         .action-buttons {
             display: flex;
             flex-direction: column;
-            gap: 15px;
             align-items: center;
+            gap: 15px;
             width: 100%;
         }
 
         .glow-btn {
-            background: rgba(35, 15, 50, 0.6);
-            border: 1px solid rgba(255, 113, 206, 0.5);
-            color: #ffffff;
-            padding: 12px 28px;
-            font-size: 16px;
-            border-radius: 30px;
-            cursor: pointer;
-            backdrop-filter: blur(10px);
-            -webkit-backdrop-filter: blur(10px);
-            box-shadow: 0 0 15px rgba(185, 103, 255, 0.3),
-                        inset 0 0 15px rgba(255, 113, 206, 0.2);
-            transition: transform 0.15s cubic-bezier(0.175, 0.885, 0.32, 1.275), box-shadow 0.3s ease, border-color 0.3s ease;
             display: flex;
             align-items: center;
             justify-content: center;
             gap: 10px;
-            touch-action: manipulation;
-            text-decoration: none;
             width: 240px;
-            will-change: transform, box-shadow;
+            padding: 12px 28px;
+            font-size: 16px;
+            color: #ffffff;
+            text-decoration: none;
+            background: var(--btn-bg);
+            border: 1px solid var(--btn-border);
+            border-radius: 30px;
+            box-shadow: var(--btn-shadow);
+            backdrop-filter: blur(10px);
+            -webkit-backdrop-filter: blur(10px);
+            cursor: pointer;
+            touch-action: manipulation;
+            -webkit-user-select: none;
+            user-select: none;
+            transition: transform 0.15s cubic-bezier(0.175, 0.885, 0.32, 1.275),
+                        box-shadow 0.3s ease,
+                        border-color 0.3s ease;
         }
 
-        .glow-btn:hover {
-            transform: translateY(-2px);
-            border-color: rgba(255, 113, 206, 0.9);
-            box-shadow: 0 0 25px rgba(255, 113, 206, 0.6),
-                        inset 0 0 20px rgba(185, 103, 255, 0.4);
+        @media (hover: hover) {
+            .glow-btn:hover {
+                transform: translateY(-2px);
+                border-color: var(--btn-border-hover);
+                box-shadow: var(--btn-shadow-hover);
+            }
         }
 
         .glow-btn:active { transform: scale(0.92); }
 
+        .glow-btn:focus-visible,
+        .cookie-btn:focus-visible {
+            outline: 2px solid var(--focus);
+            outline-offset: 3px;
+        }
+
         .cookie-banner {
             position: fixed;
-            bottom: 25px;
-            left: 50%;
-            transform: translateX(-50%) translateY(150px);
-            width: 90%;
-            max-width: 550px;
-            background: rgba(20, 10, 35, 0.85);
-            border: 1px solid rgba(255, 113, 206, 0.4);
-            border-radius: 20px;
+            inset-inline: 0;
+            bottom: max(25px, env(safe-area-inset-bottom));
+            z-index: 1000;
+            width: min(90%, 550px);
+            margin-inline: auto;
             padding: 16px 22px;
             display: flex;
             align-items: center;
             justify-content: space-between;
             gap: 15px;
+            background: var(--banner-bg);
+            border: 1px solid var(--banner-border);
+            border-radius: 20px;
+            box-shadow: var(--banner-shadow);
             backdrop-filter: blur(15px);
             -webkit-backdrop-filter: blur(15px);
-            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.5),
-                        0 0 20px rgba(185, 103, 255, 0.25);
-            z-index: 1000;
+            visibility: hidden;
             opacity: 0;
+            transform: translateY(150px);
             pointer-events: none;
-            transition: transform 0.6s cubic-bezier(0.16, 1, 0.3, 1), opacity 0.6s ease;
-            will-change: transform, opacity;
+            transition: transform 0.6s cubic-bezier(0.16, 1, 0.3, 1),
+                        opacity 0.6s ease,
+                        visibility 0s linear 0.6s;
         }
 
         .cookie-banner.show {
-            transform: translateX(-50%) translateY(0);
+            visibility: visible;
             opacity: 1;
-            pointer-events: auto; /* Включаем клики обратно */
+            transform: translateY(0);
+            pointer-events: auto;
+            transition-delay: 0s;
         }
 
         .cookie-content { display: flex; align-items: center; gap: 12px; }
         .cookie-icon { font-size: 22px; }
+
         .cookie-text {
             color: rgba(255, 255, 255, 0.85);
             font-size: 13px;
@@ -189,161 +333,155 @@
         }
 
         .cookie-buttons { display: flex; gap: 10px; }
+
         .cookie-btn {
             padding: 8px 16px;
             font-size: 13px;
             font-weight: 600;
+            white-space: nowrap;
             border-radius: 20px;
             cursor: pointer;
-            transition: all 0.2s ease;
-            white-space: nowrap;
             touch-action: manipulation;
-        }
-
-        .cookie-btn.accept {
-            background: linear-gradient(135deg, #ff71ce, #b967ff);
-            color: #ffffff;
-            border: none;
-            box-shadow: 0 0 10px rgba(255, 113, 206, 0.4);
-        }
-
-        .cookie-btn.accept:hover {
-            transform: translateY(-2px);
-            box-shadow: 0 0 18px rgba(255, 113, 206, 0.7);
+            -webkit-user-select: none;
+            user-select: none;
+            transition: transform 0.2s ease, box-shadow 0.2s ease, color 0.2s ease,
+                        border-color 0.2s ease, background-color 0.2s ease;
         }
 
         .cookie-btn:active { transform: scale(0.95); }
-        
+
+        .cookie-btn.accept {
+            background: var(--accent-bg);
+            color: var(--accent-text);
+            border: none;
+            box-shadow: var(--accent-shadow);
+        }
+
         .cookie-btn.decline {
             background: transparent;
             color: rgba(255, 255, 255, 0.6);
             border: 1px solid rgba(255, 255, 255, 0.2);
         }
 
-        .cookie-btn.decline:hover {
-            color: #ffffff;
-            border-color: rgba(255, 255, 255, 0.5);
-            background: rgba(255, 255, 255, 0.05);
-        }
+        @media (hover: hover) {
+            .cookie-btn.accept:hover {
+                transform: translateY(-2px);
+                box-shadow: var(--accent-shadow-hover);
+            }
 
-        body.glow-off .title {
-            animation: none;
-            background: #ffffff;
-            -webkit-background-clip: text;
-            -webkit-text-fill-color: transparent;
-            filter: none;
-            will-change: auto;
+            .cookie-btn.decline:hover {
+                color: #ffffff;
+                border-color: rgba(255, 255, 255, 0.5);
+                background: rgba(255, 255, 255, 0.05);
+            }
         }
-        body.glow-off::before { display: none; }
-        body.glow-off .glow-btn {
-            box-shadow: none;
-            border-color: rgba(255, 255, 255, 0.2);
-            background: rgba(20, 20, 20, 0.5);
-            will-change: transform;
-        }
-        body.glow-off .cookie-banner {
-            box-shadow: 0 10px 25px rgba(0, 0, 0, 0.7);
-            border-color: rgba(255, 255, 255, 0.15);
-            background: rgba(15, 15, 20, 0.95);
-        }
-        body.glow-off .cookie-btn.accept { background: #ffffff; color: #000000; box-shadow: none; }
 
         @media (max-width: 600px) {
             .cookie-banner {
                 flex-direction: column;
                 align-items: stretch;
                 text-align: center;
-                bottom: 15px;
                 padding: 16px;
+                bottom: max(15px, env(safe-area-inset-bottom));
             }
+
             .cookie-content { flex-direction: column; gap: 6px; margin-bottom: 8px; }
             .cookie-buttons { justify-content: center; width: 100%; }
             .cookie-btn { flex: 1; }
+        }
+
+        @media (prefers-reduced-motion: reduce) {
+            body::before,
+            .title { animation: none; }
+
+            .glow-btn,
+            .cookie-banner,
+            .cookie-btn { transition-duration: 0.01s; transition-delay: 0s; }
         }
     </style>
 </head>
 <body>
 
-    <div class="container">
+    <main class="container">
         <div class="welcome">Welcome</div>
-        <h1 class="title">Animefnik</h1>
+        <div class="title-wrap" data-text="Animefnik">
+            <h1 class="title">Animefnik</h1>
+        </div>
         <p class="subtitle">Добро пожаловать на мою страницу</p>
-        
+
         <div class="action-buttons">
-            <button class="glow-btn" id="toggleBtn">
-                <span id="heartIcon">💜</span>
+            <button class="glow-btn" id="toggleBtn" type="button" aria-pressed="true">
+                <span id="heartIcon" aria-hidden="true">💜</span>
                 <span id="btnText">Сияние включено</span>
             </button>
             <a href="https://t.me/animefnik" class="glow-btn" target="_blank" rel="noopener noreferrer">
-                <span>✈️</span>
+                <span aria-hidden="true">✈️</span>
                 <span>Telegram</span>
             </a>
         </div>
-    </div>
+    </main>
 
-    <div class="cookie-banner" id="cookieBanner">
+    <div class="cookie-banner" id="cookieBanner" role="region" aria-label="Уведомление о cookie">
         <div class="cookie-content">
-            <span class="cookie-icon">🍪</span>
+            <span class="cookie-icon" aria-hidden="true">🍪</span>
             <p class="cookie-text">Мы используем cookie для улучшения работы сайта.</p>
         </div>
         <div class="cookie-buttons">
-            <button class="cookie-btn accept" id="acceptCookie">Принять</button>
-            <button class="cookie-btn decline" id="declineCookie">Отклонить</button>
+            <button class="cookie-btn accept" id="acceptCookie" type="button">Принять</button>
+            <button class="cookie-btn decline" id="declineCookie" type="button">Отклонить</button>
         </div>
     </div>
 
     <script>
-        const cookieConsent = localStorage.getItem('cookieAccepted');
-        const savedGlow = localStorage.getItem('glowState');
-        let isGlowOn = savedGlow !== 'false';
+        const store = {
+            get(key)      { try { return localStorage.getItem(key); } catch { return null; } },
+            set(key, val) { try { localStorage.setItem(key, val); } catch {} },
+            del(key)      { try { localStorage.removeItem(key); } catch {} }
+        };
 
-        if (!isGlowOn) document.body.classList.add('glow-off');
+        const KEY_CONSENT = 'cookieAccepted';
+        const KEY_GLOW = 'glowState';
 
-        document.addEventListener('DOMContentLoaded', () => {
-            const toggleBtn = document.getElementById('toggleBtn');
-            const btnText = document.getElementById('btnText');
-            const heartIcon = document.getElementById('heartIcon');
-            const cookieBanner = document.getElementById('cookieBanner');
+        const root = document.documentElement;
+        const toggleBtn = document.getElementById('toggleBtn');
+        const btnText = document.getElementById('btnText');
+        const heartIcon = document.getElementById('heartIcon');
+        const cookieBanner = document.getElementById('cookieBanner');
 
-            if (!isGlowOn) {
-                btnText.textContent = 'Сияние выключено';
-                heartIcon.textContent = '🖤';
-            }
+        let isGlowOn = !root.classList.contains('glow-off');
 
-            const updateGlowUI = (state) => {
-                isGlowOn = state;
-                if (isGlowOn) {
-                    document.body.classList.remove('glow-off');
-                    btnText.textContent = 'Сияние включено';
-                    heartIcon.textContent = '💜';
-                } else {
-                    document.body.classList.add('glow-off');
-                    btnText.textContent = 'Сияние выключено';
-                    heartIcon.textContent = '🖤';
-                }
-                if (localStorage.getItem('cookieAccepted') === 'true') {
-                    localStorage.setItem('glowState', isGlowOn);
-                }
-            };
+        const renderGlow = () => {
+            root.classList.toggle('glow-off', !isGlowOn);
+            btnText.textContent = isGlowOn ? 'Сияние включено' : 'Сияние выключено';
+            heartIcon.textContent = isGlowOn ? '💜' : '🖤';
+            toggleBtn.setAttribute('aria-pressed', String(isGlowOn));
+        };
 
-            if (cookieConsent === null) {
-                setTimeout(() => requestAnimationFrame(() => cookieBanner.classList.add('show')), 800);
-            }
+        const hideBanner = () => cookieBanner.classList.remove('show');
 
-            toggleBtn.addEventListener('click', () => updateGlowUI(!isGlowOn));
+        renderGlow();
 
-            document.getElementById('acceptCookie').addEventListener('click', () => {
-                localStorage.setItem('cookieAccepted', 'true');
-                localStorage.setItem('glowState', isGlowOn);
-                cookieBanner.classList.remove('show');
-            });
-
-            document.getElementById('declineCookie').addEventListener('click', () => {
-                localStorage.setItem('cookieAccepted', 'false');
-                localStorage.removeItem('glowState');
-                cookieBanner.classList.remove('show');
-            });
+        toggleBtn.addEventListener('click', () => {
+            isGlowOn = !isGlowOn;
+            renderGlow();
+            if (store.get(KEY_CONSENT) === 'true') store.set(KEY_GLOW, isGlowOn);
         });
+
+        document.getElementById('acceptCookie').addEventListener('click', () => {
+            store.set(KEY_CONSENT, 'true');
+            store.set(KEY_GLOW, isGlowOn);
+            hideBanner();
+        });
+
+        document.getElementById('declineCookie').addEventListener('click', () => {
+            store.set(KEY_CONSENT, 'false');
+            store.del(KEY_GLOW);
+            hideBanner();
+        });
+
+        if (store.get(KEY_CONSENT) === null) {
+            setTimeout(() => requestAnimationFrame(() => cookieBanner.classList.add('show')), 800);
+        }
     </script>
 </body>
 </html>
