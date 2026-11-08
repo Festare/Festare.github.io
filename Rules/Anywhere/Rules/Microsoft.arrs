@@ -89,6 +89,7 @@ name = Microsoft
 2, devopsms.com
 2, gotcosmos.com
 2, hdinsightservices.cn
+2, in.applicationinsights.azure.com
 2, management-azure-devices-int.net
 2, management-azure-devices-provisioning.cn
 2, management-azure-devices.cn
@@ -143,6 +144,8 @@ name = Microsoft
 2, azchcdns.com
 2, azure.microsoft.com
 2, azuremarketplace.microsoft.com
+2, dc.applicationinsights.azure.com
+2, live.applicationinsights.azure.com
 2, azure-dns.cn
 2, azure-dns.com
 2, azure-dns.info
@@ -169,6 +172,7 @@ name = Microsoft
 2, bingapistatistics.com
 2, bingparachute.com
 2, bingsandbox.com
+2, bingstatic.com
 2, bingvisualsearch.com
 2, bingworld.com
 2, bluehatnights.com
@@ -201,6 +205,7 @@ name = Microsoft
 2, githubcopilot.com
 2, copilot-proxy.githubusercontent.com
 2, copilot-workspace.githubnext.com
+2, production-copilot-host-westus.webpubsub.azure.com
 2, copilotprodattachments.blob.core.windows.net
 2, copilot-telemetry-service.githubusercontent.com
 2, copilot-telemetry.githubusercontent.com
@@ -322,6 +327,7 @@ name = Microsoft
 2, xamarin.com
 2, az764295.vo.msecnd.net
 2, bingsettingssearch.trafficmanager.net
+2, dc.services.visualstudio.com
 2, default.exp-tas.com
 2, developer.microsoft.com
 2, download.visualstudio.microsoft.com
@@ -331,6 +337,7 @@ name = Microsoft
 2, psg-int-centralus.cloudapp.net
 2, psg-int-eastus.cloudapp.net
 2, rink.hockeyapp.net
+2, rt.services.visualstudio.com
 2, vscode-sync-insiders.trafficmanager.net
 2, vscode-sync.trafficmanager.net
 2, vscode.blob.core.windows.net
@@ -485,6 +492,7 @@ name = Microsoft
 2, crmdynint-gcc.com
 2, crmdynint.com
 2, crossborderexpansion.com
+2, data.microsoft.com
 2, docs.com
 2, dynamics.cn
 2, dynamics.com
@@ -598,6 +606,7 @@ name = Microsoft
 2, msfteducation.ca
 2, msftncsi.com
 2, msftnet.org
+2, msftstatic.com
 2, msgamesresearch.com
 2, msgamestudios.com
 2, mshome.net
@@ -672,6 +681,7 @@ name = Microsoft
 2, tailwindtraders.com
 2, techhub.ms
 2, tfsallin.net
+2, telemetry.microsoft.com
 2, translatetheweb.com
 2, unlocklimitlesslearning.com
 2, userpxt.io
