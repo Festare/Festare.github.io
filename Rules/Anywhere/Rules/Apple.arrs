@@ -858,7 +858,6 @@ name = Apple
 2, icloud-isupport.com
 2, icloud-sandbox.com
 2, icloud.ch
-2, icloud.cn
 2, icloud.com
 2, icloud.com.cn
 2, icloud.de
@@ -980,6 +979,7 @@ name = Apple
 2, pd.itunes.apple.com
 2, play.itunes.apple.com
 2, podcasts.itunes.apple.com
+2, radio.itunes.apple.com
 2, se-edge.itunes.apple.com
 2, se2.itunes.apple.com
 2, search.itunes.apple.com
@@ -1689,13 +1689,15 @@ name = Apple
 2, communities.apple.com
 2, discussionschinese.apple.com
 2, fides-pol.apple.com
-2, gspe11-2-cn-ssl.ls.apple.com
 2, gspe12-cn-ssl.ls.apple.com
 2, gspe85-cn-ssl.ls.apple.com
 2, init.gc-lb.apple.com.akadns.net
 2, init.gc.apple.com
 2, km.support.apple.com
 2, maps.apple.com
+2, sh-pod1-smp-device.apple.com
+2, sh-pod2-smp-device.apple.com
+2, sh-pod3-smp-device.apple.com
 2, tj-pod1-smp-device.apple.com
 2, tj-pod2-smp-device.apple.com
 2, tj-pod3-smp-device.apple.com
@@ -1770,6 +1772,7 @@ name = Apple
 2, gsp4-cn.ls.apple.com.edgekey.net.globalredir.akadns.net
 2, gsp5-cn.ls.apple.com
 2, gsp85-cn-ssl.ls.apple.com
+2, gspe11-2-cn-ssl.ls.apple.com
 2, gspe19-2-cn-ssl.ls-apple.com.akadns.net
 2, gspe19-2-cn-ssl.ls.apple.com
 2, gspe19-cn-ssl.ls.apple.com
@@ -1809,7 +1812,6 @@ name = Apple
 2, seed-swallow.siri.apple.com
 2, seed.siri.apple.com
 2, sequoia.apple.com
-2, sh-pod2-smp-device.apple.com
 2, shazam-insights.cdn-apple.com
 2, smp-device-content.apple.com
 2, static.gc.apple.com
