@@ -1,0 +1,17 @@
+#!name=Reddit
+#!desc=Reddit
+#!author=@animefnik
+
+[Rule]
+DOMAIN-SUFFIX,redd.it,DIRECT
+DOMAIN-SUFFIX,reddit.app.link,DIRECT
+DOMAIN-SUFFIX,reddit.com,DIRECT
+DOMAIN-SUFFIX,redditblog.com,DIRECT
+DOMAIN-SUFFIX,reddithelp.com,DIRECT
+DOMAIN-SUFFIX,redditinc.com,DIRECT
+DOMAIN-SUFFIX,redditmail.com,DIRECT
+DOMAIN-SUFFIX,redditmedia.com,DIRECT
+DOMAIN-SUFFIX,redditspace.com,DIRECT
+DOMAIN-SUFFIX,redditstatic.com,DIRECT
+DOMAIN-SUFFIX,redditstatus.com,DIRECT
+DOMAIN-SUFFIX,reddit.map.fastly.net,DIRECT
