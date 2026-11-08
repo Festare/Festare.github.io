@@ -10,6 +10,7 @@ name = GitHub
 2, githubcopilot.com
 2, copilot-proxy.githubusercontent.com
 2, copilot-workspace.githubnext.com
+2, production-copilot-host-westus.webpubsub.azure.com
 2, copilotprodattachments.blob.core.windows.net
 2, copilot-telemetry-service.githubusercontent.com
 2, copilot-telemetry.githubusercontent.com
