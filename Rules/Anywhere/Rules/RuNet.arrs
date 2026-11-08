@@ -294,6 +294,7 @@ name = RuNet
 2, amediateka.ru
 2, beeline.tv
 2, ivi.ru
+2, ivi.tv
 2, ivicdn.tv
 2, premier.one
 2, smotreshka.tv
@@ -750,7 +751,7 @@ name = RuNet
 2, overclocker.ru
 2, overclocking.ru
 2, overi.ru
-2, xn--80AGLFYFK.xn--p1ai
+2, xn--80aglfyfk.xn--p1ai
 2, xn--80aglzei.xn--p1ai
 2, xn--b1agatafrepfl.xn--p1ai
 2, xn--b1agpaeoen.xn--p1ai
@@ -798,6 +799,7 @@ name = RuNet
 2, beget.cloud
 2, beget.com
 2, beget.de
+2, beget.email
 2, beget.hosting
 2, beget.pro
 2, beget.ru
@@ -865,6 +867,9 @@ name = RuNet
 2, drweb-av.es
 2, drweb-av.it
 2, drweb-av.pl
+2, ds-servers.com
+2, dsn.host
+2, dsncdn.net
 2, bananacall.ru
 2, beesbfl.ru
 2, beescrm.ru
@@ -2133,6 +2138,7 @@ name = RuNet
 2, flomni.com
 2, foto-planeta.com
 2, gazfond-pn.ru
+2, hostland.ru
 2, litres.ru
 2, meteoinfo.ru
 2, ngenix.net
@@ -2148,6 +2154,7 @@ name = RuNet
 2, taxsee.com
 2, vimu.tv
 2, yourgood.app
+2, zapishu.me
 2, corp.express
 2, express.ms
 2, public.express
