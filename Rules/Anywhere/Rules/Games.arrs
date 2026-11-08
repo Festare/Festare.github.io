@@ -142,7 +142,6 @@ name = Games
 2, gclouddolphin.com
 2, gcloudsdk.com
 2, gcloudsvcs.com
-2, gdtimg.com
 2, goto-game.com
 2, goto-game.mobi
 2, goto-game.net.cn
@@ -152,7 +151,6 @@ name = Games
 2, hkgcloudcs.com
 2, ihappystudio.cn
 2, ihappystudio.com
-2, in.th
 2, ludosuperstar.cn
 2, ludoworld.net
 2, mahjongai.net
@@ -219,6 +217,9 @@ name = Games
 2, anticheatexpert.com
 2, 17roco.com
 2, roco.qq.com
+2, tencentgames.com
+2, levelinfinite.com
+2, nikke-en.com
 2, tiancity.com
 2, tiancitycdn.com
 2, vrzwk.cn
@@ -360,6 +361,13 @@ name = Games
 2, silicagame.com
 2, vigorgame.com
 2, ylands.com
+2, cdpred.services
+2, cdprojekt.com
+2, cdprojekt.red
+2, cdprojektred.com
+2, cyberpunk.net
+2, playgwent.com
+2, thewitcher.com
 2, curseforge.com
 2, forgecdn.net
 2, cygames.jp
@@ -654,7 +662,6 @@ name = Games
 2, nexus-cdn.com
 2, nexusmods.com
 2, nikke-de.com
-2, nikke-en.com
 2, nikke-fr.com
 2, nikke-jp.com
 2, nikke-kr.com
@@ -803,6 +810,10 @@ name = Games
 2, playstation.net
 2, playstationnetwork.com
 2, sonyentertainmentnetwork.com
+2, projectmoon.studio
+2, limbuscompany.global
+2, limbuscompanyapi.com
+2, limbuscompanycdn.org
 2, sekai.colorfulpalette.org
 2, pjsekai.sega.jp
 2, kraftonde.com
@@ -931,6 +942,7 @@ name = Games
 2, steamconnecttest.com
 2, steamdeck.com
 2, steamgames.com
+2, steamos.cloud
 2, steampowered.com
 2, steamserver.net
 2, steamstatic.com
@@ -1067,6 +1079,7 @@ name = Games
 2, worldoftanks.com
 2, worldoftanks.eu
 2, worldofwarplanes.com
+2, worldofwarships.asia
 2, worldofwarships.com
 2, wotblitz.com
 2, wowsblitz.com
@@ -1128,6 +1141,7 @@ name = Games
 2, stargazer-games.com
 2, stellasora.global
 2, stellasora.jp
+2, amdgaming.com
 2, chunkbase.com
 2, dinopoloclub.com
 2, dodi-repacks.download
@@ -1137,6 +1151,7 @@ name = Games
 2, ficgs.com
 2, fitgirl-repacks.site
 2, game-repack.site
+2, gamebanana.com
 2, joinsquad.com
 2, loverslab.com
 2, minecraft.wiki
@@ -1154,8 +1169,14 @@ name = Games
 2, prismlauncher.org
 2, protondb.com
 2, quiltmc.org
+2, r2modman.com
 2, rayark.download
 2, rayark.net
+2, skinswap.com
 2, speedrun.com
 2, spigotmc.org
 2, steamdb.info
+2, steampeek.hu
+2, thunderstore.io
+2, thunderstore.org
+2, wplace.live
