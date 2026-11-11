@@ -48,7 +48,7 @@ proxy-groups:
     hidden: true
     lazy: true
     include-all-proxies: true
-    # exclude-filter: "США|Канада|Япония"
+    exclude-filter: "🔄 DIRECT"
 
 rules:
   - IP-CIDR,127.0.0.0/8,DIRECT,no-resolve
