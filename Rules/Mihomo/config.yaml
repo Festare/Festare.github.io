@@ -1,8 +1,8 @@
 mixed-port: 7890
 allow-lan: false
 mode: rule
-log-level: silent
-ipv6: true
+log-level: info
+ipv6: false
 tcp-concurrent: true
 unified-delay: true
 
@@ -11,13 +11,11 @@ profile:
 
 dns:
   enable: true
-  ipv6: true
+  ipv6: false
   enhanced-mode: fake-ip
   fake-ip-range: 198.18.0.1/16
-  # Серверы самих прокси резолвим напрямую
   proxy-server-nameserver:
     - https://8.8.8.8/dns-query#DIRECT
-  # Остальные DNS-запросы идут через прокси
   nameserver:
     - https://8.8.8.8/dns-query#🌐 Прокси
 
@@ -46,19 +44,18 @@ proxy-groups:
 
   - name: 🎲 Любой доступный сервер
     type: fallback
+    # exclude-filter: "США|Канада|Япония"
     url: "https://www.gstatic.com/generate_204"
     interval: 300
+    hidden: true
     lazy: true
     remnawave:
       include-proxies: true
       shuffle-proxies-order: true
 
 rules:
-  # Локальная сеть напрямую
   - IP-CIDR,127.0.0.0/8,DIRECT,no-resolve
   - IP-CIDR,10.0.0.0/8,DIRECT,no-resolve
   - IP-CIDR,172.16.0.0/12,DIRECT,no-resolve
   - IP-CIDR,192.168.0.0/16,DIRECT,no-resolve
-
-  # Всё остальное через выбранный прокси (или напрямую, если выбран «Без VPN»)
   - MATCH,🌐 Прокси
