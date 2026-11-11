@@ -1,8 +1,8 @@
 mixed-port: 7890
 allow-lan: false
 mode: rule
-log-level: info
-ipv6: false
+log-level: silent
+ipv6: true
 tcp-concurrent: true
 unified-delay: true
 
@@ -11,7 +11,7 @@ profile:
 
 dns:
   enable: true
-  ipv6: false
+  ipv6: true
   enhanced-mode: fake-ip
   fake-ip-range: 198.18.0.1/16
   proxy-server-nameserver:
