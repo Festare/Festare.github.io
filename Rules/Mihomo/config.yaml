@@ -29,7 +29,7 @@ tun:
     - any:53
 
 proxies:
-  - name: "🇷🇺 Без VPN"
+  - name: "🔄 DIRECT"
     type: direct
     udp: true
 
@@ -37,7 +37,7 @@ proxy-groups:
   - name: 🌐 Proxy
     type: select
     proxies:
-      - 🇷🇺 Без VPN
+      - 🔄 DIRECT
       - 🎲 Auto
     include-all-proxies: true
 
