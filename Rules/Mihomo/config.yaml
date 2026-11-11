@@ -29,19 +29,19 @@ tun:
     - any:53
 
 proxies:
-  - name: "🇷🇺 Без VPN"
+  - name: "DIRECT"
     type: direct
     udp: true
 
 proxy-groups:
-  - name: 🌐 Прокси
+  - name: 🌐 Proxy
     type: select
     proxies:
       - 🇷🇺 Без VPN
-      - 🎲 Любой доступный сервер
+      - 🎲 Auto
     include-all-proxies: true
 
-  - name: 🎲 Любой доступный сервер
+  - name: 🎲 Auto
     type: fallback
     url: "https://www.gstatic.com/generate_204"
     interval: 300
