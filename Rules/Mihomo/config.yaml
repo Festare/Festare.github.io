@@ -17,7 +17,7 @@ dns:
   proxy-server-nameserver:
     - https://8.8.8.8/dns-query#DIRECT
   nameserver:
-    - https://8.8.8.8/dns-query#🌐 Прокси
+    - https://8.8.8.8/dns-query#🌐 Proxy
 
 tun:
   enable: true
@@ -55,4 +55,4 @@ rules:
   - IP-CIDR,10.0.0.0/8,DIRECT,no-resolve
   - IP-CIDR,172.16.0.0/12,DIRECT,no-resolve
   - IP-CIDR,192.168.0.0/16,DIRECT,no-resolve
-  - MATCH,🌐 Прокси
+  - MATCH,🌐 Proxy
