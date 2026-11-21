@@ -1688,7 +1688,6 @@ name = RuNet
 2, yandexgo.com
 2, yandexlyceum.ru
 2, yandexwebcache.net
-2, yandexwebcache.org
 2, yango-b2b.com
 2, yango-team.com
 2, yango-tech.com
@@ -1705,6 +1704,7 @@ name = RuNet
 2, yastat.net
 2, yastatic-net.ru
 2, yastatic.net
+2, yb-payment.ru
 2, yccdn.ru
 2, ydb.tech
 2, yndx.net
@@ -1943,6 +1943,7 @@ name = RuNet
 2, vtbbo.ru
 2, vtbglobalperspectives.com
 2, xn--90ab2c.xn--p1ai
+2, bank.yandex.ru
 2, credit-zenit.ru
 2, zenit-card.ru
 2, zenit.ru
@@ -1977,7 +1978,6 @@ name = RuNet
 2, bancaintesa.ru
 2, bank-arzamas.ru
 2, bank-hlynov.ru
-2, bank.yandex.ru
 2, bankermak.ru
 2, bankofkazan.ru
 2, bankperm.ru
@@ -2154,6 +2154,7 @@ name = RuNet
 2, srv-hub.org
 2, t1.cloud
 2, taxsee.com
+2, vigo.tech
 2, vimu.tv
 2, yourgood.app
 2, zapishu.me
@@ -2169,4 +2170,3 @@ name = RuNet
 2, targetads.io
 2, terratraf.com
 2, terratraf.io
-
