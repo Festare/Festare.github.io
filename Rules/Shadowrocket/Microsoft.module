@@ -323,9 +323,11 @@ DOMAIN-SUFFIX,vscodeedu.com,DIRECT
 DOMAIN-SUFFIX,xamarin.com,DIRECT
 DOMAIN,az764295.vo.msecnd.net,DIRECT
 DOMAIN,bingsettingssearch.trafficmanager.net,DIRECT
+DOMAIN,builds.dotnet.microsoft.com,DIRECT
 DOMAIN,dc.services.visualstudio.com,DIRECT
 DOMAIN,default.exp-tas.com,DIRECT
 DOMAIN,developer.microsoft.com,DIRECT
+DOMAIN,dotnetcli.trafficmanager.net,DIRECT
 DOMAIN,download.visualstudio.microsoft.com,DIRECT
 DOMAIN,dtlgalleryint.cloudapp.net,DIRECT
 DOMAIN,packages.microsoft.com,DIRECT
@@ -334,9 +336,11 @@ DOMAIN,psg-int-centralus.cloudapp.net,DIRECT
 DOMAIN,psg-int-eastus.cloudapp.net,DIRECT
 DOMAIN,rink.hockeyapp.net,DIRECT
 DOMAIN,rt.services.visualstudio.com,DIRECT
+DOMAIN,sundry-star-net-geo.trafficmanager.net,DIRECT
 DOMAIN,vscode-sync-insiders.trafficmanager.net,DIRECT
 DOMAIN,vscode-sync.trafficmanager.net,DIRECT
 DOMAIN,vscode.blob.core.windows.net,DIRECT
+DOMAIN,vscode.download.prss.microsoft.com,DIRECT
 DOMAIN,vscode.search.windows.net,DIRECT
 DOMAIN,vsmarketplacebadge.apphb.com,DIRECT
 DOMAIN-SUFFIX,msocsp.com,DIRECT
@@ -761,6 +765,5 @@ DOMAIN,surface.download.prss.microsoft.com,DIRECT
 DOMAIN,surface.downloads.prss.microsoft.com,DIRECT
 DOMAIN,vlportal.download.prss.microsoft.com,DIRECT
 DOMAIN,volic.download.prss.microsoft.com,DIRECT
-DOMAIN,vscode.download.prss.microsoft.com,DIRECT
 DOMAIN,vz.download.prss.microsoft.com,DIRECT
 DOMAIN,windbg.download.prss.microsoft.com,DIRECT
