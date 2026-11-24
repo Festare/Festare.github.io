@@ -1,6 +1,6 @@
 #!name=Games
 #!desc=Games
-#!author=@animefnik
+#!author=
 
 [Rule]
 DOMAIN-SUFFIX,3304399.com,DIRECT
@@ -80,6 +80,8 @@ DOMAIN-SUFFIX,biligame.net,DIRECT
 DOMAIN-SUFFIX,sl916.com,DIRECT
 DOMAIN-SUFFIX,17173.com,DIRECT
 DOMAIN-SUFFIX,17173cdn.com,DIRECT
+DOMAIN-SUFFIX,1y.com,DIRECT
+DOMAIN-SUFFIX,1ycdn.com,DIRECT
 DOMAIN-SUFFIX,changyou.com,DIRECT
 DOMAIN-SUFFIX,cy.com,DIRECT
 DOMAIN-SUFFIX,playcool.com,DIRECT
@@ -92,6 +94,24 @@ DOMAIN-SUFFIX,herogame.com,DIRECT
 DOMAIN-SUFFIX,heroesports.com,DIRECT
 DOMAIN-SUFFIX,shyxhy.com,DIRECT
 DOMAIN-SUFFIX,yingxiong.com,DIRECT
+DOMAIN-SUFFIX,hgto.cc,DIRECT
+DOMAIN-SUFFIX,hypergryph.cn,DIRECT
+DOMAIN-SUFFIX,hypergryph.com,DIRECT
+DOMAIN-SUFFIX,hypergryph.com.cn,DIRECT
+DOMAIN-SUFFIX,hypergryph.net,DIRECT
+DOMAIN-SUFFIX,hycdn.cn,DIRECT
+DOMAIN-SUFFIX,hycdn.com,DIRECT
+DOMAIN-SUFFIX,arknights.com,DIRECT
+DOMAIN-SUFFIX,arknights.com.cn,DIRECT
+DOMAIN-SUFFIX,skland.com,DIRECT
+DOMAIN-SUFFIX,skland.net,DIRECT
+DOMAIN-SUFFIX,octavedge.com,DIRECT
+DOMAIN-SUFFIX,gryphline.cn,DIRECT
+DOMAIN-SUFFIX,gryphline.com,DIRECT
+DOMAIN-SUFFIX,gryphline.com.cn,DIRECT
+DOMAIN-SUFFIX,gryphline.net,DIRECT
+DOMAIN-SUFFIX,hg-cdn.com,DIRECT
+DOMAIN-SUFFIX,skport.com,DIRECT
 DOMAIN-SUFFIX,kurobbs.com,DIRECT
 DOMAIN-SUFFIX,kurogame-service.com,DIRECT
 DOMAIN-SUFFIX,kurogame.com,DIRECT
@@ -288,6 +308,10 @@ DOMAIN-SUFFIX,twyxh.com,DIRECT
 DOMAIN-SUFFIX,zx.com,DIRECT
 DOMAIN-SUFFIX,tgpro.top,DIRECT
 DOMAIN-SUFFIX,tgprocs.net,DIRECT
+DOMAIN-SUFFIX,wahlap.net,DIRECT
+DOMAIN-SUFFIX,tgk-wcaime.wahlap.com,DIRECT
+DOMAIN-SUFFIX,maimai.wahlap.com,DIRECT
+DOMAIN-SUFFIX,chunithm.wahlap.com,DIRECT
 DOMAIN-SUFFIX,winegame.net,DIRECT
 DOMAIN-SUFFIX,wo1wan.com,DIRECT
 DOMAIN-SUFFIX,ycgame.com,DIRECT
@@ -366,11 +390,12 @@ DOMAIN-SUFFIX,playgwent.com,DIRECT
 DOMAIN-SUFFIX,thewitcher.com,DIRECT
 DOMAIN-SUFFIX,curseforge.com,DIRECT
 DOMAIN-SUFFIX,forgecdn.net,DIRECT
-DOMAIN-SUFFIX,cygames.jp,DIRECT
 DOMAIN-SUFFIX,cygames.co.jp,DIRECT
+DOMAIN-SUFFIX,cygames.com,DIRECT
+DOMAIN-SUFFIX,cygames.jp,DIRECT
 DOMAIN-SUFFIX,worldflipper.jp,DIRECT
-DOMAIN-SUFFIX,worldflipper.akamaized.net,DIRECT
 DOMAIN-SUFFIX,umamusume.akamaized.net,DIRECT
+DOMAIN-SUFFIX,worldflipper.akamaized.net,DIRECT
 DOMAIN-SUFFIX,dawngate.com,DIRECT
 DOMAIN-SUFFIX,eastore.com,DIRECT
 DOMAIN-SUFFIX,lordofultima.com,DIRECT
