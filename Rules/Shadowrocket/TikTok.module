@@ -1,6 +1,6 @@
 #!name=TikTok
 #!desc=TikTok
-#!author=@animefnik
+#!author=
 
 [Rule]
 DOMAIN-SUFFIX,bytedapm.com,DIRECT
