@@ -3,5 +3,7 @@
 #support-url: https://t.me/animefnik
 #profile-web-page-url: https://t.me/animefnik
 #announce: 🟢Онлайн✅
-vless://d04a4dd9-f7d7-40c4-9775-a18d3cc41161@45.8.250.247:16443/?security=none#🇷🇺%20Россия%201️⃣
-vless://60d00d50-ee1b-478d-8ccc-acfedcc1857e@45.86.60.35:16443?encryption=none&type=tcp&security=none#🇪🇪%20Эстония%201️⃣
+vless://d04a4dd9-f7d7-40c4-9775-a18d3cc41161@45.8.250.247:16443/?security=none#🇷🇺%20RU%201
+vless://00094b43-04c7-464b-a3d0-72da5fe0e68b@141.133.202.12:1443/?security=reality&type=raw&sni=s3.yandex.net&pbk=OPBCa6EpdUuRrZm44e2JQbEFoXLcj5-25gm0bi3zzWA&sid=76f547961a8ca082&fp=firefox#🇷🇺%20RU%201%20[AI]
+vless://111a64ce-3aaf-4154-9ee9-7bcc0e214d7c@141.133.202.12:1443/?security=reality&type=raw&sni=s3.yandex.net&pbk=OPBCa6EpdUuRrZm44e2JQbEFoXLcj5-25gm0bi3zzWA&sid=76f547961a8ca082&fp=firefox#🇷🇺%20RU%202%20[AI]
+vless://4dea9141-914b-4a25-86b4-c5f98616cb8d@141.133.202.12:1443/?security=reality&type=raw&sni=s3.yandex.net&pbk=OPBCa6EpdUuRrZm44e2JQbEFoXLcj5-25gm0bi3zzWA&sid=76f547961a8ca082&fp=firefox#🇷🇺%20RU%203%20[AI]
